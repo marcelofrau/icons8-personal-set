@@ -1,6 +1,6 @@
 # Icon Catalog & Missing Icons
 
-> **Total: 454 icons** — all in **3d-fluency** style unless marked 2d-fluency
+> **Total: 613 icons** — Icons8 (3d-fluency + fluency) + OpenMoji emojis
 
 ## How to Download from Icons8
 

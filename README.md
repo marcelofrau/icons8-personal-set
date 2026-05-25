@@ -20,11 +20,11 @@
 # Icons8 Personal Icon Set
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Icons](https://img.shields.io/badge/icons-401-3d82e6?logo=icons8&logoColor=white)](missing-icons.md)
+[![Icons](https://img.shields.io/badge/icons-613-3d82e6?logo=icons8&logoColor=white)](icon-catalog.md)
 [![Styles](https://img.shields.io/badge/styles-3d--fluency%20%7C%20fluency-ff6b6b)]()
 [![Sizes](https://img.shields.io/badge/sizes-16%E2%80%93256px%20%7C%20.ico-00c853)]()
 
-A ready-to-use **desktop icon library** built from [Icons8](https://icons8.com) — **401 icons** in **3d-fluency** and **fluency** styles, available as multi-size PNGs (16–256px) and Windows `.ico` files.
+A ready-to-use **desktop icon library** — **613 icons** in **3d-fluency** and **fluency** styles (plus OpenMoji emojis), available as multi-size PNGs (16–256px) and Windows `.ico` files.
 
 ## Purpose
 
@@ -37,19 +37,40 @@ Use them as:
 - **View modes** (list, details, thumbnails, icons, …)
 - **Text editing controls** (bold, italic, align, numbered list, …)
 - **Storage / drives** (USB, SSD, HDD, CD, Blu-ray, SD, …)
+- **Applications / brands** (Discord, GitHub, Spotify, Facebook, …)
+- **Emojis / expressions** (smiling, angry, thumbs-up, animals, food, …)
+- **Gaming / consoles** (PlayStation, Xbox, Steam, controllers, …)
+- **Hardware / devices** (smartphones, monitors, printers, keyboards, …)
+- **Tools / DIY** (drill, saw, wrench, pliers, ruler, …)
 
 Every icon has **7 size variants** (50, 100, 16, 32, 48, 128, 256) and a multi-resolution `.ico` file, so you can drop them directly into any desktop app without manual conversion.
+
+## Sources & Attribution
+
+This icon library is an aggregate of icons from multiple freely-available sources:
+
+| Source | Style | Count | License |
+|---|---|---|---|
+| [Icons8](https://icons8.com) — 3d-fluency | 3D rendered | 486 icons | [Free with attribution](https://icons8.com/license) |
+| [Icons8](https://icons8.com) — fluency | Flat 2D | 127 icons | [Free with attribution](https://icons8.com/license) |
+| [OpenMoji](https://openmoji.org) — color | Emoji | 39 icons | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+
+**Icons8** requires attribution when used for free. If you use this library in your project, please include a credit line such as: *"Icons by Icons8 (https://icons8.com)"*.
+
+**OpenMoji** emojis are licensed under CC BY-SA 4.0. Attribution: *"Emojis by OpenMoji (https://openmoji.org)"*.
 
 ## Stats
 
 | | Count |
 |---|---|
-| 3d-fluency icons | 327 |
-| fluency icons | 127 |
-| Total `.ico` files | 454 |
+| 3d-fluency icons (Icons8) | 486 |
+| fluency icons (Icons8) | 127 |
+| OpenMoji emojis | 39 |
+| Total icons | 613 |
 | Size variants | 7 (50, 100, 16, 32, 48, 128, 256) |
-| Total PNG files | 3,178 |
-| Total PNG files | 2,807 |
+| Total `.ico` files | 613 |
+| Total PNG files | 4,291 |
+| Icon categories | 27 |
 
 ## Structure
 
@@ -63,19 +84,21 @@ Every icon has **7 size variants** (50, 100, 16, 32, 48, 128, 256) and a multi-r
 256x256/          256x256 PNGs
 ico/              Multi-resolution .ico (16+32+48+128+256)
 process-icons.py  Auto-processing pipeline
-missing-icons.md  Full icon catalog by category
+generate-catalog.py  Icon catalog generator
+icon-catalog.md   Full catalog with previews
+missing-icons.md  Icons grouped by category
 PIPELINE.md       Technical pipeline docs
 ```
 
 ## Naming Convention
 
-| Pattern | Example | Style |
-|---|---|---|
-| `icons8-<name>-3d-<size>.png` | `icons8-pdf-3d-50.png` | 3d-fluency |
-| `icons8-<name>-2d-<size>.png` | `icons8-zip-2d-50.png` | fluency |
-| `icons8-<name>-<size>.png` | `icons8-about-50.png` | legacy (273 originals) |
-| `icons8-<name>-3d.ico` | `icons8-pdf-3d.ico` | 3d-fluency .ico |
-| `icons8-<name>-2d.ico` | `icons8-zip-2d.ico` | fluency .ico |
+| Pattern | Example | Style | Source |
+|---|---|---|---|
+| `icons8-<name>-3d-<size>.png` | `icons8-pdf-3d-50.png` | 3d-fluency | Icons8 |
+| `icons8-<name>-2d-<size>.png` | `icons8-zip-2d-50.png` | fluency | Icons8 |
+| `icons8-<name>-<size>.png` | `icons8-about-50.png` | 3d-fluency | Icons8 (original) |
+| `openmoji-<name>-<size>.png` | `openmoji-video-game-50.png` | emoji | OpenMoji |
+| `icons8-<name>-<style>.ico` | `icons8-pdf-3d.ico` | multi-res | Generated |
 
 ## Requirements
 
@@ -93,4 +116,4 @@ Scans `50x50/` and `100x100/` for new PNGs, generates all sizes with Lanczos, op
 
 ## License
 
-MIT
+MIT — the code and pipeline are MIT. The icon assets themselves are subject to their respective licenses (Icons8: free with attribution; OpenMoji: CC BY-SA 4.0).
