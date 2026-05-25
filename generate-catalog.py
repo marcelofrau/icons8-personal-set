@@ -298,35 +298,31 @@ def main():
     print(f"Total icons: {len(icons)}")
 
     # --- AI-friendly catalog ---
+    sizes = ["16", "32", "48", "128", "256"]
     md_ai = []
     md_ai.append("# Icon Catalog (AI-friendly)\n")
     md_ai.append(f"Total icons: {len(icons)}")
-    md_ai.append(f"PNG sizes: 16, 32, 48, 128, 256")
-    md_ai.append(f"Source sizes: 50, 100")
-    md_ai.append(f"Archive format: .ico (16+32+48+128+256)\n")
-    md_ai.append("File naming:")
-    md_ai.append("  icons8-<name>-3d-<size>.png   (Icons8 3d-fluency)")
-    md_ai.append("  icons8-<name>-2d-<size>.png   (Icons8 fluency)")
-    md_ai.append("  icons8-<name>-<size>.png      (Icons8 legacy alias, 3d-fluency style)")
-    md_ai.append("  fluentui-<name>-<size>.png    (FluentUI / Twemoji emoji)")
-    md_ai.append("  retro-<name>-<size>.png       (KyleBing retro console)\n")
-    md_ai.append("Example:")
-    md_ai.append("  icons8-pdf-3d")
-    md_ai.append("  -> 16x16/icons8-pdf-3d-16.png")
-    md_ai.append("  -> 32x32/icons8-pdf-3d-32.png")
-    md_ai.append("  -> 48x48/icons8-pdf-3d-48.png")
-    md_ai.append("  -> 128x128/icons8-pdf-3d-128.png")
-    md_ai.append("  -> 256x256/icons8-pdf-3d-256.png")
-    md_ai.append("  -> 50x50/icons8-pdf-3d-50.png (source)")
-    md_ai.append("  -> 100x100/icons8-pdf-3d-100.png (source)")
-    md_ai.append("  -> ico/icons8-pdf-3d.ico\n")
+    md_ai.append(f"Sizes: {', '.join(sizes)}px + source sizes 50, 100px")
+    md_ai.append(f"Archive: .ico ({'+'.join(sizes)})\n")
+    md_ai.append("Each entry below is the icon filename stem (without size suffix).")
+    md_ai.append("To locate the files, append the desired size and extension:")
+    md_ai.append("")
+    md_ai.append("  <entry>         -> <dir>/<entry>-<size>.png")
+    md_ai.append("  icons8-pdf-3d  -> 32x32/icons8-pdf-3d-32.png")
+    md_ai.append("                 -> ico/icons8-pdf-3d.ico")
+    md_ai.append("")
+    md_ai.append("Available directories: 16x16/, 32x32/, 48x48/, 128x128/,")
+    md_ai.append("256x256/, 50x50/ (source), 100x100/ (source), ico/")
+    md_ai.append("")
+    md_ai.append("Prefixes: icons8-*-3d (Icons8 3d-fluency), icons8-*-2d (fluency),")
+    md_ai.append("fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)")
+    md_ai.append("")
 
     for cat in sorted(by_cat.keys(), key=sort_key):
         items = by_cat[cat]
         md_ai.append(f"## {cat}")
         for base, name, style in items:
-            short = icon_key(name)
-            md_ai.append(f"- {short} ({style})")
+            md_ai.append(f"- {base}")
         md_ai.append("")
 
     Path(OUTPUT_AI).write_text("\n".join(md_ai) + "\n", encoding="utf-8")

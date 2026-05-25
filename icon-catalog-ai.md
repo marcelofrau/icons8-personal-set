@@ -1,703 +1,697 @@
 # Icon Catalog (AI-friendly)
 
 Total icons: 628
-PNG sizes: 16, 32, 48, 128, 256
-Source sizes: 50, 100
-Archive format: .ico (16+32+48+128+256)
+Sizes: 16, 32, 48, 128, 256px + source sizes 50, 100px
+Archive: .ico (16+32+48+128+256)
 
-File naming:
-  icons8-<name>-3d-<size>.png   (Icons8 3d-fluency)
-  icons8-<name>-2d-<size>.png   (Icons8 fluency)
-  icons8-<name>-<size>.png      (Icons8 legacy alias, 3d-fluency style)
-  fluentui-<name>-<size>.png    (FluentUI / Twemoji emoji)
-  retro-<name>-<size>.png       (KyleBing retro console)
+Each entry below is the icon filename stem (without size suffix).
+To locate the files, append the desired size and extension:
 
-Example:
-  icons8-pdf-3d
-  -> 16x16/icons8-pdf-3d-16.png
-  -> 32x32/icons8-pdf-3d-32.png
-  -> 48x48/icons8-pdf-3d-48.png
-  -> 128x128/icons8-pdf-3d-128.png
-  -> 256x256/icons8-pdf-3d-256.png
-  -> 50x50/icons8-pdf-3d-50.png (source)
-  -> 100x100/icons8-pdf-3d-100.png (source)
-  -> ico/icons8-pdf-3d.ico
+  <entry>         -> <dir>/<entry>-<size>.png
+  icons8-pdf-3d  -> 32x32/icons8-pdf-3d-32.png
+                 -> ico/icons8-pdf-3d.ico
+
+Available directories: 16x16/, 32x32/, 48x48/, 128x128/,
+256x256/, 50x50/ (source), 100x100/ (source), ico/
+
+Prefixes: icons8-*-3d (Icons8 3d-fluency), icons8-*-2d (fluency),
+fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 
 ## Applications / Brands
-- 3d-claude-ai-logo (3d-fluency)
-- 3d-perplexity-ai-logo (3d-fluency)
-- amazon (3d-fluency)
-- android (fluency)
-- apple-logo (3d-fluency)
-- behance (3d-fluency)
-- blue-windows-logo (3d-fluency)
-- bot (3d-fluency)
-- chatbot (3d-fluency)
-- chatgpt (3d-fluency)
-- chrome (3d-fluency)
-- deepseek (3d-fluency)
-- discord (3d-fluency)
-- docker (fluency)
-- dribbble (fluency)
-- facebook-logo (3d-fluency)
-- figma (fluency)
-- github (3d-fluency)
-- github-copilot (3d-fluency)
-- gmail-logo (3d-fluency)
-- instagram-logo (3d-fluency)
-- java (3d-fluency)
-- linkedin (3d-fluency)
-- notion (fluency)
-- pinterest (3d-fluency)
-- python (3d-fluency)
-- raspberry (3d-fluency)
-- reddit (3d-fluency)
-- snapchat (3d-fluency)
-- spotify-logo (3d-fluency)
-- telegram (3d-fluency)
-- tiktok (3d-fluency)
-- twitch (3d-fluency)
-- twitter (fluency)
-- whatsapp-logo (3d-fluency)
-- windows-10 (3d-fluency)
-- winrar (3d-fluency)
-- youtube (3d-fluency)
+- icons8-3d-claude-ai-logo
+- icons8-3d-perplexity-ai-logo
+- icons8-amazon
+- icons8-android-2d
+- icons8-apple-logo-3d
+- icons8-behance-3d
+- icons8-blue-windows-logo
+- icons8-bot
+- icons8-chatbot
+- icons8-chatgpt
+- icons8-chrome
+- icons8-deepseek
+- icons8-discord-3d
+- icons8-docker-2d
+- icons8-dribbble-2d
+- icons8-facebook-logo
+- icons8-figma-2d
+- icons8-github
+- icons8-github-copilot
+- icons8-gmail-logo
+- icons8-instagram-logo
+- icons8-java
+- icons8-linkedin
+- icons8-notion-2d
+- icons8-pinterest-3d
+- icons8-python
+- icons8-raspberry
+- icons8-reddit-3d
+- icons8-snapchat-3d
+- icons8-spotify-logo
+- icons8-telegram
+- icons8-tiktok-3d
+- icons8-twitch-3d
+- icons8-twitter-2d
+- icons8-whatsapp-logo
+- icons8-windows-10-3d
+- icons8-winrar
+- icons8-youtube
 
 ## Audio
-- headphones (fluency)
-- loudspeaker (3d-fluency)
-- microphone (3d-fluency)
-- subwoofer (3d-fluency)
+- icons8-headphones-2d
+- icons8-loudspeaker-3d
+- icons8-microphone-3d
+- icons8-subwoofer-3d
 
 ## Communication / Social
-- chat (3d-fluency)
-- chat-message (3d-fluency)
-- comments (3d-fluency)
-- disconnected (3d-fluency)
+- icons8-chat
+- icons8-chat-message
+- icons8-comments
+- icons8-disconnected
 
 ## Design / Creative
-- color-palette (3d-fluency)
-- design (3d-fluency)
-- paint-brush (3d-fluency)
-- paint-palette (3d-fluency)
-- picture (3d-fluency)
+- icons8-color-palette
+- icons8-design
+- icons8-paint-brush
+- icons8-paint-palette
+- icons8-picture
 
 ## Development / Code
-- code (3d-fluency)
-- command-line (3d-fluency)
-- programming (3d-fluency)
-- source-code (3d-fluency)
+- icons8-code
+- icons8-command-line
+- icons8-programming
+- icons8-source-code
 
 ## File / Folder Operations
-- add-file (3d-fluency)
-- add-folder (3d-fluency)
-- add-image (3d-fluency)
-- copy-link (fluency)
-- copy-to-folder (3d-fluency)
-- delete-folder (3d-fluency)
-- delete-link (3d-fluency)
-- documents-folder (3d-fluency)
-- documents-folder-v (3d-fluency)
-- download-folder-v (3d-fluency)
-- downloads-folder (3d-fluency)
-- folder (3d-fluency)
-- folder-tree (fluency)
-- group-folder (3d-fluency)
-- history-folder (3d-fluency)
-- invert-selection (fluency)
-- move-to-folder (3d-fluency)
-- music-folder (3d-fluency)
-- new-document (fluency)
-- opened-folder (3d-fluency)
-- shared-folder (3d-fluency)
+- icons8-add-file
+- icons8-add-folder
+- icons8-add-image
+- icons8-copy-link-2d
+- icons8-copy-to-folder
+- icons8-delete-folder
+- icons8-delete-link
+- icons8-documents-folder
+- icons8-documents-folder-v
+- icons8-download-folder-v
+- icons8-downloads-folder
+- icons8-folder
+- icons8-folder-tree-2d
+- icons8-group-folder
+- icons8-history-folder
+- icons8-invert-selection-2d
+- icons8-move-to-folder-3d
+- icons8-music-folder
+- icons8-new-document-2d
+- icons8-opened-folder
+- icons8-shared-folder
 
 ## File Operations
-- approval (3d-fluency)
-- approve (fluency)
-- categorize (fluency)
-- check (fluency)
-- checked (fluency)
-- edit-file (fluency)
-- edit-property (3d-fluency)
-- filter (3d-fluency)
-- group-by (fluency)
-- lock (3d-fluency)
-- move (fluency)
-- move-down (fluency)
-- move-up (fluency)
-- property (fluency)
-- protect (3d-fluency)
-- rename (fluency)
-- sort-by (fluency)
-- sorting (3d-fluency)
-- split (fluency)
-- tag (fluency)
-- test (fluency)
+- icons8-approval-3d
+- icons8-approve-2d
+- icons8-categorize-2d
+- icons8-check-2d
+- icons8-checked-2d
+- icons8-edit-file-2d
+- icons8-edit-property-3d
+- icons8-filter-3d
+- icons8-group-by-2d
+- icons8-lock-3d
+- icons8-move-2d
+- icons8-move-down-2d
+- icons8-move-up-2d
+- icons8-property-2d
+- icons8-protect-3d
+- icons8-rename-2d
+- icons8-sort-by-2d
+- icons8-sorting-3d
+- icons8-split-2d
+- icons8-tag-2d
+- icons8-test-2d
 
 ## File Types
-- apk (fluency)
-- archive (3d-fluency)
-- bat (3d-fluency)
-- code-file (fluency)
-- compress (fluency)
-- csv (fluency)
-- database (3d-fluency)
-- dll (fluency)
-- document (3d-fluency)
-- event-log (fluency)
-- exe (fluency)
-- file (fluency)
-- image-file (fluency)
-- iso (fluency)
-- json (fluency)
-- logbook (fluency)
-- mp3 (fluency)
-- music (3d-fluency)
-- music-album (fluency)
-- notepad (3d-fluency)
-- otf (fluency)
-- pdf (3d-fluency)
-- powershell (fluency)
-- presentation (3d-fluency)
-- rar (fluency)
-- save-as (3d-fluency)
-- settings (fluency)
-- sql (fluency)
-- table (3d-fluency)
-- tar (fluency)
-- text (fluency)
-- ttf (fluency)
-- txt (fluency)
-- video-file (fluency)
-- wav (fluency)
-- zip (fluency)
+- icons8-apk-2d
+- icons8-archive-3d
+- icons8-bat-3d
+- icons8-code-file-2d
+- icons8-compress-2d
+- icons8-csv-2d
+- icons8-database-3d
+- icons8-dll-2d
+- icons8-document-3d
+- icons8-event-log-2d
+- icons8-exe-2d
+- icons8-file-2d
+- icons8-image-file-2d
+- icons8-iso-2d
+- icons8-json-2d
+- icons8-logbook-2d
+- icons8-mp3-2d
+- icons8-music-3d
+- icons8-music-album-2d
+- icons8-notepad-3d
+- icons8-otf-2d
+- icons8-pdf-3d
+- icons8-powershell-2d
+- icons8-presentation-3d
+- icons8-rar-2d
+- icons8-save-as-3d
+- icons8-settings-2d
+- icons8-sql-2d
+- icons8-table-3d
+- icons8-tar-2d
+- icons8-text-2d
+- icons8-ttf-2d
+- icons8-txt-2d
+- icons8-video-file-2d
+- icons8-wav-2d
+- icons8-zip-2d
 
 ## Gaming / Console
-- fluentui-chess-pawn (fluentui-emoji)
-- fluentui-club (fluentui-emoji)
-- fluentui-diamond-suit (fluentui-emoji)
-- fluentui-flower-cards (fluentui-emoji)
-- fluentui-game-die (fluentui-emoji)
-- fluentui-heart-suit (fluentui-emoji)
-- fluentui-joker (fluentui-emoji)
-- fluentui-joystick-emoji (fluentui-emoji)
-- fluentui-mahjong (fluentui-emoji)
-- fluentui-puzzle-piece (fluentui-emoji)
-- fluentui-slot-machine (fluentui-emoji)
-- fluentui-spade (fluentui-emoji)
-- fluentui-video-game (fluentui-emoji)
-- atari (fluency)
-- cards (3d-fluency)
-- console (3d-fluency)
-- controller (3d-fluency)
-- dice (3d-fluency)
-- game-controller (3d-fluency)
-- gaming (fluency)
-- joystick (3d-fluency)
-- nintendo-switch (fluency)
-- playstation (3d-fluency)
-- playstation-5 (fluency)
-- ps2 (fluency)
-- ps5 (fluency)
-- psp (fluency)
-- puzzle (3d-fluency)
-- steam (3d-fluency)
-- steam-circled (3d-fluency)
-- steam-deck (fluency)
-- virtual-reality (3d-fluency)
-- xbox (fluency)
-- xbox-controller (fluency)
-- xbox-series-s (fluency)
-- xbox-series-x (fluency)
-- retro-dreamcast (retro)
-- retro-game-boy (retro)
-- retro-game-boy-advance (retro)
-- retro-game-boy-color (retro)
-- retro-game-gear (retro)
-- retro-gamecube (retro)
-- retro-master-system (retro)
-- retro-neogeo (retro)
-- retro-nes (retro)
-- retro-nintendo-64 (retro)
-- retro-nintendo-ds (retro)
-- retro-pc-engine (retro)
-- retro-sega-genesis (retro)
-- retro-sega-saturn (retro)
-- retro-snes (retro)
-- retro-virtual-boy (retro)
+- fluentui-chess-pawn
+- fluentui-club
+- fluentui-diamond-suit
+- fluentui-flower-cards
+- fluentui-game-die
+- fluentui-heart-suit
+- fluentui-joker
+- fluentui-joystick-emoji
+- fluentui-mahjong
+- fluentui-puzzle-piece
+- fluentui-slot-machine
+- fluentui-spade
+- fluentui-video-game
+- icons8-atari-2d
+- icons8-cards-3d
+- icons8-console-3d
+- icons8-controller-3d
+- icons8-dice-3d
+- icons8-game-controller
+- icons8-gaming-2d
+- icons8-joystick
+- icons8-nintendo-switch-2d
+- icons8-playstation-3d
+- icons8-playstation-5-2d
+- icons8-ps2-2d
+- icons8-ps5-2d
+- icons8-psp-2d
+- icons8-puzzle-3d
+- icons8-steam-3d
+- icons8-steam-circled
+- icons8-steam-deck-2d
+- icons8-virtual-reality-3d
+- icons8-xbox-2d
+- icons8-xbox-controller-2d
+- icons8-xbox-series-s-2d
+- icons8-xbox-series-x-2d
+- retro-dreamcast
+- retro-game-boy
+- retro-game-boy-advance
+- retro-game-boy-color
+- retro-game-gear
+- retro-gamecube
+- retro-master-system
+- retro-neogeo
+- retro-nes
+- retro-nintendo-64
+- retro-nintendo-ds
+- retro-pc-engine
+- retro-sega-genesis
+- retro-sega-saturn
+- retro-snes
+- retro-virtual-boy
 
 ## Hardware / Devices
-- 3d-printer (3d-fluency)
-- android-tablet (fluency)
-- bluetooth (3d-fluency)
-- camcorder (3d-fluency)
-- camera (3d-fluency)
-- cell-phone (fluency)
-- device-manager (3d-fluency)
-- ipad (fluency)
-- iphone (fluency)
-- keyboard-1 (3d-fluency)
-- keyboard (3d-fluency)
-- laptop (3d-fluency)
-- laptop-coding (3d-fluency)
-- lcd (fluency)
-- monitor (3d-fluency)
-- motherboard (3d-fluency)
-- multiple-devices (3d-fluency)
-- nest (3d-fluency)
-- office-phone (3d-fluency)
-- pos-terminal (3d-fluency)
-- radio-waves (3d-fluency)
-- server (3d-fluency)
-- smart-home (3d-fluency)
-- smartphone (3d-fluency)
-- smartphone-tablet (3d-fluency)
-- tv (3d-fluency)
-- webcam (3d-fluency)
-- wi-fi-logo (3d-fluency)
-- wi-fi-router (3d-fluency)
-- wired-network (3d-fluency)
-- workstation (3d-fluency)
+- icons8-3d-printer
+- icons8-android-tablet-2d
+- icons8-bluetooth
+- icons8-camcorder
+- icons8-camera
+- icons8-cell-phone-2d
+- icons8-device-manager
+- icons8-ipad-2d
+- icons8-iphone-2d
+- icons8-keyboard-1
+- icons8-keyboard
+- icons8-laptop
+- icons8-laptop-coding
+- icons8-lcd-2d
+- icons8-monitor-3d
+- icons8-motherboard
+- icons8-multiple-devices
+- icons8-nest-3d
+- icons8-office-phone
+- icons8-pos-terminal
+- icons8-radio-waves
+- icons8-server
+- icons8-smart-home-3d
+- icons8-smartphone-3d
+- icons8-smartphone-tablet-3d
+- icons8-tv-3d
+- icons8-webcam-3d
+- icons8-wi-fi-logo
+- icons8-wi-fi-router
+- icons8-wired-network
+- icons8-workstation
 
 ## Miscellaneous
-- automatic (3d-fluency)
-- bang (3d-fluency)
-- box-important (3d-fluency)
-- broken-link (fluency)
-- broom (3d-fluency)
-- chain (fluency)
-- clipboard (fluency)
-- company (3d-fluency)
-- compass (3d-fluency)
-- doctors-bag (3d-fluency)
-- documentary (3d-fluency)
-- done-1 (3d-fluency)
-- done (3d-fluency)
-- energy-meter (3d-fluency)
-- engine (3d-fluency)
-- export (fluency)
-- flash-on (3d-fluency)
-- full-tool-storage-box (3d-fluency)
-- gear (3d-fluency)
-- globe-africa (3d-fluency)
-- gps-signal (3d-fluency)
-- home-address (3d-fluency)
-- home-office (3d-fluency)
-- housekeeping (3d-fluency)
-- idea (3d-fluency)
-- import (fluency)
-- ingredients (3d-fluency)
-- inspection (3d-fluency)
-- mirror (3d-fluency)
-- price-tag (3d-fluency)
-- real-estate (3d-fluency)
-- recycle (3d-fluency)
-- restore-page (fluency)
-- robotic (3d-fluency)
-- rocket (3d-fluency)
-- sound (3d-fluency)
-- tags (fluency)
-- test-passed (3d-fluency)
-- test-tube (3d-fluency)
-- two-gears (3d-fluency)
-- video-gallery (3d-fluency)
+- icons8-automatic
+- icons8-bang
+- icons8-box-important
+- icons8-broken-link-2d
+- icons8-broom
+- icons8-chain-2d
+- icons8-clipboard-2d
+- icons8-company
+- icons8-compass
+- icons8-doctors-bag
+- icons8-documentary
+- icons8-done-1
+- icons8-done
+- icons8-energy-meter
+- icons8-engine
+- icons8-export-2d
+- icons8-flash-on
+- icons8-full-tool-storage-box
+- icons8-gear
+- icons8-globe-africa
+- icons8-gps-signal
+- icons8-home-address
+- icons8-home-office
+- icons8-housekeeping
+- icons8-idea
+- icons8-import-2d
+- icons8-ingredients
+- icons8-inspection
+- icons8-mirror-3d
+- icons8-price-tag-3d
+- icons8-real-estate
+- icons8-recycle
+- icons8-restore-page-2d
+- icons8-robotic
+- icons8-rocket
+- icons8-sound
+- icons8-tags-2d
+- icons8-test-passed
+- icons8-test-tube
+- icons8-two-gears
+- icons8-video-gallery
 
 ## Network / System
-- firewall (3d-fluency)
-- hibernate (fluency)
-- lock-screen (fluency)
-- memory-slot (3d-fluency)
-- processor (3d-fluency)
-- shutdown (3d-fluency)
-- sleep (3d-fluency)
-- sleep-mode (fluency)
-- video-card (3d-fluency)
-- vpn (fluency)
+- icons8-firewall-3d
+- icons8-hibernate-2d
+- icons8-lock-screen-2d
+- icons8-memory-slot
+- icons8-processor-3d
+- icons8-shutdown-3d
+- icons8-sleep-3d
+- icons8-sleep-mode-2d
+- icons8-video-card
+- icons8-vpn-2d
 
 ## Office / Productivity
-- about (3d-fluency)
-- accounting (3d-fluency)
-- alarm-clock (3d-fluency)
-- application (3d-fluency)
-- at-sign (3d-fluency)
-- barcode (3d-fluency)
-- book (3d-fluency)
-- book-shelf (3d-fluency)
-- bookmark (3d-fluency)
-- calculator (3d-fluency)
-- calendar (3d-fluency)
-- certificate (3d-fluency)
-- chart (3d-fluency)
-- clock (3d-fluency)
-- coin (3d-fluency)
-- coins (3d-fluency)
-- contacts (3d-fluency)
-- control-panel (3d-fluency)
-- copybook (3d-fluency)
-- create (3d-fluency)
-- credit-card-cv (3d-fluency)
-- date-span (3d-fluency)
-- documents (3d-fluency)
-- empty-box (3d-fluency)
-- graph-report (3d-fluency)
-- inbox (3d-fluency)
-- language (3d-fluency)
-- layers (3d-fluency)
-- mail (3d-fluency)
-- mailbox (3d-fluency)
-- maintenance (3d-fluency)
-- manager (3d-fluency)
-- map (3d-fluency)
-- map-pin (3d-fluency)
-- module (3d-fluency)
-- moleskine (3d-fluency)
-- navigation (3d-fluency)
-- news (3d-fluency)
-- package (3d-fluency)
-- password (3d-fluency)
-- pencil-cup (3d-fluency)
-- popular (3d-fluency)
-- print (3d-fluency)
-- prize (3d-fluency)
-- profile (3d-fluency)
-- qr-code (3d-fluency)
-- rating (3d-fluency)
-- services-1 (3d-fluency)
-- services (3d-fluency)
-- shop (3d-fluency)
-- shopping-bag (3d-fluency)
-- signing-a-document (3d-fluency)
-- today (3d-fluency)
-- users (3d-fluency)
-- verified-account (3d-fluency)
-- writer-male (3d-fluency)
+- icons8-about
+- icons8-accounting
+- icons8-alarm-clock
+- icons8-application
+- icons8-at-sign
+- icons8-barcode
+- icons8-book
+- icons8-book-shelf
+- icons8-bookmark
+- icons8-calculator
+- icons8-calendar
+- icons8-certificate
+- icons8-chart
+- icons8-clock
+- icons8-coin
+- icons8-coins
+- icons8-contacts
+- icons8-control-panel
+- icons8-copybook
+- icons8-create
+- icons8-credit-card-cv
+- icons8-date-span
+- icons8-documents
+- icons8-empty-box
+- icons8-graph-report
+- icons8-inbox
+- icons8-language
+- icons8-layers
+- icons8-mail
+- icons8-mailbox
+- icons8-maintenance
+- icons8-manager
+- icons8-map
+- icons8-map-pin
+- icons8-module
+- icons8-moleskine
+- icons8-navigation
+- icons8-news
+- icons8-package
+- icons8-password
+- icons8-pencil-cup
+- icons8-popular
+- icons8-print
+- icons8-prize
+- icons8-profile
+- icons8-qr-code
+- icons8-rating
+- icons8-services-1
+- icons8-services
+- icons8-shop
+- icons8-shopping-bag
+- icons8-signing-a-document
+- icons8-today
+- icons8-users
+- icons8-verified-account
+- icons8-writer-male
 
 ## Power / Electronics
-- battery (3d-fluency)
-- display (fluency)
-- google-home (fluency)
-- hdmi-cable (fluency)
-- hub (3d-fluency)
-- plug (3d-fluency)
-- radar (3d-fluency)
-- satellite (3d-fluency)
-- switch (3d-fluency)
-- ups (fluency)
+- icons8-battery-3d
+- icons8-display-2d
+- icons8-google-home-2d
+- icons8-hdmi-cable-2d
+- icons8-hub-3d
+- icons8-plug-3d
+- icons8-radar-3d
+- icons8-satellite-3d
+- icons8-switch-3d
+- icons8-ups-2d
 
 ## Process Actions
-- hourglass (fluency)
-- loading (3d-fluency)
-- pause (fluency)
-- playlist (3d-fluency)
-- process (3d-fluency)
-- progress-indicator (fluency)
-- restart (3d-fluency)
-- resume (3d-fluency)
-- resume-button (fluency)
-- stop (fluency)
-- task (fluency)
+- icons8-hourglass-2d
+- icons8-loading-3d
+- icons8-pause-2d
+- icons8-playlist-3d
+- icons8-process-3d
+- icons8-progress-indicator-2d
+- icons8-restart
+- icons8-resume-3d
+- icons8-resume-button-2d
+- icons8-stop-2d
+- icons8-task-2d
 
 ## Security
-- access-denied (3d-fluency)
-- administrator (3d-fluency)
-- bank-safe (3d-fluency)
-- bios (3d-fluency)
-- conflict (3d-fluency)
-- error-sign (3d-fluency)
-- key (3d-fluency)
-- no-entry (3d-fluency)
-- stop-sign (3d-fluency)
+- icons8-access-denied
+- icons8-administrator
+- icons8-bank-safe
+- icons8-bios
+- icons8-conflict
+- icons8-error-sign
+- icons8-key
+- icons8-no-entry
+- icons8-stop-sign
 
 ## Status / Indicators
-- alarm (fluency)
-- bell (3d-fluency)
-- do-not-disturb (fluency)
-- high-priority (3d-fluency)
-- high-volume (fluency)
-- low-volume (fluency)
-- medium-volume (fluency)
-- mute (fluency)
-- offline (fluency)
-- online (3d-fluency)
-- speaker (fluency)
+- icons8-alarm-2d
+- icons8-bell-3d
+- icons8-do-not-disturb-2d
+- icons8-high-priority-3d
+- icons8-high-volume-2d
+- icons8-low-volume-2d
+- icons8-medium-volume-2d
+- icons8-mute-2d
+- icons8-offline-2d
+- icons8-online-3d
+- icons8-speaker-2d
 
 ## Storage / Media / Drives
-- blu-ray (fluency)
-- cd (3d-fluency)
-- cloud-folder (3d-fluency)
-- cloud-storage (3d-fluency)
-- eject (fluency)
-- floppy-disk-and-pencil (3d-fluency)
-- hdd (3d-fluency)
-- m.-ssd (3d-fluency)
-- micro-sd (3d-fluency)
-- nas (3d-fluency)
-- pen-drive (fluency)
-- sd (3d-fluency)
-- ssd (3d-fluency)
-- storage (3d-fluency)
-- tape-drive (fluency)
-- usb (3d-fluency)
-- usb-connector (3d-fluency)
+- icons8-blu-ray-2d
+- icons8-cd-3d
+- icons8-cloud-folder
+- icons8-cloud-storage
+- icons8-eject-2d
+- icons8-floppy-disk-and-pencil
+- icons8-hdd
+- icons8-m.-ssd
+- icons8-micro-sd-3d
+- icons8-nas
+- icons8-pen-drive-2d
+- icons8-sd
+- icons8-ssd
+- icons8-storage-3d
+- icons8-tape-drive-2d
+- icons8-usb-3d
+- icons8-usb-connector
 
 ## Text Editing
-- align-center (fluency)
-- align-justify (fluency)
-- align-left (fluency)
-- align-right (fluency)
-- bold (fluency)
-- find-and-replace (fluency)
-- italic (fluency)
-- numbered-list (fluency)
-- replace (fluency)
-- select-all (fluency)
-- strikethrough (fluency)
-- underline (fluency)
+- icons8-align-center-2d
+- icons8-align-justify-2d
+- icons8-align-left-2d
+- icons8-align-right-2d
+- icons8-bold-2d
+- icons8-find-and-replace-2d
+- icons8-italic-2d
+- icons8-numbered-list-2d
+- icons8-replace-2d
+- icons8-select-all-2d
+- icons8-strikethrough-2d
+- icons8-underline-2d
 
 ## Toolbar / UI
-- computer (fluency)
-- desktop (fluency)
-- favorites (fluency)
-- full-screen (fluency)
-- send (fluency)
-- share (fluency)
-- tab (fluency)
-- toolbar (fluency)
+- icons8-computer-2d
+- icons8-desktop-2d
+- icons8-favorites-2d
+- icons8-full-screen-2d
+- icons8-send-2d
+- icons8-share-2d
+- icons8-tab-2d
+- icons8-toolbar-2d
 
 ## Tools / DIY
-- drill (3d-fluency)
-- hammer (3d-fluency)
-- pliers (3d-fluency)
-- ruler (3d-fluency)
-- saw (3d-fluency)
-- screwdriver (fluency)
-- soldering-iron (3d-fluency)
-- toolbox (3d-fluency)
-- tools-1 (3d-fluency)
-- tools (3d-fluency)
-- wrench (3d-fluency)
+- icons8-drill-3d
+- icons8-hammer
+- icons8-pliers-3d
+- icons8-ruler-3d
+- icons8-saw-3d
+- icons8-screwdriver-2d
+- icons8-soldering-iron-3d
+- icons8-toolbox
+- icons8-tools-1
+- icons8-tools
+- icons8-wrench
 
 ## Transportation
-- car (3d-fluency)
-- gas-station (3d-fluency)
-- taxi (3d-fluency)
+- icons8-car
+- icons8-gas-station
+- icons8-taxi
 
 ## UI / Navigation
-- add (3d-fluency)
-- adjust (3d-fluency)
-- arrow-down (3d-fluency)
-- arrow-left (3d-fluency)
-- arrow-right (3d-fluency)
-- arrow-up (3d-fluency)
-- arrow-upload (3d-fluency)
-- back (3d-fluency)
-- cancel (3d-fluency)
-- check-mark (3d-fluency)
-- close (3d-fluency)
-- close-window (3d-fluency)
-- close-window-x (3d-fluency)
-- close-x (3d-fluency)
-- copy (fluency)
-- cursor (3d-fluency)
-- cut (3d-fluency)
-- data-transfer (3d-fluency)
-- delete-shield (3d-fluency)
-- down (3d-fluency)
-- download (3d-fluency)
-- download-from-cloud (3d-fluency)
-- edit-pencil (3d-fluency)
-- erase (3d-fluency)
-- eye-1 (3d-fluency)
-- eye (3d-fluency)
-- forward (3d-fluency)
-- home (3d-fluency)
-- info-1 (3d-fluency)
-- info (3d-fluency)
-- info-popup (3d-fluency)
-- left (3d-fluency)
-- link (3d-fluency)
-- menu (3d-fluency)
-- minus (3d-fluency)
-- paste (3d-fluency)
-- pencil (3d-fluency)
-- pin (3d-fluency)
-- play (3d-fluency)
-- plus (3d-fluency)
-- plus-math (3d-fluency)
-- push-pin (3d-fluency)
-- redo (3d-fluency)
-- refresh (3d-fluency)
-- remove (3d-fluency)
-- response (3d-fluency)
-- right (3d-fluency)
-- save (3d-fluency)
-- search (3d-fluency)
-- switch-off (3d-fluency)
-- synchronize (3d-fluency)
-- trash (3d-fluency)
-- unchecked-checkbox (3d-fluency)
-- undo (3d-fluency)
-- up (3d-fluency)
+- icons8-add
+- icons8-adjust
+- icons8-arrow-down
+- icons8-arrow-left
+- icons8-arrow-right
+- icons8-arrow-up
+- icons8-arrow-upload
+- icons8-back
+- icons8-cancel
+- icons8-check-mark
+- icons8-close
+- icons8-close-window
+- icons8-close-window-x
+- icons8-close-x
+- icons8-copy-2d
+- icons8-cursor
+- icons8-cut
+- icons8-data-transfer
+- icons8-delete-shield
+- icons8-down
+- icons8-download
+- icons8-download-from-cloud
+- icons8-edit-pencil
+- icons8-erase
+- icons8-eye-1
+- icons8-eye
+- icons8-forward
+- icons8-home
+- icons8-info-1
+- icons8-info
+- icons8-info-popup
+- icons8-left
+- icons8-link
+- icons8-menu
+- icons8-minus
+- icons8-paste
+- icons8-pencil
+- icons8-pin
+- icons8-play
+- icons8-plus
+- icons8-plus-math
+- icons8-push-pin
+- icons8-redo
+- icons8-refresh
+- icons8-remove
+- icons8-response
+- icons8-right
+- icons8-save
+- icons8-search
+- icons8-switch-off
+- icons8-synchronize
+- icons8-trash
+- icons8-unchecked-checkbox
+- icons8-undo
+- icons8-up
 
 ## View Modes
-- content (fluency)
-- details (fluency)
-- large-icons (fluency)
-- list (fluency)
-- medium-icons (fluency)
-- menu-2 (fluency)
-- small-icons (fluency)
-- thumbnails (fluency)
-- view (3d-fluency)
+- icons8-content-2d
+- icons8-details-2d
+- icons8-large-icons-2d
+- icons8-list-2d
+- icons8-medium-icons-2d
+- icons8-menu-2-2d
+- icons8-small-icons-2d
+- icons8-thumbnails-2d
+- icons8-view-3d
 
 ## Emojis / Expressions
-- fluentui-beaming-emoji (fluentui-emoji)
-- fluentui-blue-heart (fluentui-emoji)
-- fluentui-broken-heart-emoji (fluentui-emoji)
-- fluentui-clapping (fluentui-emoji)
-- fluentui-cloud-emoji (fluentui-emoji)
-- fluentui-fire-emoji (fluentui-emoji)
-- fluentui-flexed-biceps (fluentui-emoji)
-- fluentui-folded-hands (fluentui-emoji)
-- fluentui-green-heart (fluentui-emoji)
-- fluentui-grinning-emoji (fluentui-emoji)
-- fluentui-heart-eyes (fluentui-emoji)
-- fluentui-joy-emoji (fluentui-emoji)
-- fluentui-kissing-heart (fluentui-emoji)
-- fluentui-lightning-emoji (fluentui-emoji)
-- fluentui-purple-heart (fluentui-emoji)
-- fluentui-rainbow-emoji (fluentui-emoji)
-- fluentui-red-heart-emoji (fluentui-emoji)
-- fluentui-rose-emoji (fluentui-emoji)
-- fluentui-snowflake-emoji (fluentui-emoji)
-- fluentui-sparkling-heart (fluentui-emoji)
-- fluentui-star-emoji (fluentui-emoji)
-- fluentui-sun-emoji (fluentui-emoji)
-- fluentui-thumbs-down-emoji (fluentui-emoji)
-- fluentui-thumbs-up-emoji (fluentui-emoji)
-- fluentui-waving (fluentui-emoji)
-- fluentui-yellow-heart (fluentui-emoji)
-- alien (3d-fluency)
-- alien-monster-emoji (3d-fluency)
-- angry (fluency)
-- apple (3d-fluency)
-- avocado (3d-fluency)
-- banana (3d-fluency)
-- bear (3d-fluency)
-- bee (fluency)
-- broccoli (3d-fluency)
-- broken-heart (3d-fluency)
-- butterfly (3d-fluency)
-- cactus (fluency)
-- cake (fluency)
-- camel (3d-fluency)
-- candy (3d-fluency)
-- carrot (3d-fluency)
-- cat (3d-fluency)
-- cherry (3d-fluency)
-- chicken (3d-fluency)
-- christmas-star (3d-fluency)
-- cloud (3d-fluency)
-- clown (fluency)
-- cold-face (3d-fluency)
-- confetti (3d-fluency)
-- confused (3d-fluency)
-- cookie (3d-fluency)
-- cool (fluency)
-- corn (3d-fluency)
-- cow (3d-fluency)
-- crab (3d-fluency)
-- crying (fluency)
-- deer (3d-fluency)
-- diamonds (3d-fluency)
-- disappointed (3d-fluency)
-- dog (3d-fluency)
-- dolphin (3d-fluency)
-- dragon (fluency)
-- duck (3d-fluency)
-- eggplant (3d-fluency)
-- elephant (3d-fluency)
-- fire (3d-fluency)
-- fish (3d-fluency)
-- flamingo (3d-fluency)
-- fox (3d-fluency)
-- frog (3d-fluency)
-- ghost (3d-fluency)
-- gift (3d-fluency)
-- giraffe (fluency)
-- gorilla (fluency)
-- grapes (3d-fluency)
-- grinning-face (3d-fluency)
-- hamburger (3d-fluency)
-- hamster (3d-fluency)
-- happy (fluency)
-- horse (3d-fluency)
-- hot-dog (3d-fluency)
-- hot-face (3d-fluency)
-- jellyfish (3d-fluency)
-- koala (3d-fluency)
-- laughing (fluency)
-- lightning-bolt (3d-fluency)
-- lion (fluency)
-- llama (fluency)
-- lobster (3d-fluency)
-- maple-leaf (fluency)
-- monkey-face (3d-fluency)
-- moon (fluency)
-- mouse (3d-fluency)
-- mushroom (3d-fluency)
-- nerd (fluency)
-- octopus (3d-fluency)
-- ok-hand (3d-fluency)
-- orange (3d-fluency)
-- owl (3d-fluency)
-- palm-tree (3d-fluency)
-- panda (3d-fluency)
-- parrot (3d-fluency)
-- partying-face (3d-fluency)
-- peach (3d-fluency)
-- peacock (3d-fluency)
-- pear (3d-fluency)
-- pig (3d-fluency)
-- pineapple (fluency)
-- pizza (fluency)
-- pray (fluency)
-- rabbit (3d-fluency)
-- rainbow (3d-fluency)
-- red-heart (3d-fluency)
-- robot (3d-fluency)
-- rose (3d-fluency)
-- sad (fluency)
-- see-no-evil-monkey (3d-fluency)
-- sheep (fluency)
-- skull (3d-fluency)
-- sleeping (3d-fluency)
-- smiling (fluency)
-- snail (3d-fluency)
-- snake (3d-fluency)
-- snowflake (3d-fluency)
-- sparkling-1 (3d-fluency)
-- sparkling (3d-fluency)
-- star (3d-fluency)
-- storm (3d-fluency)
-- strawberry (3d-fluency)
-- sun (3d-fluency)
-- sunflower (3d-fluency)
-- surprised (fluency)
-- swan (3d-fluency)
-- thumbs-down (fluency)
-- thumbs-up (3d-fluency)
-- tiger (3d-fluency)
-- tomato (3d-fluency)
-- tornado (fluency)
-- turtle (3d-fluency)
-- umbrella (3d-fluency)
-- unicorn (3d-fluency)
-- watermelon (3d-fluency)
-- whale (3d-fluency)
-- wheat (3d-fluency)
-- windy-weather (3d-fluency)
-- wink (fluency)
-- wolf (3d-fluency)
-- zebra (3d-fluency)
+- fluentui-beaming-emoji
+- fluentui-blue-heart
+- fluentui-broken-heart-emoji
+- fluentui-clapping
+- fluentui-cloud-emoji
+- fluentui-fire-emoji
+- fluentui-flexed-biceps
+- fluentui-folded-hands
+- fluentui-green-heart
+- fluentui-grinning-emoji
+- fluentui-heart-eyes
+- fluentui-joy-emoji
+- fluentui-kissing-heart
+- fluentui-lightning-emoji
+- fluentui-purple-heart
+- fluentui-rainbow-emoji
+- fluentui-red-heart-emoji
+- fluentui-rose-emoji
+- fluentui-snowflake-emoji
+- fluentui-sparkling-heart
+- fluentui-star-emoji
+- fluentui-sun-emoji
+- fluentui-thumbs-down-emoji
+- fluentui-thumbs-up-emoji
+- fluentui-waving
+- fluentui-yellow-heart
+- icons8-alien-3d
+- icons8-alien-monster-emoji
+- icons8-angry-2d
+- icons8-apple-3d
+- icons8-avocado-3d
+- icons8-banana-3d
+- icons8-bear-3d
+- icons8-bee-2d
+- icons8-broccoli-3d
+- icons8-broken-heart-3d
+- icons8-butterfly-3d
+- icons8-cactus-2d
+- icons8-cake-2d
+- icons8-camel-3d
+- icons8-candy-3d
+- icons8-carrot-3d
+- icons8-cat
+- icons8-cherry-3d
+- icons8-chicken-3d
+- icons8-christmas-star
+- icons8-cloud-3d
+- icons8-clown-2d
+- icons8-cold-face-3d
+- icons8-confetti
+- icons8-confused-3d
+- icons8-cookie-3d
+- icons8-cool-2d
+- icons8-corn-3d
+- icons8-cow-3d
+- icons8-crab-3d
+- icons8-crying-2d
+- icons8-deer-3d
+- icons8-diamonds
+- icons8-disappointed-3d
+- icons8-dog-3d
+- icons8-dolphin-3d
+- icons8-dragon-2d
+- icons8-duck-3d
+- icons8-eggplant-3d
+- icons8-elephant-3d
+- icons8-fire
+- icons8-fish-3d
+- icons8-flamingo-3d
+- icons8-fox-3d
+- icons8-frog-3d
+- icons8-ghost-3d
+- icons8-gift
+- icons8-giraffe-2d
+- icons8-gorilla-2d
+- icons8-grapes-3d
+- icons8-grinning-face
+- icons8-hamburger
+- icons8-hamster-3d
+- icons8-happy-2d
+- icons8-horse-3d
+- icons8-hot-dog-3d
+- icons8-hot-face-3d
+- icons8-jellyfish-3d
+- icons8-koala-3d
+- icons8-laughing-2d
+- icons8-lightning-bolt-3d
+- icons8-lion-2d
+- icons8-llama-2d
+- icons8-lobster-3d
+- icons8-maple-leaf-2d
+- icons8-monkey-face-3d
+- icons8-moon-2d
+- icons8-mouse-3d
+- icons8-mushroom
+- icons8-nerd-2d
+- icons8-octopus-3d
+- icons8-ok-hand-3d
+- icons8-orange
+- icons8-owl-3d
+- icons8-palm-tree-3d
+- icons8-panda-3d
+- icons8-parrot
+- icons8-partying-face-3d
+- icons8-peach-3d
+- icons8-peacock-3d
+- icons8-pear-3d
+- icons8-pig-3d
+- icons8-pineapple-2d
+- icons8-pizza-2d
+- icons8-pray-2d
+- icons8-rabbit-3d
+- icons8-rainbow-3d
+- icons8-red-heart
+- icons8-robot-3d
+- icons8-rose-3d
+- icons8-sad-2d
+- icons8-see-no-evil-monkey
+- icons8-sheep-2d
+- icons8-skull-3d
+- icons8-sleeping-3d
+- icons8-smiling-2d
+- icons8-snail-3d
+- icons8-snake-3d
+- icons8-snowflake-3d
+- icons8-sparkling-1
+- icons8-sparkling
+- icons8-star
+- icons8-storm
+- icons8-strawberry-3d
+- icons8-sun
+- icons8-sunflower-3d
+- icons8-surprised-2d
+- icons8-swan-3d
+- icons8-thumbs-down-2d
+- icons8-thumbs-up-3d
+- icons8-tiger-3d
+- icons8-tomato-3d
+- icons8-tornado-2d
+- icons8-turtle
+- icons8-umbrella-3d
+- icons8-unicorn-3d
+- icons8-watermelon-3d
+- icons8-whale-3d
+- icons8-wheat
+- icons8-windy-weather
+- icons8-wink-2d
+- icons8-wolf-3d
+- icons8-zebra-3d
 
