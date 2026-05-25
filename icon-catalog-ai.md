@@ -82,6 +82,8 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-zoom-3d
 
 ## Audio
+- fluentui-loudspeaker
+- fluentui-microphone
 - icons8-headphones-2d
 - icons8-loudspeaker-3d
 - icons8-microphone-3d
@@ -166,6 +168,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-test-2d
 
 ## File Types
+- fluentui-bat
 - icons8-apk-2d
 - icons8-archive-3d
 - icons8-bat-3d
@@ -211,6 +214,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-game-die
 - fluentui-heart-suit
 - fluentui-joker
+- fluentui-joystick
 - fluentui-joystick-emoji
 - fluentui-mahjong
 - fluentui-puzzle-piece
@@ -258,6 +262,10 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - retro-virtual-boy
 
 ## Hardware / Devices
+- fluentui-camera
+- fluentui-keyboard
+- fluentui-laptop
+- fluentui-printer
 - icons8-3d-printer
 - icons8-android-tablet-2d
 - icons8-bluetooth
@@ -291,6 +299,13 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-workstation
 
 ## Miscellaneous
+- fluentui-broom
+- fluentui-clipboard
+- fluentui-compass
+- fluentui-gear
+- fluentui-mirror
+- fluentui-rocket
+- fluentui-test-tube
 - icons8-automatic
 - icons8-bang
 - icons8-box-important
@@ -352,6 +367,11 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-wifi-3d
 
 ## Office / Productivity
+- fluentui-alarm-clock
+- fluentui-bookmark
+- fluentui-calendar
+- fluentui-coin
+- fluentui-package
 - icons8-about
 - icons8-accounting
 - icons8-alarm-clock
@@ -410,6 +430,223 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-writer-male
 
 ## Other
+- icons8-css3-2d
+- icons8-dashboard-3d
+- icons8-job-3d
+
+## Power / Electronics
+- fluentui-battery
+- fluentui-satellite
+- icons8-battery-3d
+- icons8-display-2d
+- icons8-google-home-2d
+- icons8-hdmi-cable-2d
+- icons8-hub-3d
+- icons8-plug-3d
+- icons8-radar-3d
+- icons8-satellite-3d
+- icons8-switch-3d
+- icons8-ups-2d
+
+## Process Actions
+- icons8-hourglass-2d
+- icons8-loading-3d
+- icons8-pause-2d
+- icons8-playlist-3d
+- icons8-process-3d
+- icons8-progress-indicator-2d
+- icons8-restart
+- icons8-resume-3d
+- icons8-resume-button-2d
+- icons8-stop-2d
+- icons8-task-2d
+
+## Security
+- fluentui-key
+- fluentui-no-entry
+- fluentui-stop-sign
+- icons8-access-denied
+- icons8-administrator
+- icons8-bank-safe
+- icons8-bios
+- icons8-conflict
+- icons8-error-sign
+- icons8-key
+- icons8-no-entry
+- icons8-stop-sign
+
+## Status / Indicators
+- fluentui-bell
+- icons8-alarm-2d
+- icons8-bell-3d
+- icons8-do-not-disturb-2d
+- icons8-high-priority-3d
+- icons8-high-volume-2d
+- icons8-low-volume-2d
+- icons8-medium-volume-2d
+- icons8-mute-2d
+- icons8-offline-2d
+- icons8-online-3d
+- icons8-speaker-2d
+
+## Storage / Media / Drives
+- icons8-blu-ray-2d
+- icons8-cd-3d
+- icons8-cloud-folder
+- icons8-cloud-storage
+- icons8-eject-2d
+- icons8-floppy-disk-and-pencil
+- icons8-hdd
+- icons8-m.-ssd
+- icons8-micro-sd-3d
+- icons8-nas
+- icons8-pen-drive-2d
+- icons8-sd
+- icons8-ssd
+- icons8-storage-3d
+- icons8-tape-drive-2d
+- icons8-usb-3d
+- icons8-usb-connector
+
+## Text Editing
+- icons8-align-center-2d
+- icons8-align-justify-2d
+- icons8-align-left-2d
+- icons8-align-right-2d
+- icons8-bold-2d
+- icons8-find-and-replace-2d
+- icons8-italic-2d
+- icons8-numbered-list-2d
+- icons8-replace-2d
+- icons8-select-all-2d
+- icons8-strikethrough-2d
+- icons8-underline-2d
+
+## Toolbar / UI
+- icons8-computer-2d
+- icons8-desktop-2d
+- icons8-favorites-2d
+- icons8-full-screen-2d
+- icons8-send-2d
+- icons8-share-2d
+- icons8-tab-2d
+- icons8-toolbar-2d
+
+## Tools / DIY
+- fluentui-hammer
+- fluentui-screwdriver
+- fluentui-toolbox
+- fluentui-wrench
+- icons8-7zip-2d
+- icons8-affinity-designer-2d
+- icons8-anydesk-2d
+- icons8-crystaldiskinfo-2d
+- icons8-drill-3d
+- icons8-foxit-reader-2d
+- icons8-gimp-2d
+- icons8-google-drive-2d
+- icons8-hammer
+- icons8-msi-afterburner-2d
+- icons8-nextcloud-2d
+- icons8-notepad-plus-plus-2d
+- icons8-paint-net-2d
+- icons8-pliers-3d
+- icons8-remote-desktop-2d
+- icons8-ruler-3d
+- icons8-saw-3d
+- icons8-screwdriver-2d
+- icons8-soldering-iron-3d
+- icons8-toolbox
+- icons8-tools-1
+- icons8-tools
+- icons8-wrench
+
+## Transportation
+- fluentui-taxi
+- icons8-car
+- icons8-gas-station
+- icons8-taxi
+
+## UI / Navigation
+- fluentui-check-mark
+- fluentui-eye
+- fluentui-link
+- fluentui-minus
+- fluentui-pencil
+- fluentui-plus
+- icons8-add
+- icons8-adjust
+- icons8-arrow-down
+- icons8-arrow-left
+- icons8-arrow-right
+- icons8-arrow-up
+- icons8-arrow-upload
+- icons8-back
+- icons8-cancel
+- icons8-check-mark
+- icons8-close
+- icons8-close-window
+- icons8-close-window-x
+- icons8-close-x
+- icons8-copy-2d
+- icons8-cursor
+- icons8-cut
+- icons8-data-transfer
+- icons8-delete-2d
+- icons8-delete-shield
+- icons8-down
+- icons8-download
+- icons8-download-from-cloud
+- icons8-duplicate-2d
+- icons8-edit-pencil
+- icons8-erase
+- icons8-eye-1
+- icons8-eye
+- icons8-forward
+- icons8-home
+- icons8-info-1
+- icons8-info
+- icons8-info-popup
+- icons8-left
+- icons8-link
+- icons8-menu
+- icons8-minus
+- icons8-options-2d
+- icons8-paste
+- icons8-pencil
+- icons8-pin
+- icons8-play
+- icons8-plus
+- icons8-plus-math
+- icons8-push-pin
+- icons8-redo
+- icons8-refresh
+- icons8-remove
+- icons8-response
+- icons8-right
+- icons8-save
+- icons8-search
+- icons8-sort-2d
+- icons8-switch-off
+- icons8-synchronize
+- icons8-trash
+- icons8-unchecked-checkbox
+- icons8-undo
+- icons8-up
+- icons8-upload-3d
+
+## View Modes
+- icons8-content-2d
+- icons8-details-2d
+- icons8-large-icons-2d
+- icons8-list-2d
+- icons8-medium-icons-2d
+- icons8-menu-2-2d
+- icons8-small-icons-2d
+- icons8-thumbnails-2d
+- icons8-view-3d
+
+## Emojis / Expressions
 - fluentui-1st-place-medal
 - fluentui-2nd-place-medal
 - fluentui-3rd-place-medal
@@ -423,7 +660,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-airplane
 - fluentui-airplane-arrival
 - fluentui-airplane-departure
-- fluentui-alarm-clock
 - fluentui-alembic
 - fluentui-alien
 - fluentui-alien-monster
@@ -456,7 +692,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-baby-symbol
 - fluentui-back-arrow
 - fluentui-backpack
-- fluentui-bacon
 - fluentui-badger
 - fluentui-badminton
 - fluentui-bagel
@@ -474,10 +709,9 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-baseball
 - fluentui-basket
 - fluentui-basketball
-- fluentui-bat
 - fluentui-bathtub
-- fluentui-battery
 - fluentui-beach-with-umbrella
+- fluentui-beaming-emoji
 - fluentui-beaming-face-with-smiling-eyes
 - fluentui-beans
 - fluentui-bear
@@ -486,7 +720,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-bed
 - fluentui-beer-mug
 - fluentui-beetle
-- fluentui-bell
 - fluentui-bell-pepper
 - fluentui-bell-with-slash
 - fluentui-bellhop-bell
@@ -515,12 +748,12 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-blowfish
 - fluentui-blue-book
 - fluentui-blue-circle
+- fluentui-blue-heart
 - fluentui-blue-square
 - fluentui-blueberries
 - fluentui-boar
 - fluentui-bomb
 - fluentui-bone
-- fluentui-bookmark
 - fluentui-bookmark-tabs
 - fluentui-books
 - fluentui-boomerang
@@ -531,7 +764,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-bowling
 - fluentui-boxing-glove
 - fluentui-brain
-- fluentui-bread
 - fluentui-brick
 - fluentui-bridge-at-night
 - fluentui-briefcase
@@ -540,7 +772,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-broccoli
 - fluentui-broken-chain
 - fluentui-broken-heart
-- fluentui-broom
+- fluentui-broken-heart-emoji
 - fluentui-brown-circle
 - fluentui-brown-heart
 - fluentui-brown-mushroom
@@ -560,9 +792,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-butter
 - fluentui-butterfly
 - fluentui-cactus
-- fluentui-calendar
 - fluentui-camel
-- fluentui-camera
 - fluentui-camera-with-flash
 - fluentui-camping
 - fluentui-cancer
@@ -589,7 +819,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-chart-increasing
 - fluentui-chart-increasing-with-yen
 - fluentui-check-box-with-check
-- fluentui-check-mark
 - fluentui-check-mark-button
 - fluentui-cheese-wedge
 - fluentui-chequered-flag
@@ -599,7 +828,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-chicken
 - fluentui-children-crossing
 - fluentui-chipmunk
-- fluentui-chocolate-bar
 - fluentui-chopsticks
 - fluentui-christmas-tree
 - fluentui-church
@@ -612,16 +840,17 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-cl-button
 - fluentui-clamp
 - fluentui-clapper-board
+- fluentui-clapping
 - fluentui-classical-building
 - fluentui-clinking-beer-mugs
 - fluentui-clinking-glasses
-- fluentui-clipboard
 - fluentui-clockwise-vertical-arrows
 - fluentui-closed-book
 - fluentui-closed-mailbox-with-lowered-flag
 - fluentui-closed-mailbox-with-raised-flag
 - fluentui-closed-umbrella
 - fluentui-cloud
+- fluentui-cloud-emoji
 - fluentui-cloud-with-lightning
 - fluentui-cloud-with-lightning-and-rain
 - fluentui-cloud-with-rain
@@ -632,13 +861,10 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-coat
 - fluentui-cockroach
 - fluentui-cocktail-glass
-- fluentui-coconut
 - fluentui-coffin
-- fluentui-coin
 - fluentui-cold-face
 - fluentui-collision
 - fluentui-comet
-- fluentui-compass
 - fluentui-computer-disk
 - fluentui-computer-mouse
 - fluentui-confetti-ball
@@ -665,7 +891,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-cricket
 - fluentui-cricket-game
 - fluentui-crocodile
-- fluentui-croissant
 - fluentui-cross-mark
 - fluentui-cross-mark-button
 - fluentui-crossed-flags
@@ -677,7 +902,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-crystal-ball
 - fluentui-cucumber
 - fluentui-cup-with-straw
-- fluentui-cupcake
 - fluentui-curling-stone
 - fluentui-curly-loop
 - fluentui-currency-exchange
@@ -717,7 +941,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-dotted-six-pointed-star
 - fluentui-double-curly-loop
 - fluentui-double-exclamation-mark
-- fluentui-doughnut
 - fluentui-dove
 - fluentui-down-arrow
 - fluentui-down-left-arrow
@@ -757,7 +980,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-exclamation-question-mark
 - fluentui-exploding-head
 - fluentui-expressionless-face
-- fluentui-eye
 - fluentui-eye-in-speech-bubble
 - fluentui-eyes
 - fluentui-face-blowing-a-kiss
@@ -803,6 +1025,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-film-frames
 - fluentui-film-projector
 - fluentui-fire
+- fluentui-fire-emoji
 - fluentui-fire-engine
 - fluentui-fire-extinguisher
 - fluentui-firecracker
@@ -820,6 +1043,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-flat-shoe
 - fluentui-flatbread
 - fluentui-fleur-de-lis
+- fluentui-flexed-biceps
 - fluentui-floppy-disk
 - fluentui-flower-playing-cards
 - fluentui-flushed-face
@@ -829,6 +1053,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-flying-saucer
 - fluentui-fog
 - fluentui-foggy
+- fluentui-folded-hands
 - fluentui-folding-hand-fan
 - fluentui-fondue
 - fluentui-footprints
@@ -843,7 +1068,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-fox
 - fluentui-framed-picture
 - fluentui-free-button
-- fluentui-french-fries
 - fluentui-fried-shrimp
 - fluentui-frog
 - fluentui-front-facing-baby-chick
@@ -853,8 +1077,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-full-moon
 - fluentui-full-moon-face
 - fluentui-funeral-urn
-- fluentui-garlic
-- fluentui-gear
 - fluentui-gem-stone
 - fluentui-gemini
 - fluentui-ghost
@@ -879,12 +1101,14 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-green-apple
 - fluentui-green-book
 - fluentui-green-circle
+- fluentui-green-heart
 - fluentui-green-salad
 - fluentui-green-square
 - fluentui-grey-heart
 - fluentui-grimacing-face
 - fluentui-grinning-cat
 - fluentui-grinning-cat-with-smiling-eyes
+- fluentui-grinning-emoji
 - fluentui-grinning-face
 - fluentui-grinning-face-with-big-eyes
 - fluentui-grinning-face-with-smiling-eyes
@@ -895,7 +1119,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-guitar
 - fluentui-hair-pick
 - fluentui-hamburger
-- fluentui-hammer
 - fluentui-hammer-and-pick
 - fluentui-hammer-and-wrench
 - fluentui-hamsa
@@ -910,6 +1133,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-hear-no-evil-monkey
 - fluentui-heart-decoration
 - fluentui-heart-exclamation
+- fluentui-heart-eyes
 - fluentui-heart-on-fire
 - fluentui-heart-with-arrow
 - fluentui-heart-with-ribbon
@@ -990,11 +1214,9 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-jar
 - fluentui-jeans
 - fluentui-jellyfish
-- fluentui-joystick
+- fluentui-joy-emoji
 - fluentui-kaaba
 - fluentui-kangaroo
-- fluentui-key
-- fluentui-keyboard
 - fluentui-keycap-0
 - fluentui-keycap-1
 - fluentui-keycap-10
@@ -1016,6 +1238,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-kissing-face
 - fluentui-kissing-face-with-closed-eyes
 - fluentui-kissing-face-with-smiling-eyes
+- fluentui-kissing-heart
 - fluentui-kitchen-knife
 - fluentui-kite
 - fluentui-kiwi-fruit
@@ -1027,7 +1250,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-lacrosse
 - fluentui-ladder
 - fluentui-lady-beetle
-- fluentui-laptop
 - fluentui-large-blue-diamond
 - fluentui-large-orange-diamond
 - fluentui-last-quarter-moon
@@ -1049,8 +1271,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-light-blue-heart
 - fluentui-light-bulb
 - fluentui-light-rail
-- fluentui-lime
-- fluentui-link
+- fluentui-lightning-emoji
 - fluentui-linked-paperclips
 - fluentui-lion
 - fluentui-lipstick
@@ -1066,7 +1287,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-lotion-bottle
 - fluentui-lotus
 - fluentui-loudly-crying-face
-- fluentui-loudspeaker
 - fluentui-love-hotel
 - fluentui-love-letter
 - fluentui-low-battery
@@ -1084,7 +1304,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-man-with-bunny-ears
 - fluentui-man-wrestling
 - fluentui-man-zombie
-- fluentui-mango
 - fluentui-mans-shoe
 - fluentui-mantelpiece-clock
 - fluentui-manual-wheelchair
@@ -1098,7 +1317,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-mechanical-leg
 - fluentui-medical-symbol
 - fluentui-megaphone
-- fluentui-melon
 - fluentui-melting-face
 - fluentui-memo
 - fluentui-mending-heart
@@ -1106,14 +1324,11 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-mens-room
 - fluentui-metro
 - fluentui-microbe
-- fluentui-microphone
 - fluentui-microscope
 - fluentui-military-helmet
 - fluentui-military-medal
 - fluentui-milky-way
 - fluentui-minibus
-- fluentui-minus
-- fluentui-mirror
 - fluentui-mirror-ball
 - fluentui-moai
 - fluentui-mobile-phone
@@ -1170,7 +1385,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-nine-oclock
 - fluentui-nine-thirty
 - fluentui-no-bicycles
-- fluentui-no-entry
 - fluentui-no-littering
 - fluentui-no-mobile-phones
 - fluentui-no-one-under-eighteen
@@ -1188,7 +1402,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-oil-drum
 - fluentui-ok-button
 - fluentui-old-key
-- fluentui-olive
 - fluentui-om
 - fluentui-on!-arrow
 - fluentui-oncoming-automobile
@@ -1198,7 +1411,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-one-oclock
 - fluentui-one-piece-swimsuit
 - fluentui-one-thirty
-- fluentui-onion
 - fluentui-open-book
 - fluentui-open-file-folder
 - fluentui-open-mailbox-with-lowered-flag
@@ -1217,7 +1429,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-ox
 - fluentui-oyster
 - fluentui-p-button
-- fluentui-package
 - fluentui-page-facing-up
 - fluentui-page-with-curl
 - fluentui-pager
@@ -1242,7 +1453,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-peanuts
 - fluentui-pear
 - fluentui-pen
-- fluentui-pencil
 - fluentui-penguin
 - fluentui-pensive-face
 - fluentui-people-hugging
@@ -1278,13 +1488,11 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-playground-slide
 - fluentui-pleading-face
 - fluentui-plunger
-- fluentui-plus
 - fluentui-polar-bear
 - fluentui-police-car
 - fluentui-police-car-light
 - fluentui-poodle
 - fluentui-pool-8-ball
-- fluentui-popcorn
 - fluentui-post-office
 - fluentui-postal-horn
 - fluentui-postbox
@@ -1298,10 +1506,9 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-pouting-cat
 - fluentui-pouting-face
 - fluentui-prayer-beads
-- fluentui-pretzel
-- fluentui-printer
 - fluentui-prohibited
 - fluentui-purple-circle
+- fluentui-purple-heart
 - fluentui-purple-square
 - fluentui-purse
 - fluentui-pushpin
@@ -1315,6 +1522,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-railway-car
 - fluentui-railway-track
 - fluentui-rainbow
+- fluentui-rainbow-emoji
 - fluentui-rainbow-flag
 - fluentui-ram
 - fluentui-rat
@@ -1327,6 +1535,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-red-envelope
 - fluentui-red-exclamation-mark
 - fluentui-red-heart
+- fluentui-red-heart-emoji
 - fluentui-red-paper-lantern
 - fluentui-red-question-mark
 - fluentui-red-square
@@ -1356,7 +1565,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-roasted-sweet-potato
 - fluentui-robot
 - fluentui-rock
-- fluentui-rocket
 - fluentui-roll-of-paper
 - fluentui-rolled-up-newspaper
 - fluentui-roller-coaster
@@ -1364,6 +1572,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-rolling-on-the-floor-laughing
 - fluentui-rooster
 - fluentui-rose
+- fluentui-rose-emoji
 - fluentui-rosette
 - fluentui-round-pushpin
 - fluentui-rugby-football
@@ -1377,9 +1586,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-sake
 - fluentui-salt
 - fluentui-saluting-face
-- fluentui-sandwich
 - fluentui-sari
-- fluentui-satellite
 - fluentui-satellite-antenna
 - fluentui-sauropod
 - fluentui-saxophone
@@ -1388,7 +1595,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-scissors
 - fluentui-scorpio
 - fluentui-scorpion
-- fluentui-screwdriver
 - fluentui-scroll
 - fluentui-seal
 - fluentui-seat
@@ -1447,6 +1653,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-sneezing-face
 - fluentui-snow-capped-mountain
 - fluentui-snowflake
+- fluentui-snowflake-emoji
 - fluentui-snowman
 - fluentui-snowman-without-snow
 - fluentui-soap
@@ -1457,10 +1664,10 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-soon-arrow
 - fluentui-sos-button
 - fluentui-spade-suit
-- fluentui-spaghetti
 - fluentui-sparkle
 - fluentui-sparkler
 - fluentui-sparkles
+- fluentui-sparkling-heart
 - fluentui-speak-no-evil-monkey
 - fluentui-speaker-high-volume
 - fluentui-speaker-low-volume
@@ -1483,6 +1690,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-stadium
 - fluentui-star
 - fluentui-star-and-crescent
+- fluentui-star-emoji
 - fluentui-star-of-david
 - fluentui-star-struck
 - fluentui-station
@@ -1490,7 +1698,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-steaming-bowl
 - fluentui-stethoscope
 - fluentui-stop-button
-- fluentui-stop-sign
 - fluentui-stopwatch
 - fluentui-straight-ruler
 - fluentui-strawberry
@@ -1501,13 +1708,13 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-sun-behind-large-cloud
 - fluentui-sun-behind-rain-cloud
 - fluentui-sun-behind-small-cloud
+- fluentui-sun-emoji
 - fluentui-sun-with-face
 - fluentui-sunflower
 - fluentui-sunglasses
 - fluentui-sunrise
 - fluentui-sunrise-over-mountains
 - fluentui-sunset
-- fluentui-sushi
 - fluentui-suspension-railway
 - fluentui-swan
 - fluentui-sweat-droplets
@@ -1515,13 +1722,11 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-syringe
 - fluentui-t-rex
 - fluentui-t-shirt
-- fluentui-taco
 - fluentui-takeout-box
 - fluentui-tamale
 - fluentui-tanabata-tree
 - fluentui-tangerine
 - fluentui-taurus
-- fluentui-taxi
 - fluentui-teacup-without-handle
 - fluentui-teapot
 - fluentui-tear-off-calendar
@@ -1534,7 +1739,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-ten-thirty
 - fluentui-tennis
 - fluentui-tent
-- fluentui-test-tube
 - fluentui-thermometer
 - fluentui-thinking-face
 - fluentui-thong-sandal
@@ -1542,6 +1746,8 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-thread
 - fluentui-three-oclock
 - fluentui-three-thirty
+- fluentui-thumbs-down-emoji
+- fluentui-thumbs-up-emoji
 - fluentui-ticket
 - fluentui-tiger
 - fluentui-tiger-face
@@ -1551,7 +1757,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-tokyo-tower
 - fluentui-tomato
 - fluentui-tongue
-- fluentui-toolbox
 - fluentui-tooth
 - fluentui-toothbrush
 - fluentui-top-arrow
@@ -1617,6 +1822,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-water-pistol
 - fluentui-water-wave
 - fluentui-watermelon
+- fluentui-waving
 - fluentui-wavy-dash
 - fluentui-waxing-crescent-moon
 - fluentui-waxing-gibbous-moon
@@ -1643,7 +1849,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-wind-chime
 - fluentui-wind-face
 - fluentui-window
-- fluentui-wine-glass
 - fluentui-wing
 - fluentui-winking-face
 - fluentui-winking-face-with-tongue
@@ -1664,11 +1869,11 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-worm
 - fluentui-worried-face
 - fluentui-wrapped-gift
-- fluentui-wrench
 - fluentui-x-ray
 - fluentui-yarn
 - fluentui-yawning-face
 - fluentui-yellow-circle
+- fluentui-yellow-heart
 - fluentui-yellow-square
 - fluentui-yen-banknote
 - fluentui-yin-yang
@@ -1677,232 +1882,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - fluentui-zebra
 - fluentui-zipper-mouth-face
 - fluentui-zzz
-- icons8-css3-2d
-- icons8-dashboard-3d
-- icons8-job-3d
-
-## Power / Electronics
-- icons8-battery-3d
-- icons8-display-2d
-- icons8-google-home-2d
-- icons8-hdmi-cable-2d
-- icons8-hub-3d
-- icons8-plug-3d
-- icons8-radar-3d
-- icons8-satellite-3d
-- icons8-switch-3d
-- icons8-ups-2d
-
-## Process Actions
-- icons8-hourglass-2d
-- icons8-loading-3d
-- icons8-pause-2d
-- icons8-playlist-3d
-- icons8-process-3d
-- icons8-progress-indicator-2d
-- icons8-restart
-- icons8-resume-3d
-- icons8-resume-button-2d
-- icons8-stop-2d
-- icons8-task-2d
-
-## Security
-- icons8-access-denied
-- icons8-administrator
-- icons8-bank-safe
-- icons8-bios
-- icons8-conflict
-- icons8-error-sign
-- icons8-key
-- icons8-no-entry
-- icons8-stop-sign
-
-## Status / Indicators
-- icons8-alarm-2d
-- icons8-bell-3d
-- icons8-do-not-disturb-2d
-- icons8-high-priority-3d
-- icons8-high-volume-2d
-- icons8-low-volume-2d
-- icons8-medium-volume-2d
-- icons8-mute-2d
-- icons8-offline-2d
-- icons8-online-3d
-- icons8-speaker-2d
-
-## Storage / Media / Drives
-- icons8-blu-ray-2d
-- icons8-cd-3d
-- icons8-cloud-folder
-- icons8-cloud-storage
-- icons8-eject-2d
-- icons8-floppy-disk-and-pencil
-- icons8-hdd
-- icons8-m.-ssd
-- icons8-micro-sd-3d
-- icons8-nas
-- icons8-pen-drive-2d
-- icons8-sd
-- icons8-ssd
-- icons8-storage-3d
-- icons8-tape-drive-2d
-- icons8-usb-3d
-- icons8-usb-connector
-
-## Text Editing
-- icons8-align-center-2d
-- icons8-align-justify-2d
-- icons8-align-left-2d
-- icons8-align-right-2d
-- icons8-bold-2d
-- icons8-find-and-replace-2d
-- icons8-italic-2d
-- icons8-numbered-list-2d
-- icons8-replace-2d
-- icons8-select-all-2d
-- icons8-strikethrough-2d
-- icons8-underline-2d
-
-## Toolbar / UI
-- icons8-computer-2d
-- icons8-desktop-2d
-- icons8-favorites-2d
-- icons8-full-screen-2d
-- icons8-send-2d
-- icons8-share-2d
-- icons8-tab-2d
-- icons8-toolbar-2d
-
-## Tools / DIY
-- icons8-7zip-2d
-- icons8-affinity-designer-2d
-- icons8-anydesk-2d
-- icons8-crystaldiskinfo-2d
-- icons8-drill-3d
-- icons8-foxit-reader-2d
-- icons8-gimp-2d
-- icons8-google-drive-2d
-- icons8-hammer
-- icons8-msi-afterburner-2d
-- icons8-nextcloud-2d
-- icons8-notepad-plus-plus-2d
-- icons8-paint-net-2d
-- icons8-pliers-3d
-- icons8-remote-desktop-2d
-- icons8-ruler-3d
-- icons8-saw-3d
-- icons8-screwdriver-2d
-- icons8-soldering-iron-3d
-- icons8-toolbox
-- icons8-tools-1
-- icons8-tools
-- icons8-wrench
-
-## Transportation
-- icons8-car
-- icons8-gas-station
-- icons8-taxi
-
-## UI / Navigation
-- icons8-add
-- icons8-adjust
-- icons8-arrow-down
-- icons8-arrow-left
-- icons8-arrow-right
-- icons8-arrow-up
-- icons8-arrow-upload
-- icons8-back
-- icons8-cancel
-- icons8-check-mark
-- icons8-close
-- icons8-close-window
-- icons8-close-window-x
-- icons8-close-x
-- icons8-copy-2d
-- icons8-cursor
-- icons8-cut
-- icons8-data-transfer
-- icons8-delete-2d
-- icons8-delete-shield
-- icons8-down
-- icons8-download
-- icons8-download-from-cloud
-- icons8-duplicate-2d
-- icons8-edit-pencil
-- icons8-erase
-- icons8-eye-1
-- icons8-eye
-- icons8-forward
-- icons8-home
-- icons8-info-1
-- icons8-info
-- icons8-info-popup
-- icons8-left
-- icons8-link
-- icons8-menu
-- icons8-minus
-- icons8-options-2d
-- icons8-paste
-- icons8-pencil
-- icons8-pin
-- icons8-play
-- icons8-plus
-- icons8-plus-math
-- icons8-push-pin
-- icons8-redo
-- icons8-refresh
-- icons8-remove
-- icons8-response
-- icons8-right
-- icons8-save
-- icons8-search
-- icons8-sort-2d
-- icons8-switch-off
-- icons8-synchronize
-- icons8-trash
-- icons8-unchecked-checkbox
-- icons8-undo
-- icons8-up
-- icons8-upload-3d
-
-## View Modes
-- icons8-content-2d
-- icons8-details-2d
-- icons8-large-icons-2d
-- icons8-list-2d
-- icons8-medium-icons-2d
-- icons8-menu-2-2d
-- icons8-small-icons-2d
-- icons8-thumbnails-2d
-- icons8-view-3d
-
-## Emojis / Expressions
-- fluentui-beaming-emoji
-- fluentui-blue-heart
-- fluentui-broken-heart-emoji
-- fluentui-clapping
-- fluentui-cloud-emoji
-- fluentui-fire-emoji
-- fluentui-flexed-biceps
-- fluentui-folded-hands
-- fluentui-green-heart
-- fluentui-grinning-emoji
-- fluentui-heart-eyes
-- fluentui-joy-emoji
-- fluentui-kissing-heart
-- fluentui-lightning-emoji
-- fluentui-purple-heart
-- fluentui-rainbow-emoji
-- fluentui-red-heart-emoji
-- fluentui-rose-emoji
-- fluentui-snowflake-emoji
-- fluentui-sparkling-heart
-- fluentui-star-emoji
-- fluentui-sun-emoji
-- fluentui-thumbs-down-emoji
-- fluentui-thumbs-up-emoji
-- fluentui-waving
-- fluentui-yellow-heart
 - icons8-alien-3d
 - icons8-alien-monster-emoji
 - icons8-angry-2d
@@ -2032,15 +2011,36 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - coffee-espresso
 - coffee-latte-1
 - coffee-latte-2
+- fluentui-bacon
+- fluentui-bread
+- fluentui-chocolate-bar
+- fluentui-coconut
+- fluentui-croissant
+- fluentui-cupcake
+- fluentui-doughnut
 - fluentui-dumpling
 - fluentui-egg
 - fluentui-fig
+- fluentui-french-fries
+- fluentui-garlic
 - fluentui-lemon
+- fluentui-lime
 - fluentui-lollipop
+- fluentui-mango
+- fluentui-melon
 - fluentui-muffin
+- fluentui-olive
+- fluentui-onion
+- fluentui-popcorn
+- fluentui-pretzel
 - fluentui-rice
+- fluentui-sandwich
 - fluentui-shrimp
 - fluentui-soup
+- fluentui-spaghetti
+- fluentui-sushi
+- fluentui-taco
+- fluentui-wine-glass
 - icons8-bacon-3d
 - icons8-baguette-3d
 - icons8-beer-2d
