@@ -300,7 +300,8 @@ def main():
     md.append(f"**Total icons: {len(icons)}**\n")
 
     def sort_key(cat: str) -> tuple[int, str]:
-        return (1 if cat == "Emojis / Expressions" else 0, cat)
+        last = {"Emojis / Expressions", "Food & Drinks"}
+        return (1 if cat in last else 0, cat)
 
     md.append("## Summary\n")
     md.append("| Category | Count |")

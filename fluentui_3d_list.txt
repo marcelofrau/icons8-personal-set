@@ -1,0 +1,1285 @@
+1st_place_medal|1st place medal
+2nd_place_medal|2nd place medal
+3rd_place_medal|3rd place medal
+a_button_blood_type|A button blood type
+ab_button_blood_type|Ab button blood type
+abacus|Abacus
+accordion|Accordion
+adhesive_bandage|Adhesive bandage
+admission_tickets|Admission tickets
+aerial_tramway|Aerial tramway
+airplane|Airplane
+airplane_arrival|Airplane arrival
+airplane_departure|Airplane departure
+alarm_clock|Alarm clock
+alembic|Alembic
+alien|Alien
+alien_monster|Alien monster
+ambulance|Ambulance
+american_football|American football
+amphora|Amphora
+anatomical_heart|Anatomical heart
+anchor|Anchor
+anger_symbol|Anger symbol
+angry_face|Angry face
+angry_face_with_horns|Angry face with horns
+anguished_face|Anguished face
+ant|Ant
+antenna_bars|Antenna bars
+anxious_face_with_sweat|Anxious face with sweat
+aquarius|Aquarius
+aries|Aries
+articulated_lorry|Articulated lorry
+artist_palette|Artist palette
+astonished_face|Astonished face
+atm_sign|Atm sign
+atom_symbol|Atom symbol
+auto_rickshaw|Auto rickshaw
+automobile|Automobile
+avocado|Avocado
+axe|Axe
+b_button_blood_type|B button blood type
+baby_bottle|Baby bottle
+baby_chick|Baby chick
+baby_symbol|Baby symbol
+back_arrow|Back arrow
+backpack|Backpack
+bacon|Bacon
+badger|Badger
+badminton|Badminton
+bagel|Bagel
+baggage_claim|Baggage claim
+baguette_bread|Baguette bread
+balance_scale|Balance scale
+ballet_shoes|Ballet shoes
+balloon|Balloon
+ballot_box_with_ballot|Ballot box with ballot
+banana|Banana
+banjo|Banjo
+bank|Bank
+bar_chart|Bar chart
+barber_pole|Barber pole
+baseball|Baseball
+basket|Basket
+basketball|Basketball
+bat|Bat
+bathtub|Bathtub
+battery|Battery
+beach_with_umbrella|Beach with umbrella
+beaming_face_with_smiling_eyes|Beaming face with smiling eyes
+beans|Beans
+bear|Bear
+beating_heart|Beating heart
+beaver|Beaver
+bed|Bed
+beer_mug|Beer mug
+beetle|Beetle
+bell|Bell
+bell_pepper|Bell pepper
+bell_with_slash|Bell with slash
+bellhop_bell|Bellhop bell
+bento_box|Bento box
+beverage_box|Beverage box
+bicycle|Bicycle
+bikini|Bikini
+billed_cap|Billed cap
+biohazard|Biohazard
+bird|Bird
+birthday_cake|Birthday cake
+bison|Bison
+biting_lip|Biting lip
+black_cat|Black cat
+black_circle|Black circle
+black_flag|Black flag
+black_heart|Black heart
+black_large_square|Black large square
+black_medium-small_square|Black medium-small square
+black_medium_square|Black medium square
+black_nib|Black nib
+black_small_square|Black small square
+black_square_button|Black square button
+blackbird|Blackbird
+blossom|Blossom
+blowfish|Blowfish
+blue_book|Blue book
+blue_circle|Blue circle
+blue_heart|Blue heart
+blue_square|Blue square
+blueberries|Blueberries
+boar|Boar
+bomb|Bomb
+bone|Bone
+bookmark|Bookmark
+bookmark_tabs|Bookmark tabs
+books|Books
+boomerang|Boomerang
+bottle_with_popping_cork|Bottle with popping cork
+bouquet|Bouquet
+bow_and_arrow|Bow and arrow
+bowl_with_spoon|Bowl with spoon
+bowling|Bowling
+boxing_glove|Boxing glove
+brain|Brain
+bread|Bread
+brick|Brick
+bridge_at_night|Bridge at night
+briefcase|Briefcase
+briefs|Briefs
+bright_button|Bright button
+broccoli|Broccoli
+broken_chain|Broken chain
+broken_heart|Broken heart
+broom|Broom
+brown_circle|Brown circle
+brown_heart|Brown heart
+brown_mushroom|Brown mushroom
+brown_square|Brown square
+bubble_tea|Bubble tea
+bubbles|Bubbles
+bucket|Bucket
+bug|Bug
+building_construction|Building construction
+bullet_train|Bullet train
+bullseye|Bullseye
+burrito|Burrito
+bus|Bus
+bus_stop|Bus stop
+bust_in_silhouette|Bust in silhouette
+busts_in_silhouette|Busts in silhouette
+butter|Butter
+butterfly|Butterfly
+cactus|Cactus
+calendar|Calendar
+camel|Camel
+camera|Camera
+camera_with_flash|Camera with flash
+camping|Camping
+cancer|Cancer
+candle|Candle
+candy|Candy
+canned_food|Canned food
+canoe|Canoe
+capricorn|Capricorn
+card_file_box|Card file box
+card_index|Card index
+card_index_dividers|Card index dividers
+carousel_horse|Carousel horse
+carp_streamer|Carp streamer
+carpentry_saw|Carpentry saw
+carrot|Carrot
+castle|Castle
+cat|Cat
+cat_face|Cat face
+cat_with_tears_of_joy|Cat with tears of joy
+cat_with_wry_smile|Cat with wry smile
+chains|Chains
+chair|Chair
+chart_decreasing|Chart decreasing
+chart_increasing|Chart increasing
+chart_increasing_with_yen|Chart increasing with yen
+check_box_with_check|Check box with check
+check_mark|Check mark
+check_mark_button|Check mark button
+cheese_wedge|Cheese wedge
+chequered_flag|Chequered flag
+cherries|Cherries
+cherry_blossom|Cherry blossom
+chess_pawn|Chess pawn
+chestnut|Chestnut
+chicken|Chicken
+children_crossing|Children crossing
+chipmunk|Chipmunk
+chocolate_bar|Chocolate bar
+chopsticks|Chopsticks
+christmas_tree|Christmas tree
+church|Church
+cigarette|Cigarette
+cinema|Cinema
+circled_m|Circled m
+circus_tent|Circus tent
+cityscape|Cityscape
+cityscape_at_dusk|Cityscape at dusk
+cl_button|Cl button
+clamp|Clamp
+clapper_board|Clapper board
+classical_building|Classical building
+clinking_beer_mugs|Clinking beer mugs
+clinking_glasses|Clinking glasses
+clipboard|Clipboard
+clockwise_vertical_arrows|Clockwise vertical arrows
+closed_book|Closed book
+closed_mailbox_with_lowered_flag|Closed mailbox with lowered flag
+closed_mailbox_with_raised_flag|Closed mailbox with raised flag
+closed_umbrella|Closed umbrella
+cloud|Cloud
+cloud_with_lightning|Cloud with lightning
+cloud_with_lightning_and_rain|Cloud with lightning and rain
+cloud_with_rain|Cloud with rain
+cloud_with_snow|Cloud with snow
+clown_face|Clown face
+club_suit|Club suit
+clutch_bag|Clutch bag
+coat|Coat
+cockroach|Cockroach
+cocktail_glass|Cocktail glass
+coconut|Coconut
+coffin|Coffin
+coin|Coin
+cold_face|Cold face
+collision|Collision
+comet|Comet
+compass|Compass
+computer_disk|Computer disk
+computer_mouse|Computer mouse
+confetti_ball|Confetti ball
+confounded_face|Confounded face
+confused_face|Confused face
+construction|Construction
+control_knobs|Control knobs
+convenience_store|Convenience store
+cooked_rice|Cooked rice
+cookie|Cookie
+cooking|Cooking
+cool_button|Cool button
+copyright|Copyright
+coral|Coral
+couch_and_lamp|Couch and lamp
+counterclockwise_arrows_button|Counterclockwise arrows button
+cow|Cow
+cow_face|Cow face
+cowboy_hat_face|Cowboy hat face
+crab|Crab
+crayon|Crayon
+credit_card|Credit card
+crescent_moon|Crescent moon
+cricket|Cricket
+cricket_game|Cricket game
+crocodile|Crocodile
+croissant|Croissant
+cross_mark|Cross mark
+cross_mark_button|Cross mark button
+crossed_flags|Crossed flags
+crossed_swords|Crossed swords
+crown|Crown
+crutch|Crutch
+crying_cat|Crying cat
+crying_face|Crying face
+crystal_ball|Crystal ball
+cucumber|Cucumber
+cup_with_straw|Cup with straw
+cupcake|Cupcake
+curling_stone|Curling stone
+curly_loop|Curly loop
+currency_exchange|Currency exchange
+curry_rice|Curry rice
+custard|Custard
+customs|Customs
+cut_of_meat|Cut of meat
+cyclone|Cyclone
+dagger|Dagger
+dango|Dango
+dashing_away|Dashing away
+deciduous_tree|Deciduous tree
+deer|Deer
+delivery_truck|Delivery truck
+department_store|Department store
+derelict_house|Derelict house
+desert|Desert
+desert_island|Desert island
+desktop_computer|Desktop computer
+diamond_suit|Diamond suit
+diamond_with_a_dot|Diamond with a dot
+dim_button|Dim button
+disappointed_face|Disappointed face
+disguised_face|Disguised face
+divide|Divide
+diving_mask|Diving mask
+diya_lamp|Diya lamp
+dizzy|Dizzy
+dna|Dna
+dodo|Dodo
+dog|Dog
+dog_face|Dog face
+dollar_banknote|Dollar banknote
+dolphin|Dolphin
+donkey|Donkey
+door|Door
+dotted_line_face|Dotted line face
+dotted_six-pointed_star|Dotted six-pointed star
+double_curly_loop|Double curly loop
+double_exclamation_mark|Double exclamation mark
+doughnut|Doughnut
+dove|Dove
+down-left_arrow|Down-left arrow
+down-right_arrow|Down-right arrow
+down_arrow|Down arrow
+downcast_face_with_sweat|Downcast face with sweat
+downwards_button|Downwards button
+dragon|Dragon
+dragon_face|Dragon face
+dress|Dress
+drooling_face|Drooling face
+drop_of_blood|Drop of blood
+droplet|Droplet
+drum|Drum
+duck|Duck
+dumpling|Dumpling
+dvd|Dvd
+e-mail|E-mail
+eagle|Eagle
+ear_of_corn|Ear of corn
+egg|Egg
+eggplant|Eggplant
+eight-pointed_star|Eight-pointed star
+eight-spoked_asterisk|Eight-spoked asterisk
+eight-thirty|Eight-thirty
+eight_oclock|Eight oclock
+eject_button|Eject button
+electric_plug|Electric plug
+elephant|Elephant
+elevator|Elevator
+eleven-thirty|Eleven-thirty
+eleven_oclock|Eleven oclock
+empty_nest|Empty nest
+end_arrow|End arrow
+envelope|Envelope
+envelope_with_arrow|Envelope with arrow
+euro_banknote|Euro banknote
+evergreen_tree|Evergreen tree
+ewe|Ewe
+exclamation_question_mark|Exclamation question mark
+exploding_head|Exploding head
+expressionless_face|Expressionless face
+eye|Eye
+eye_in_speech_bubble|Eye in speech bubble
+eyes|Eyes
+face_blowing_a_kiss|Face blowing a kiss
+face_exhaling|Face exhaling
+face_holding_back_tears|Face holding back tears
+face_in_clouds|Face in clouds
+face_savoring_food|Face savoring food
+face_screaming_in_fear|Face screaming in fear
+face_vomiting|Face vomiting
+face_with_diagonal_mouth|Face with diagonal mouth
+face_with_hand_over_mouth|Face with hand over mouth
+face_with_head-bandage|Face with head-bandage
+face_with_medical_mask|Face with medical mask
+face_with_monocle|Face with monocle
+face_with_open_eyes_and_hand_over_mouth|Face with open eyes and hand over mouth
+face_with_open_mouth|Face with open mouth
+face_with_peeking_eye|Face with peeking eye
+face_with_raised_eyebrow|Face with raised eyebrow
+face_with_rolling_eyes|Face with rolling eyes
+face_with_spiral_eyes|Face with spiral eyes
+face_with_steam_from_nose|Face with steam from nose
+face_with_symbols_on_mouth|Face with symbols on mouth
+face_with_tears_of_joy|Face with tears of joy
+face_with_thermometer|Face with thermometer
+face_with_tongue|Face with tongue
+face_without_mouth|Face without mouth
+factory|Factory
+falafel|Falafel
+fallen_leaf|Fallen leaf
+fast-forward_button|Fast-forward button
+fast_down_button|Fast down button
+fast_reverse_button|Fast reverse button
+fast_up_button|Fast up button
+fax_machine|Fax machine
+fearful_face|Fearful face
+feather|Feather
+female_sign|Female sign
+ferris_wheel|Ferris wheel
+ferry|Ferry
+field_hockey|Field hockey
+file_cabinet|File cabinet
+file_folder|File folder
+film_frames|Film frames
+film_projector|Film projector
+fire|Fire
+fire_engine|Fire engine
+fire_extinguisher|Fire extinguisher
+firecracker|Firecracker
+fireworks|Fireworks
+first_quarter_moon|First quarter moon
+first_quarter_moon_face|First quarter moon face
+fish|Fish
+fish_cake_with_swirl|Fish cake with swirl
+fishing_pole|Fishing pole
+five-thirty|Five-thirty
+five_oclock|Five oclock
+flag_in_hole|Flag in hole
+flamingo|Flamingo
+flashlight|Flashlight
+flat_shoe|Flat shoe
+flatbread|Flatbread
+fleur-de-lis|Fleur-de-lis
+floppy_disk|Floppy disk
+flower_playing_cards|Flower playing cards
+flushed_face|Flushed face
+flute|Flute
+fly|Fly
+flying_disc|Flying disc
+flying_saucer|Flying saucer
+fog|Fog
+foggy|Foggy
+folding_hand_fan|Folding hand fan
+fondue|Fondue
+footprints|Footprints
+fork_and_knife|Fork and knife
+fork_and_knife_with_plate|Fork and knife with plate
+fortune_cookie|Fortune cookie
+fountain|Fountain
+fountain_pen|Fountain pen
+four-thirty|Four-thirty
+four_leaf_clover|Four leaf clover
+four_oclock|Four oclock
+fox|Fox
+framed_picture|Framed picture
+free_button|Free button
+french_fries|French fries
+fried_shrimp|Fried shrimp
+frog|Frog
+front-facing_baby_chick|Front-facing baby chick
+frowning_face|Frowning face
+frowning_face_with_open_mouth|Frowning face with open mouth
+fuel_pump|Fuel pump
+full_moon|Full moon
+full_moon_face|Full moon face
+funeral_urn|Funeral urn
+game_die|Game die
+garlic|Garlic
+gear|Gear
+gem_stone|Gem stone
+gemini|Gemini
+ghost|Ghost
+ginger_root|Ginger root
+giraffe|Giraffe
+glass_of_milk|Glass of milk
+glasses|Glasses
+globe_showing_americas|Globe showing americas
+globe_showing_asia-australia|Globe showing asia-australia
+globe_showing_europe-africa|Globe showing europe-africa
+globe_with_meridians|Globe with meridians
+gloves|Gloves
+glowing_star|Glowing star
+goal_net|Goal net
+goat|Goat
+goblin|Goblin
+goggles|Goggles
+goose|Goose
+gorilla|Gorilla
+graduation_cap|Graduation cap
+grapes|Grapes
+green_apple|Green apple
+green_book|Green book
+green_circle|Green circle
+green_heart|Green heart
+green_salad|Green salad
+green_square|Green square
+grey_heart|Grey heart
+grimacing_face|Grimacing face
+grinning_cat|Grinning cat
+grinning_cat_with_smiling_eyes|Grinning cat with smiling eyes
+grinning_face|Grinning face
+grinning_face_with_big_eyes|Grinning face with big eyes
+grinning_face_with_smiling_eyes|Grinning face with smiling eyes
+grinning_face_with_sweat|Grinning face with sweat
+grinning_squinting_face|Grinning squinting face
+growing_heart|Growing heart
+guide_dog|Guide dog
+guitar|Guitar
+hair_pick|Hair pick
+hamburger|Hamburger
+hammer|Hammer
+hammer_and_pick|Hammer and pick
+hammer_and_wrench|Hammer and wrench
+hamsa|Hamsa
+hamster|Hamster
+handbag|Handbag
+handshake|Handshake
+hatching_chick|Hatching chick
+head_shaking_horizontally|Head shaking horizontally
+head_shaking_vertically|Head shaking vertically
+headphone|Headphone
+headstone|Headstone
+hear-no-evil_monkey|Hear-no-evil monkey
+heart_decoration|Heart decoration
+heart_exclamation|Heart exclamation
+heart_on_fire|Heart on fire
+heart_suit|Heart suit
+heart_with_arrow|Heart with arrow
+heart_with_ribbon|Heart with ribbon
+heavy_dollar_sign|Heavy dollar sign
+heavy_equals_sign|Heavy equals sign
+hedgehog|Hedgehog
+helicopter|Helicopter
+herb|Herb
+hibiscus|Hibiscus
+high-heeled_shoe|High-heeled shoe
+high-speed_train|High-speed train
+high_voltage|High voltage
+hiking_boot|Hiking boot
+hindu_temple|Hindu temple
+hippopotamus|Hippopotamus
+hole|Hole
+hollow_red_circle|Hollow red circle
+honey_pot|Honey pot
+honeybee|Honeybee
+hook|Hook
+horizontal_traffic_light|Horizontal traffic light
+horse|Horse
+horse_face|Horse face
+hospital|Hospital
+hot_beverage|Hot beverage
+hot_dog|Hot dog
+hot_face|Hot face
+hot_pepper|Hot pepper
+hot_springs|Hot springs
+hotel|Hotel
+hourglass_done|Hourglass done
+hourglass_not_done|Hourglass not done
+house|House
+house_with_garden|House with garden
+houses|Houses
+hugging_face|Hugging face
+hundred_points|Hundred points
+hushed_face|Hushed face
+hut|Hut
+hyacinth|Hyacinth
+ice|Ice
+ice_cream|Ice cream
+ice_hockey|Ice hockey
+ice_skate|Ice skate
+id_button|Id button
+identification_card|Identification card
+inbox_tray|Inbox tray
+incoming_envelope|Incoming envelope
+infinity|Infinity
+information|Information
+input_latin_letters|Input latin letters
+input_latin_lowercase|Input latin lowercase
+input_latin_uppercase|Input latin uppercase
+input_numbers|Input numbers
+input_symbols|Input symbols
+jack-o-lantern|Jack-o-lantern
+japanese_acceptable_button|Japanese acceptable button
+japanese_application_button|Japanese application button
+japanese_bargain_button|Japanese bargain button
+japanese_castle|Japanese castle
+japanese_congratulations_button|Japanese congratulations button
+japanese_discount_button|Japanese discount button
+japanese_dolls|Japanese dolls
+japanese_free_of_charge_button|Japanese free of charge button
+japanese_here_button|Japanese here button
+japanese_monthly_amount_button|Japanese monthly amount button
+japanese_no_vacancy_button|Japanese no vacancy button
+japanese_not_free_of_charge_button|Japanese not free of charge button
+japanese_open_for_business_button|Japanese open for business button
+japanese_passing_grade_button|Japanese passing grade button
+japanese_post_office|Japanese post office
+japanese_prohibited_button|Japanese prohibited button
+japanese_reserved_button|Japanese reserved button
+japanese_secret_button|Japanese secret button
+japanese_service_charge_button|Japanese service charge button
+japanese_symbol_for_beginner|Japanese symbol for beginner
+japanese_vacancy_button|Japanese vacancy button
+jar|Jar
+jeans|Jeans
+jellyfish|Jellyfish
+joker|Joker
+joystick|Joystick
+kaaba|Kaaba
+kangaroo|Kangaroo
+key|Key
+keyboard|Keyboard
+keycap_0|Keycap 0
+keycap_1|Keycap 1
+keycap_10|Keycap 10
+keycap_2|Keycap 2
+keycap_3|Keycap 3
+keycap_4|Keycap 4
+keycap_5|Keycap 5
+keycap_6|Keycap 6
+keycap_7|Keycap 7
+keycap_8|Keycap 8
+keycap_9|Keycap 9
+keycap_asterisk|Keycap asterisk
+keycap_hashtag|Keycap hashtag
+khanda|Khanda
+kick_scooter|Kick scooter
+kimono|Kimono
+kiss_mark|Kiss mark
+kissing_cat|Kissing cat
+kissing_face|Kissing face
+kissing_face_with_closed_eyes|Kissing face with closed eyes
+kissing_face_with_smiling_eyes|Kissing face with smiling eyes
+kitchen_knife|Kitchen knife
+kite|Kite
+kiwi_fruit|Kiwi fruit
+knocked-out_face|Knocked-out face
+knot|Knot
+koala|Koala
+lab_coat|Lab coat
+label|Label
+lacrosse|Lacrosse
+ladder|Ladder
+lady_beetle|Lady beetle
+laptop|Laptop
+large_blue_diamond|Large blue diamond
+large_orange_diamond|Large orange diamond
+last_quarter_moon|Last quarter moon
+last_quarter_moon_face|Last quarter moon face
+last_track_button|Last track button
+latin_cross|Latin cross
+leaf_fluttering_in_wind|Leaf fluttering in wind
+leafy_green|Leafy green
+ledger|Ledger
+left-right_arrow|Left-right arrow
+left_arrow|Left arrow
+left_arrow_curving_right|Left arrow curving right
+left_luggage|Left luggage
+left_speech_bubble|Left speech bubble
+lemon|Lemon
+leo|Leo
+leopard|Leopard
+level_slider|Level slider
+libra|Libra
+light_blue_heart|Light blue heart
+light_bulb|Light bulb
+light_rail|Light rail
+lime|Lime
+link|Link
+linked_paperclips|Linked paperclips
+lion|Lion
+lipstick|Lipstick
+litter_in_bin_sign|Litter in bin sign
+lizard|Lizard
+llama|Llama
+lobster|Lobster
+locked|Locked
+locked_with_key|Locked with key
+locked_with_pen|Locked with pen
+locomotive|Locomotive
+lollipop|Lollipop
+long_drum|Long drum
+lotion_bottle|Lotion bottle
+lotus|Lotus
+loudly_crying_face|Loudly crying face
+loudspeaker|Loudspeaker
+love_hotel|Love hotel
+love_letter|Love letter
+low_battery|Low battery
+luggage|Luggage
+lungs|Lungs
+lying_face|Lying face
+magic_wand|Magic wand
+magnet|Magnet
+magnifying_glass_tilted_left|Magnifying glass tilted left
+magnifying_glass_tilted_right|Magnifying glass tilted right
+mahjong_red_dragon|Mahjong red dragon
+male_sign|Male sign
+mammoth|Mammoth
+man_genie|Man genie
+man_with_bunny_ears|Man with bunny ears
+man_wrestling|Man wrestling
+man_zombie|Man zombie
+mango|Mango
+mans_shoe|Mans shoe
+mantelpiece_clock|Mantelpiece clock
+manual_wheelchair|Manual wheelchair
+map_of_japan|Map of japan
+maple_leaf|Maple leaf
+maracas|Maracas
+martial_arts_uniform|Martial arts uniform
+mate|Mate
+meat_on_bone|Meat on bone
+mechanical_arm|Mechanical arm
+mechanical_leg|Mechanical leg
+medical_symbol|Medical symbol
+megaphone|Megaphone
+melon|Melon
+melting_face|Melting face
+memo|Memo
+mending_heart|Mending heart
+menorah|Menorah
+mens_room|Mens room
+metro|Metro
+microbe|Microbe
+microphone|Microphone
+microscope|Microscope
+military_helmet|Military helmet
+military_medal|Military medal
+milky_way|Milky way
+minibus|Minibus
+minus|Minus
+mirror|Mirror
+mirror_ball|Mirror ball
+moai|Moai
+mobile_phone|Mobile phone
+mobile_phone_off|Mobile phone off
+mobile_phone_with_arrow|Mobile phone with arrow
+money-mouth_face|Money-mouth face
+money_bag|Money bag
+money_with_wings|Money with wings
+monkey|Monkey
+monkey_face|Monkey face
+monorail|Monorail
+moon_cake|Moon cake
+moon_viewing_ceremony|Moon viewing ceremony
+moose|Moose
+mosque|Mosque
+mosquito|Mosquito
+motor_boat|Motor boat
+motor_scooter|Motor scooter
+motorcycle|Motorcycle
+motorized_wheelchair|Motorized wheelchair
+motorway|Motorway
+mount_fuji|Mount fuji
+mountain|Mountain
+mountain_cableway|Mountain cableway
+mountain_railway|Mountain railway
+mouse|Mouse
+mouse_face|Mouse face
+mouse_trap|Mouse trap
+mouth|Mouth
+movie_camera|Movie camera
+multiply|Multiply
+mushroom|Mushroom
+musical_keyboard|Musical keyboard
+musical_note|Musical note
+musical_notes|Musical notes
+musical_score|Musical score
+muted_speaker|Muted speaker
+name_badge|Name badge
+national_park|National park
+nauseated_face|Nauseated face
+nazar_amulet|Nazar amulet
+necktie|Necktie
+nerd_face|Nerd face
+nest_with_eggs|Nest with eggs
+nesting_dolls|Nesting dolls
+neutral_face|Neutral face
+new_button|New button
+new_moon|New moon
+new_moon_face|New moon face
+newspaper|Newspaper
+next_track_button|Next track button
+ng_button|Ng button
+night_with_stars|Night with stars
+nine-thirty|Nine-thirty
+nine_oclock|Nine oclock
+no_bicycles|No bicycles
+no_entry|No entry
+no_littering|No littering
+no_mobile_phones|No mobile phones
+no_one_under_eighteen|No one under eighteen
+no_pedestrians|No pedestrians
+no_smoking|No smoking
+non-potable_water|Non-potable water
+notebook|Notebook
+notebook_with_decorative_cover|Notebook with decorative cover
+nut_and_bolt|Nut and bolt
+o_button_(blood_type)|O button blood type
+octopus|Octopus
+oden|Oden
+office_building|Office building
+ogre|Ogre
+oil_drum|Oil drum
+ok_button|Ok button
+old_key|Old key
+olive|Olive
+om|Om
+on!_arrow|On! arrow
+oncoming_automobile|Oncoming automobile
+oncoming_bus|Oncoming bus
+oncoming_police_car|Oncoming police car
+oncoming_taxi|Oncoming taxi
+one-piece_swimsuit|One-piece swimsuit
+one-thirty|One-thirty
+one_oclock|One oclock
+onion|Onion
+open_book|Open book
+open_file_folder|Open file folder
+open_mailbox_with_lowered_flag|Open mailbox with lowered flag
+open_mailbox_with_raised_flag|Open mailbox with raised flag
+ophiuchus|Ophiuchus
+optical_disk|Optical disk
+orange_book|Orange book
+orange_circle|Orange circle
+orange_heart|Orange heart
+orange_square|Orange square
+orangutan|Orangutan
+orthodox_cross|Orthodox cross
+otter|Otter
+outbox_tray|Outbox tray
+owl|Owl
+ox|Ox
+oyster|Oyster
+p_button|P button
+package|Package
+page_facing_up|Page facing up
+page_with_curl|Page with curl
+pager|Pager
+paintbrush|Paintbrush
+palm_tree|Palm tree
+pancakes|Pancakes
+panda|Panda
+paperclip|Paperclip
+parachute|Parachute
+parrot|Parrot
+part_alternation_mark|Part alternation mark
+party_popper|Party popper
+partying_face|Partying face
+passenger_ship|Passenger ship
+passport_control|Passport control
+pause_button|Pause button
+paw_prints|Paw prints
+pea_pod|Pea pod
+peace_symbol|Peace symbol
+peach|Peach
+peacock|Peacock
+peanuts|Peanuts
+pear|Pear
+pen|Pen
+pencil|Pencil
+penguin|Penguin
+pensive_face|Pensive face
+people_hugging|People hugging
+performing_arts|Performing arts
+persevering_face|Persevering face
+person_fencing|Person fencing
+person_genie|Person genie
+person_with_bunny_ears|Person with bunny ears
+person_wrestling|Person wrestling
+person_zombie|Person zombie
+petri_dish|Petri dish
+phoenix_bird|Phoenix bird
+pick|Pick
+pickup_truck|Pickup truck
+pie|Pie
+pig|Pig
+pig_face|Pig face
+pig_nose|Pig nose
+pile_of_poo|Pile of poo
+pill|Pill
+pine_decoration|Pine decoration
+pineapple|Pineapple
+ping_pong|Ping pong
+pink_heart|Pink heart
+pirate_flag|Pirate flag
+pisces|Pisces
+pizza|Pizza
+piñata|Piñata
+placard|Placard
+place_of_worship|Place of worship
+play_button|Play button
+play_or_pause_button|Play or pause button
+playground_slide|Playground slide
+pleading_face|Pleading face
+plunger|Plunger
+plus|Plus
+polar_bear|Polar bear
+police_car|Police car
+police_car_light|Police car light
+poodle|Poodle
+pool_8_ball|Pool 8 ball
+popcorn|Popcorn
+post_office|Post office
+postal_horn|Postal horn
+postbox|Postbox
+pot_of_food|Pot of food
+potable_water|Potable water
+potato|Potato
+potted_plant|Potted plant
+poultry_leg|Poultry leg
+pound_banknote|Pound banknote
+pouring_liquid|Pouring liquid
+pouting_cat|Pouting cat
+pouting_face|Pouting face
+prayer_beads|Prayer beads
+pretzel|Pretzel
+printer|Printer
+prohibited|Prohibited
+purple_circle|Purple circle
+purple_heart|Purple heart
+purple_square|Purple square
+purse|Purse
+pushpin|Pushpin
+puzzle_piece|Puzzle piece
+rabbit|Rabbit
+rabbit_face|Rabbit face
+raccoon|Raccoon
+racing_car|Racing car
+radio|Radio
+radio_button|Radio button
+radioactive|Radioactive
+railway_car|Railway car
+railway_track|Railway track
+rainbow|Rainbow
+rainbow_flag|Rainbow flag
+ram|Ram
+rat|Rat
+razor|Razor
+receipt|Receipt
+record_button|Record button
+recycling_symbol|Recycling symbol
+red_apple|Red apple
+red_circle|Red circle
+red_envelope|Red envelope
+red_exclamation_mark|Red exclamation mark
+red_heart|Red heart
+red_paper_lantern|Red paper lantern
+red_question_mark|Red question mark
+red_square|Red square
+red_triangle|Red triangle
+red_triangle_pointed_down|Red triangle pointed down
+registered|Registered
+relieved_face|Relieved face
+reminder_ribbon|Reminder ribbon
+repeat_button|Repeat button
+repeat_single_button|Repeat single button
+rescue_workers_helmet|Rescue workers helmet
+restroom|Restroom
+reverse_button|Reverse button
+revolving_hearts|Revolving hearts
+rhinoceros|Rhinoceros
+ribbon|Ribbon
+rice_ball|Rice ball
+rice_cracker|Rice cracker
+right_anger_bubble|Right anger bubble
+right_arrow|Right arrow
+right_arrow_curving_down|Right arrow curving down
+right_arrow_curving_left|Right arrow curving left
+right_arrow_curving_up|Right arrow curving up
+ring|Ring
+ring_buoy|Ring buoy
+ringed_planet|Ringed planet
+roasted_sweet_potato|Roasted sweet potato
+robot|Robot
+rock|Rock
+rocket|Rocket
+roll_of_paper|Roll of paper
+rolled-up_newspaper|Rolled-up newspaper
+roller_coaster|Roller coaster
+roller_skate|Roller skate
+rolling_on_the_floor_laughing|Rolling on the floor laughing
+rooster|Rooster
+rose|Rose
+rosette|Rosette
+round_pushpin|Round pushpin
+rugby_football|Rugby football
+running_shirt|Running shirt
+running_shoe|Running shoe
+sad_but_relieved_face|Sad but relieved face
+safety_pin|Safety pin
+safety_vest|Safety vest
+sagittarius|Sagittarius
+sailboat|Sailboat
+sake|Sake
+salt|Salt
+saluting_face|Saluting face
+sandwich|Sandwich
+sari|Sari
+satellite|Satellite
+satellite_antenna|Satellite antenna
+sauropod|Sauropod
+saxophone|Saxophone
+scarf|Scarf
+school|School
+scissors|Scissors
+scorpio|Scorpio
+scorpion|Scorpion
+screwdriver|Screwdriver
+scroll|Scroll
+seal|Seal
+seat|Seat
+see-no-evil_monkey|See-no-evil monkey
+seedling|Seedling
+service_dog|Service dog
+seven-thirty|Seven-thirty
+seven_oclock|Seven oclock
+sewing_needle|Sewing needle
+shaking_face|Shaking face
+shallow_pan_of_food|Shallow pan of food
+shamrock|Shamrock
+shark|Shark
+shaved_ice|Shaved ice
+sheaf_of_rice|Sheaf of rice
+shield|Shield
+shinto_shrine|Shinto shrine
+ship|Ship
+shooting_star|Shooting star
+shopping_bags|Shopping bags
+shopping_cart|Shopping cart
+shortcake|Shortcake
+shorts|Shorts
+shower|Shower
+shrimp|Shrimp
+shuffle_tracks_button|Shuffle tracks button
+shushing_face|Shushing face
+six-thirty|Six-thirty
+six_oclock|Six oclock
+skateboard|Skateboard
+skier|Skier
+skis|Skis
+skull|Skull
+skull_and_crossbones|Skull and crossbones
+skunk|Skunk
+sled|Sled
+sleeping_face|Sleeping face
+sleepy_face|Sleepy face
+slightly_frowning_face|Slightly frowning face
+slightly_smiling_face|Slightly smiling face
+slot_machine|Slot machine
+sloth|Sloth
+small_airplane|Small airplane
+small_blue_diamond|Small blue diamond
+small_orange_diamond|Small orange diamond
+smiling_cat_with_heart-eyes|Smiling cat with heart-eyes
+smiling_face|Smiling face
+smiling_face_with_halo|Smiling face with halo
+smiling_face_with_heart-eyes|Smiling face with heart-eyes
+smiling_face_with_hearts|Smiling face with hearts
+smiling_face_with_horns|Smiling face with horns
+smiling_face_with_smiling_eyes|Smiling face with smiling eyes
+smiling_face_with_sunglasses|Smiling face with sunglasses
+smiling_face_with_tear|Smiling face with tear
+smirking_face|Smirking face
+snail|Snail
+snake|Snake
+sneezing_face|Sneezing face
+snow-capped_mountain|Snow-capped mountain
+snowflake|Snowflake
+snowman|Snowman
+snowman_without_snow|Snowman without snow
+soap|Soap
+soccer_ball|Soccer ball
+socks|Socks
+soft_ice_cream|Soft ice cream
+softball|Softball
+soon_arrow|Soon arrow
+sos_button|Sos button
+spade_suit|Spade suit
+spaghetti|Spaghetti
+sparkle|Sparkle
+sparkler|Sparkler
+sparkles|Sparkles
+sparkling_heart|Sparkling heart
+speak-no-evil_monkey|Speak-no-evil monkey
+speaker_high_volume|Speaker high volume
+speaker_low_volume|Speaker low volume
+speaker_medium_volume|Speaker medium volume
+speaking_head|Speaking head
+speech_balloon|Speech balloon
+speedboat|Speedboat
+spider|Spider
+spider_web|Spider web
+spiral_calendar|Spiral calendar
+spiral_notepad|Spiral notepad
+spiral_shell|Spiral shell
+sponge|Sponge
+spoon|Spoon
+sport_utility_vehicle|Sport utility vehicle
+sports_medal|Sports medal
+spouting_whale|Spouting whale
+squid|Squid
+squinting_face_with_tongue|Squinting face with tongue
+stadium|Stadium
+star|Star
+star-struck|Star-struck
+star_and_crescent|Star and crescent
+star_of_david|Star of david
+station|Station
+statue_of_liberty|Statue of liberty
+steaming_bowl|Steaming bowl
+stethoscope|Stethoscope
+stop_button|Stop button
+stop_sign|Stop sign
+stopwatch|Stopwatch
+straight_ruler|Straight ruler
+strawberry|Strawberry
+studio_microphone|Studio microphone
+stuffed_flatbread|Stuffed flatbread
+sun|Sun
+sun_behind_cloud|Sun behind cloud
+sun_behind_large_cloud|Sun behind large cloud
+sun_behind_rain_cloud|Sun behind rain cloud
+sun_behind_small_cloud|Sun behind small cloud
+sun_with_face|Sun with face
+sunflower|Sunflower
+sunglasses|Sunglasses
+sunrise|Sunrise
+sunrise_over_mountains|Sunrise over mountains
+sunset|Sunset
+sushi|Sushi
+suspension_railway|Suspension railway
+swan|Swan
+sweat_droplets|Sweat droplets
+synagogue|Synagogue
+syringe|Syringe
+t-rex|T-rex
+t-shirt|T-shirt
+taco|Taco
+takeout_box|Takeout box
+tamale|Tamale
+tanabata_tree|Tanabata tree
+tangerine|Tangerine
+taurus|Taurus
+taxi|Taxi
+teacup_without_handle|Teacup without handle
+teapot|Teapot
+tear-off_calendar|Tear-off calendar
+teddy_bear|Teddy bear
+telephone|Telephone
+telephone_receiver|Telephone receiver
+telescope|Telescope
+television|Television
+ten-thirty|Ten-thirty
+ten_oclock|Ten oclock
+tennis|Tennis
+tent|Tent
+test_tube|Test tube
+thermometer|Thermometer
+thinking_face|Thinking face
+thong_sandal|Thong sandal
+thought_balloon|Thought balloon
+thread|Thread
+three-thirty|Three-thirty
+three_oclock|Three oclock
+ticket|Ticket
+tiger|Tiger
+tiger_face|Tiger face
+timer_clock|Timer clock
+tired_face|Tired face
+toilet|Toilet
+tokyo_tower|Tokyo tower
+tomato|Tomato
+tongue|Tongue
+toolbox|Toolbox
+tooth|Tooth
+toothbrush|Toothbrush
+top_arrow|Top arrow
+top_hat|Top hat
+tornado|Tornado
+trackball|Trackball
+tractor|Tractor
+trade_mark|Trade mark
+train|Train
+tram|Tram
+tram_car|Tram car
+transgender_flag|Transgender flag
+transgender_symbol|Transgender symbol
+triangular_flag|Triangular flag
+triangular_ruler|Triangular ruler
+trident_emblem|Trident emblem
+troll|Troll
+trolleybus|Trolleybus
+trophy|Trophy
+tropical_drink|Tropical drink
+tropical_fish|Tropical fish
+trumpet|Trumpet
+tulip|Tulip
+tumbler_glass|Tumbler glass
+turkey|Turkey
+turtle|Turtle
+twelve-thirty|Twelve-thirty
+twelve_oclock|Twelve oclock
+two-hump_camel|Two-hump camel
+two-thirty|Two-thirty
+two_hearts|Two hearts
+two_oclock|Two oclock
+umbrella|Umbrella
+umbrella_on_ground|Umbrella on ground
+umbrella_with_rain_drops|Umbrella with rain drops
+unamused_face|Unamused face
+unicorn|Unicorn
+unlocked|Unlocked
+up!_button|Up! button
+up-down_arrow|Up-down arrow
+up-left_arrow|Up-left arrow
+up-right_arrow|Up-right arrow
+up_arrow|Up arrow
+upside-down_face|Upside-down face
+upwards_button|Upwards button
+vertical_traffic_light|Vertical traffic light
+vibration_mode|Vibration mode
+video_camera|Video camera
+video_game|Video game
+videocassette|Videocassette
+violin|Violin
+virgo|Virgo
+volcano|Volcano
+volleyball|Volleyball
+vs_button|Vs button
+waffle|Waffle
+waning_crescent_moon|Waning crescent moon
+waning_gibbous_moon|Waning gibbous moon
+warning|Warning
+wastebasket|Wastebasket
+watch|Watch
+water_buffalo|Water buffalo
+water_closet|Water closet
+water_pistol|Water pistol
+water_wave|Water wave
+watermelon|Watermelon
+wavy_dash|Wavy dash
+waxing_crescent_moon|Waxing crescent moon
+waxing_gibbous_moon|Waxing gibbous moon
+weary_cat|Weary cat
+weary_face|Weary face
+wedding|Wedding
+whale|Whale
+wheel|Wheel
+wheel_of_dharma|Wheel of dharma
+wheelchair_symbol|Wheelchair symbol
+white_cane|White cane
+white_circle|White circle
+white_exclamation_mark|White exclamation mark
+white_flag|White flag
+white_flower|White flower
+white_heart|White heart
+white_large_square|White large square
+white_medium-small_square|White medium-small square
+white_medium_square|White medium square
+white_question_mark|White question mark
+white_small_square|White small square
+white_square_button|White square button
+wilted_flower|Wilted flower
+wind_chime|Wind chime
+wind_face|Wind face
+window|Window
+wine_glass|Wine glass
+wing|Wing
+winking_face|Winking face
+winking_face_with_tongue|Winking face with tongue
+wireless|Wireless
+wolf|Wolf
+woman_genie|Woman genie
+woman_with_bunny_ears|Woman with bunny ears
+woman_wrestling|Woman wrestling
+woman_zombie|Woman zombie
+womans_boot|Womans boot
+womans_clothes|Womans clothes
+womans_hat|Womans hat
+womans_sandal|Womans sandal
+womens_room|Womens room
+wood|Wood
+woozy_face|Woozy face
+world_map|World map
+worm|Worm
+worried_face|Worried face
+wrapped_gift|Wrapped gift
+wrench|Wrench
+x-ray|X-ray
+yarn|Yarn
+yawning_face|Yawning face
+yellow_circle|Yellow circle
+yellow_heart|Yellow heart
+yellow_square|Yellow square
+yen_banknote|Yen banknote
+yin_yang|Yin yang
+yo-yo|Yo-yo
+zany_face|Zany face
+zebra|Zebra
+zipper-mouth_face|Zipper-mouth face
+zzz|Zzz
