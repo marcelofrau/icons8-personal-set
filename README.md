@@ -20,11 +20,11 @@
 # Icons8 Personal Icon Set
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Icons](https://img.shields.io/badge/icons-629-3d82e6?logo=icons8&logoColor=white)](icon-catalog.md)
+[![Icons](https://img.shields.io/badge/icons-628-3d82e6?logo=icons8&logoColor=white)](icon-catalog.md)
 [![Styles](https://img.shields.io/badge/styles-3d--fluency%20%7C%20fluency%20%7C%20fluentui--emoji%20%7C%20retro-ff6b6b)]()
 [![Sizes](https://img.shields.io/badge/sizes-16%E2%80%93256px%20%7C%20.ico-00c853)]()
 
-A ready-to-use **desktop icon library** — **629 icons** in **3d-fluency**, **fluency**, **fluentui-emoji**, and **retro** styles, available as multi-size PNGs (16–256px) and Windows `.ico` files.
+A ready-to-use **desktop icon library** — **628 icons** in **3d-fluency**, **fluency**, **fluentui-emoji**, and **retro** styles, available as multi-size PNGs (16–256px) and Windows `.ico` files.
 
 ## Purpose
 
@@ -51,8 +51,8 @@ This icon library is an aggregate of icons from multiple freely-available source
 
 | Source | Style | Count | License |
 |---|---|---|---|---|
-| [Icons8](https://icons8.com) — 3d-fluency | 3D rendered | 486 icons | [Free with attribution](https://icons8.com/license) |
-| [Icons8](https://icons8.com) — fluency | Flat 2D | 127 icons | [Free with attribution](https://icons8.com/license) |
+| [Icons8](https://icons8.com) — 3d-fluency | 3D rendered | 414 icons | [Free with attribution](https://icons8.com/license) |
+| [Icons8](https://icons8.com) — fluency | Flat 2D | 159 icons | [Free with attribution](https://icons8.com/license) |
 | [FluentUI Emoji](https://github.com/microsoft/fluentui-emoji) — Microsoft | 3D emoji | 28 icons | [MIT](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE) |
 | [Twemoji](https://github.com/jdecked/twemoji) — Twitter/X | Emoji (fallback) | 11 icons | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | [KyleBing/retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons) — Retro console | Flat retro | 16 icons | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) |
@@ -115,14 +115,14 @@ https://raw.githubusercontent.com/KyleBing/retro-game-console-icons/main/series_
 
 | | Count |
 |---|---|---|
-| 3d-fluency icons (Icons8) | 486 |
-| fluency icons (Icons8) | 127 |
+| 3d-fluency icons (Icons8) | 414 |
+| fluency icons (Icons8) | 159 |
 | FluentUI emojis (with Twemoji fallback) | 39 |
 | Retro console icons (KyleBing) | 16 |
-| Total icons | 629 |
+| Total icons | 628 |
 | Size variants | 7 (50, 100, 16, 32, 48, 128, 256) |
-| Total `.ico` files | 629 |
-| Total PNG files | 4,403 |
+| Total `.ico` files | 628 |
+| Total PNG files | 4,396 |
 | Icon categories | 27 |
 
 ## Structure
@@ -139,6 +139,7 @@ ico/              Multi-resolution .ico (16+32+48+128+256)
 process-icons.py  Auto-processing pipeline
 generate-catalog.py  Icon catalog generator
 icon-catalog.md   Full catalog with previews
+icon-catalog-ai.md AI-friendly catalog (low context)
 missing-icons.md  Icons grouped by category
 PIPELINE.md       Technical pipeline docs
 ```

@@ -8,6 +8,7 @@ from pathlib import Path
 
 BASE_DIR = Path(r"C:\Users\fraumar\Apps\_downloads\icons8")
 OUTPUT = BASE_DIR / "icon-catalog.md"
+OUTPUT_AI = BASE_DIR / "icon-catalog-ai.md"
 
 CATEGORIES = {
     "File Types": [
@@ -172,7 +173,7 @@ CATEGORIES = {
         "documentary", "done", "done-1", "doctors-bag",
         "energy-meter", "engine", "flash-on",
         "full-tool-storage-box", "gear", "globe-africa", "gps-signal",
-        "hamburger", "home-address", "home-office",
+        "home-address", "home-office",
         "housekeeping", "idea", "ingredients", "inspection",
         "real-estate", "recycle", "robotic", "rocket", "sound",
         "test-passed", "test-tube", "two-gears", "video-gallery",
@@ -295,6 +296,41 @@ def main():
     Path(OUTPUT).write_text("\n".join(md) + "\n", encoding="utf-8")
     print(f"Catalog written to {OUTPUT}")
     print(f"Total icons: {len(icons)}")
+
+    # --- AI-friendly catalog ---
+    md_ai = []
+    md_ai.append("# Icon Catalog (AI-friendly)\n")
+    md_ai.append(f"Total icons: {len(icons)}")
+    md_ai.append(f"PNG sizes: 16, 32, 48, 128, 256")
+    md_ai.append(f"Source sizes: 50, 100")
+    md_ai.append(f"Archive format: .ico (16+32+48+128+256)\n")
+    md_ai.append("File naming:")
+    md_ai.append("  icons8-<name>-3d-<size>.png   (Icons8 3d-fluency)")
+    md_ai.append("  icons8-<name>-2d-<size>.png   (Icons8 fluency)")
+    md_ai.append("  icons8-<name>-<size>.png      (Icons8 legacy alias, 3d-fluency style)")
+    md_ai.append("  fluentui-<name>-<size>.png    (FluentUI / Twemoji emoji)")
+    md_ai.append("  retro-<name>-<size>.png       (KyleBing retro console)\n")
+    md_ai.append("Example:")
+    md_ai.append("  icons8-pdf-3d")
+    md_ai.append("  -> 16x16/icons8-pdf-3d-16.png")
+    md_ai.append("  -> 32x32/icons8-pdf-3d-32.png")
+    md_ai.append("  -> 48x48/icons8-pdf-3d-48.png")
+    md_ai.append("  -> 128x128/icons8-pdf-3d-128.png")
+    md_ai.append("  -> 256x256/icons8-pdf-3d-256.png")
+    md_ai.append("  -> 50x50/icons8-pdf-3d-50.png (source)")
+    md_ai.append("  -> 100x100/icons8-pdf-3d-100.png (source)")
+    md_ai.append("  -> ico/icons8-pdf-3d.ico\n")
+
+    for cat in sorted(by_cat.keys(), key=sort_key):
+        items = by_cat[cat]
+        md_ai.append(f"## {cat}")
+        for base, name, style in items:
+            short = icon_key(name)
+            md_ai.append(f"- {short} ({style})")
+        md_ai.append("")
+
+    Path(OUTPUT_AI).write_text("\n".join(md_ai) + "\n", encoding="utf-8")
+    print(f"AI catalog written to {OUTPUT_AI}")
 
 
 if __name__ == "__main__":
