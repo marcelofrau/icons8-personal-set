@@ -4,8 +4,7 @@
 Desktop icon library: 628 icons in 4 styles, each with 7 PNG sizes + `.ico`.
 
 ## Environment
-- **Path:** `C:\Users\fraumar\Apps\_downloads\icons8`
-- **Git remote:** `git@github-personal:marcelofrau/icons8-personal-set` (branch `main`)
+- **Git remote:** `git@github.com:user/icons8-personal-set` (branch `main`)
 - **Platform:** Windows (PowerShell 7+)
 - **Dependencies:** ImageMagick 7 (`magick`), optipng, Python 3
 
@@ -103,8 +102,3 @@ Each is standalone, meant to be run once. They download to 50x50/ and 100x100/.
 - **Check duplicates:** `python -c "from pathlib import Path; [print(x) for x in Path('50x50').glob('*.png')]"`
 - **Full re-download:** wipe 50x50/, 100x100/, rerun download scripts, then process-icons
 
-## Important Constraints
-- Never use `gh` CLI; only plain `git`
-- Git remote uses host `github-personal` (SSH config alias)
-- All download scripts kept in repo for reproducibility
-- Pipeline skips existing files (idempotent)
