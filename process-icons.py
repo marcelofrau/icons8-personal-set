@@ -29,7 +29,7 @@ import argparse
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BASE_DIR = Path(r"C:\Users\fraumar\Apps\_downloads\icons8")
+BASE_DIR = Path(__file__).parent.resolve()
 FOLDERS = {
     "source_small": "50x50",
     "source_large": "100x100",

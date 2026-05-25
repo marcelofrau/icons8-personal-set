@@ -1,6 +1,6 @@
 # Icon Catalog (AI-friendly)
 
-Total icons: 628
+Total icons: 755
 Sizes: 16, 32, 48, 128, 256px + source sizes 50, 100px
 Archive: .ico (16+32+48+128+256)
 
@@ -22,6 +22,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-3d-perplexity-ai-logo
 - icons8-amazon
 - icons8-android-2d
+- icons8-android-studio-2d
 - icons8-apple-logo-3d
 - icons8-behance-3d
 - icons8-blue-windows-logo
@@ -33,29 +34,52 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-discord-3d
 - icons8-docker-2d
 - icons8-dribbble-2d
+- icons8-eclipse-2d
 - icons8-facebook-logo
 - icons8-figma-2d
+- icons8-git-2d
 - icons8-github
 - icons8-github-copilot
 - icons8-gmail-logo
+- icons8-inkscape-2d
 - icons8-instagram-logo
+- icons8-intellij-idea-2d
 - icons8-java
+- icons8-javascript-2d
 - icons8-linkedin
+- icons8-ms-excel-3d
+- icons8-ms-powerpoint-2d
+- icons8-ms-word-3d
+- icons8-mysql-2d
+- icons8-node-js-2d
 - icons8-notion-2d
+- icons8-obs-studio-2d
+- icons8-opera-2d
+- icons8-php-2d
 - icons8-pinterest-3d
 - icons8-python
 - icons8-raspberry
 - icons8-reddit-3d
+- icons8-redis-2d
+- icons8-skype-2d
 - icons8-snapchat-3d
 - icons8-spotify-logo
+- icons8-sublime-text-2d
+- icons8-swift-2d
+- icons8-teamviewer-2d
 - icons8-telegram
 - icons8-tiktok-3d
 - icons8-twitch-3d
 - icons8-twitter-2d
+- icons8-typescript-2d
+- icons8-virtualbox-2d
+- icons8-visual-studio-2d
+- icons8-vlc-3d
 - icons8-whatsapp-logo
 - icons8-windows-10-3d
 - icons8-winrar
 - icons8-youtube
+- icons8-zoom-3d
 
 ## Audio
 - icons8-headphones-2d
@@ -77,10 +101,24 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-picture
 
 ## Development / Code
+- icons8-bash-2d
+- icons8-checkout-2d
+- icons8-class-3d
+- icons8-clone-2d
 - icons8-code
 - icons8-command-line
+- icons8-fork-3d
+- icons8-indent-2d
+- icons8-library-3d
+- icons8-outdent-2d
+- icons8-patch-2d
+- icons8-pipeline-3d
 - icons8-programming
+- icons8-run-command-2d
 - icons8-source-code
+- icons8-spell-check-2d
+- icons8-tag-2d
+- icons8-variable-2d
 
 ## File / Folder Operations
 - icons8-add-file
@@ -125,7 +163,6 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-sort-by-2d
 - icons8-sorting-3d
 - icons8-split-2d
-- icons8-tag-2d
 - icons8-test-2d
 
 ## File Types
@@ -165,6 +202,72 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-video-file-2d
 - icons8-wav-2d
 - icons8-zip-2d
+
+## Food & Drinks
+- coffee-cup
+- coffee-espresso
+- coffee-latte-1
+- coffee-latte-2
+- fluentui-dumpling
+- fluentui-egg
+- fluentui-fig
+- fluentui-lemon
+- fluentui-lollipop
+- fluentui-muffin
+- fluentui-rice
+- fluentui-shrimp
+- fluentui-soup
+- icons8-bacon-3d
+- icons8-baguette-3d
+- icons8-beer-2d
+- icons8-blueberry-3d
+- icons8-bottle-of-water-2d
+- icons8-bread-2d
+- icons8-champagne-2d
+- icons8-cheese-3d
+- icons8-chili-pepper-3d
+- icons8-chocolate-bar-3d
+- icons8-cocktail-2d
+- icons8-coconut-3d
+- icons8-coffee-3d
+- icons8-croissant-3d
+- icons8-cupcake-3d
+- icons8-date-2d
+- icons8-doughnut-3d
+- icons8-french-fries-3d
+- icons8-garlic-3d
+- icons8-honey-2d
+- icons8-kiwi-3d
+- icons8-lime-2d
+- icons8-lychee-2d
+- icons8-mango-3d
+- icons8-meat-3d
+- icons8-melon-3d
+- icons8-milk-2d
+- icons8-noodles-3d
+- icons8-olive-3d
+- icons8-onion-3d
+- icons8-orange-juice-2d
+- icons8-pancake-3d
+- icons8-papaya-3d
+- icons8-peanut-3d
+- icons8-pomegranate-3d
+- icons8-popcorn-2d
+- icons8-pretzel-3d
+- icons8-salad-3d
+- icons8-sandwich-2d
+- icons8-sausage-3d
+- icons8-soda-3d
+- icons8-spaghetti-3d
+- icons8-steak-3d
+- icons8-sushi-3d
+- icons8-taco-3d
+- icons8-tea-3d
+- icons8-toast-3d
+- icons8-water-3d
+- icons8-white-wine-2d
+- icons8-wine-bottle-3d
+- icons8-wine-glass-3d
 
 ## Gaming / Console
 - fluentui-chess-pawn
@@ -297,16 +400,22 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-video-gallery
 
 ## Network / System
+- icons8-bridge-3d
 - icons8-firewall-3d
 - icons8-hibernate-2d
+- icons8-internet-2d
 - icons8-lock-screen-2d
 - icons8-memory-slot
+- icons8-network-2d
 - icons8-processor-3d
+- icons8-router-2d
 - icons8-shutdown-3d
 - icons8-sleep-3d
 - icons8-sleep-mode-2d
+- icons8-torrent-2d
 - icons8-video-card
 - icons8-vpn-2d
+- icons8-wifi-3d
 
 ## Office / Productivity
 - icons8-about
@@ -365,6 +474,11 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-users
 - icons8-verified-account
 - icons8-writer-male
+
+## Other
+- icons8-css3-2d
+- icons8-dashboard-3d
+- icons8-job-3d
 
 ## Power / Electronics
 - icons8-battery-3d
@@ -459,9 +573,21 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-toolbar-2d
 
 ## Tools / DIY
+- icons8-7zip-2d
+- icons8-affinity-designer-2d
+- icons8-anydesk-2d
+- icons8-crystaldiskinfo-2d
 - icons8-drill-3d
+- icons8-foxit-reader-2d
+- icons8-gimp-2d
+- icons8-google-drive-2d
 - icons8-hammer
+- icons8-msi-afterburner-2d
+- icons8-nextcloud-2d
+- icons8-notepad-plus-plus-2d
+- icons8-paint-net-2d
 - icons8-pliers-3d
+- icons8-remote-desktop-2d
 - icons8-ruler-3d
 - icons8-saw-3d
 - icons8-screwdriver-2d
@@ -495,10 +621,12 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-cursor
 - icons8-cut
 - icons8-data-transfer
+- icons8-delete-2d
 - icons8-delete-shield
 - icons8-down
 - icons8-download
 - icons8-download-from-cloud
+- icons8-duplicate-2d
 - icons8-edit-pencil
 - icons8-erase
 - icons8-eye-1
@@ -512,6 +640,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-link
 - icons8-menu
 - icons8-minus
+- icons8-options-2d
 - icons8-paste
 - icons8-pencil
 - icons8-pin
@@ -526,12 +655,14 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-right
 - icons8-save
 - icons8-search
+- icons8-sort-2d
 - icons8-switch-off
 - icons8-synchronize
 - icons8-trash
 - icons8-unchecked-checkbox
 - icons8-undo
 - icons8-up
+- icons8-upload-3d
 
 ## View Modes
 - icons8-content-2d

@@ -6,7 +6,7 @@ Generate an icon catalog markdown file with 32x32 previews and direct download l
 import re
 from pathlib import Path
 
-BASE_DIR = Path(r"C:\Users\fraumar\Apps\_downloads\icons8")
+BASE_DIR = Path(__file__).parent.resolve()
 OUTPUT = BASE_DIR / "icon-catalog.md"
 OUTPUT_AI = BASE_DIR / "icon-catalog-ai.md"
 
@@ -49,8 +49,9 @@ CATEGORIES = {
         "speaker", "loudspeaker", "alarm",
     ],
     "Network / System": [
-        "vpn", "firewall", "shutdown", "sleep", "sleep-mode",
-        "hibernate", "lock-screen", "processor", "video-card", "memory-slot",
+        "bridge", "firewall", "hibernate", "internet", "lock-screen",
+        "memory-slot", "network", "processor", "router", "shutdown",
+        "sleep", "sleep-mode", "torrent", "video-card", "vpn", "wifi",
     ],
     "Text Editing": [
         "bold", "italic", "underline", "strikethrough",
@@ -59,14 +60,19 @@ CATEGORIES = {
     ],
     "Applications / Brands": [
         "3d-claude-ai-logo", "3d-perplexity-ai-logo", "amazon",
-        "android", "apple-logo", "behance", "blue-windows-logo",
-        "bot", "chatbot", "chatgpt", "chrome", "deepseek",
-        "discord", "docker", "dribbble", "facebook-logo", "figma",
-        "github", "github-copilot", "gmail-logo", "instagram-logo",
-        "java", "linkedin", "notion", "pinterest", "playstation",
-        "python", "raspberry", "reddit", "snapchat", "spotify-logo",
-        "steam-circled", "telegram", "tiktok", "twitch", "twitter",
-        "whatsapp-logo", "windows-10", "winrar", "xbox", "youtube",
+        "android", "android-studio", "apple-logo", "behance",
+        "blue-windows-logo", "bot", "chatbot", "chatgpt", "chrome",
+        "deepseek", "discord", "docker", "dribbble", "eclipse",
+        "facebook-logo", "figma", "git", "github", "github-copilot",
+        "gmail-logo", "inkscape", "instagram-logo", "intellij-idea",
+        "java", "javascript", "linkedin", "ms-excel", "ms-powerpoint",
+        "ms-word", "mysql", "node-js", "notion", "obs-studio", "opera",
+        "pinterest", "playstation", "php", "python", "raspberry",
+        "redis", "reddit", "skype", "snapchat", "spotify-logo",
+        "steam-circled", "sublime-text", "swift", "teamviewer",
+        "telegram", "tiktok", "twitch", "twitter", "typescript",
+        "virtualbox", "visual-studio", "vlc", "whatsapp-logo",
+        "windows-10", "winrar", "xbox", "youtube", "zoom",
     ],
     "Gaming / Console": [
         "atari", "cards", "console", "controller", "dice",
@@ -111,7 +117,10 @@ CATEGORIES = {
         "wi-fi-logo", "wi-fi-router", "wired-network",
     ],
     "Tools / DIY": [
-        "drill", "hammer", "pliers", "ruler", "saw",
+        "7zip", "affinity-designer", "anydesk", "crystaldiskinfo",
+        "drill", "foxit-reader", "gimp", "google-drive", "hammer",
+        "msi-afterburner", "nextcloud", "notepad-plus-plus",
+        "paint-net", "pliers", "remote-desktop", "ruler", "saw",
         "screwdriver", "soldering-iron", "toolbox", "tools",
         "tools-1", "wrench",
     ],
@@ -126,14 +135,14 @@ CATEGORIES = {
         "add", "adjust", "arrow-down", "arrow-left", "arrow-right",
         "arrow-up", "arrow-upload", "back", "cancel", "check-mark",
         "close", "close-window", "close-window-x", "close-x",
-        "copy", "cursor", "cut", "data-transfer",
-        "delete-shield", "down", "download", "download-from-cloud",
+        "copy", "cursor", "cut", "data-transfer", "delete", "delete-shield",
+        "down", "download", "download-from-cloud", "duplicate",
         "edit-pencil", "erase", "eye", "eye-1", "forward", "home",
         "info", "info-1", "info-popup", "left", "link", "menu", "minus",
-        "paste", "pencil", "pin", "play", "plus", "plus-math",
+        "options", "paste", "pencil", "pin", "play", "plus", "plus-math",
         "push-pin", "redo", "refresh", "remove", "response", "right",
-        "save", "search", "switch-off", "synchronize", "trash", "undo",
-        "unchecked-checkbox", "up",
+        "save", "search", "sort", "switch-off", "synchronize", "trash",
+        "undo", "unchecked-checkbox", "up", "upload",
     ],
     "Office / Productivity": [
         "about", "accounting", "alarm-clock", "application",
@@ -150,7 +159,10 @@ CATEGORIES = {
         "writer-male",
     ],
     "Development / Code": [
-        "code", "command-line", "programming", "source-code",
+        "bash", "checkout", "class", "clone", "code", "command-line",
+        "fork", "indent", "library", "outdent", "patch", "pipeline",
+        "programming", "run-command", "source-code", "spell-check",
+        "tag", "variable",
     ],
     "Communication / Social": [
         "chat", "chat-message", "comments", "disconnected",
@@ -165,6 +177,28 @@ CATEGORIES = {
     ],
     "Transportation": [
         "car", "gas-station", "taxi",
+    ],
+    "Food & Drinks": [
+        # Fruits
+        "blueberry", "coconut", "date", "kiwi", "lemon", "lychee",
+        "mango", "melon", "olive", "papaya", "pomegranate", "fig",
+        # Food
+        "bacon", "baguette", "bread", "cheese", "chili-pepper",
+        "chocolate-bar", "croissant", "cupcake", "doughnut",
+        "french-fries", "garlic", "honey", "meat", "noodles", "onion",
+        "pancake", "peanut", "popcorn", "pretzel", "salad", "sandwich",
+        "sausage", "spaghetti", "steak", "sushi", "taco", "toast",
+        "egg", "rice", "dumpling", "lollipop", "muffin", "shrimp", "soup",
+        # Drinks
+        "beer", "bottle-of-water", "champagne", "cocktail", "coffee",
+        "lime", "milk", "orange-juice", "soda", "tea", "water",
+        "white-wine", "wine-bottle", "wine-glass",
+        # FluentUI food emojis
+        "fluentui-lemon", "fluentui-fig", "fluentui-egg", "fluentui-rice",
+        "fluentui-dumpling", "fluentui-lollipop", "fluentui-muffin",
+        "fluentui-shrimp", "fluentui-soup",
+        # Coffee extras
+        "coffee-espresso", "coffee-latte-1", "coffee-latte-2", "coffee-cup",
     ],
     "Miscellaneous": [
         "automatic", "bang", "box-important", "broom", "company",
