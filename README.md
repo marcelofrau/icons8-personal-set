@@ -50,7 +50,7 @@ Every icon has **7 size variants** (50, 100, 16, 32, 48, 128, 256) and a multi-r
 This icon library is an aggregate of icons from multiple freely-available sources:
 
 | Source | Style | Count | License |
-|---|---|---|---|---|
+|---|---|---|---|
 | [Icons8](https://icons8.com) — 3d-fluency | 3D rendered | 414 icons | [Free with attribution](https://icons8.com/license) |
 | [Icons8](https://icons8.com) — fluency | Flat 2D | 159 icons | [Free with attribution](https://icons8.com/license) |
 | [FluentUI Emoji](https://github.com/microsoft/fluentui-emoji) — Microsoft | 3D emoji | 28 icons | [MIT](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE) |
