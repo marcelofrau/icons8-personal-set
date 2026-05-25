@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Download food, drink, and fruit icons.
-Priority: Icons8 3d-fluency  -> Icons8 fluency -> FluentUI/Twemoji.
+Priority: Icons8 3d-fluency -> Icons8 fluency -> FluentUI/Twemoji.
+Uses ImageMagick + optipng for processing.
 
 Usage:
     python download-food.py
@@ -13,13 +14,6 @@ import subprocess
 import sys
 import time
 import shutil
-import re
-from io import BytesIO
-
-try:
-    from PIL import Image
-except ImportError:
-    Image = None
 
 BASE = pathlib.Path(__file__).parent.resolve()
 SMALL = BASE / "50x50"
@@ -114,12 +108,12 @@ STYLE_MAP = {"3d": "3d-fluency", "2d": "fluency"}
 SUFFIX_MAP = {"3d": "-3d", "2d": "-2d"}
 
 
-def resize_png(data: bytes, size: int) -> bytes:
-    img = Image.open(BytesIO(data))
-    img = img.resize((size, size), Image.LANCZOS)
-    buf = BytesIO()
-    img.save(buf, format="PNG")
-    return buf.getvalue()
+def run(cmd: list[str]) -> bool:
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+        return result.returncode == 0
+    except (subprocess.TimeoutExpired, FileNotFoundError):
+        return False
 
 
 def download_file(url, dest):
@@ -130,6 +124,14 @@ def download_file(url, dest):
         return False
 
 
+def svg_to_png(svg_path, png_path, size=100):
+    return run([
+        "magick", str(svg_path), "-background", "none",
+        "-filter", "Lanczos", "-resize", f"{size}x{size}",
+        str(png_path)
+    ])
+
+
 def already_exists(name, prefix="icons8"):
     for suffix in ["-3d", "-2d", ""]:
         if (SMALL / f"{prefix}-{name}{suffix}-50.png").exists():
@@ -138,10 +140,6 @@ def already_exists(name, prefix="icons8"):
 
 
 def main():
-    if Image is None:
-        print("ERROR: Pillow (PIL) is required. Run: pip install Pillow")
-        return 1
-
     ok = 0
     fail = 0
     skipped = 0
@@ -184,25 +182,38 @@ def main():
                 fail += 1
                 continue
 
+            small_file = SMALL / f"{PREFIX_FLUENTUI}-{name}-50.png"
+            large_file = LARGE / f"{PREFIX_FLUENTUI}-{name}-100.png"
+
             url = FLUENTUI_CDN.format(code=code)
-            try:
-                resp = urllib.request.urlopen(url, timeout=30)
-                data = resp.read()
+            tmp = BASE / f"__tmp_food_{name}.png"
 
-                small_data = resize_png(data, 50)
-                large_data = resize_png(data, 100)
+            if download_file(url, tmp):
+                if run(["magick", str(tmp), "-filter", "Lanczos",
+                        "-resize", "100x100", str(large_file)]) and \
+                   run(["magick", str(tmp), "-filter", "Lanczos",
+                        "-resize", "50x50", str(small_file)]):
+                    tmp.unlink(missing_ok=True)
+                    print(f"  FLUENTUI {PREFIX_FLUENTUI}-{name}")
+                    ok += 1
+                    continue
 
-                small_file = SMALL / f"{PREFIX_FLUENTUI}-{name}-50.png"
-                large_file = LARGE / f"{PREFIX_FLUENTUI}-{name}-100.png"
+            # FluentUI failed, try Twemoji fallback
+            svg_url = TWEMOJI_CDN.format(code=code)
+            svg_tmp = BASE / f"__tmp_food_{name}.svg"
+            if download_file(svg_url, svg_tmp):
+                if svg_to_png(svg_tmp, large_file, 100) and \
+                   svg_to_png(svg_tmp, small_file, 50):
+                    svg_tmp.unlink(missing_ok=True)
+                    print(f"  TWEMOJI {PREFIX_FLUENTUI}-{name}")
+                    ok += 1
+                    continue
+                svg_tmp.unlink(missing_ok=True)
 
-                small_file.write_bytes(small_data)
-                large_file.write_bytes(large_data)
-                print(f"  FLUENTUI {PREFIX_FLUENTUI}-{name}")
-                ok += 1
-                continue
-            except Exception as e:
-                print(f"  FAIL  {PREFIX_FLUENTUI}-{name}: {e}")
-                fail += 1
+            tmp.unlink(missing_ok=True)
+            print(f"  FAIL  {PREFIX_FLUENTUI}-{name}")
+            fail += 1
+            time.sleep(0.3)
 
     print()
     print(f"Results: {ok} OK, {fail} fail(s), {skipped} skipped (already exist)")
