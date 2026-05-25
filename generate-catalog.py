@@ -120,12 +120,13 @@ def main():
         for base, name, style in items:
             short = icon_key(name)
             preview = f"32x32/{base}-32.png"
-            d50 = f"50x50/{base}-50.png"
-            d100 = f"100x100/{base}-100.png"
-            dico = f"ico/{base}.ico"
+            sizes = ["16", "32", "48", "128", "256"]
+            links = " / ".join(f"[{s}]({s}x{s}/{base}-{s}.png)" for s in sizes)
+            links += f" / [src50](50x50/{base}-50.png) / [src100](100x100/{base}-100.png)"
+            links += f" / [.ico](ico/{base}.ico)"
             md.append(
                 f"| ![{short}]({preview}) | `{short}` | {style} "
-                f"| [50]({d50}) / [100]({d100}) / [.ico]({dico}) |"
+                f"| {links} |"
             )
         md.append("")
 
