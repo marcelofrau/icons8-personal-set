@@ -1,6 +1,6 @@
 # Icon Catalog & Missing Icons
 
-> **Total: 454 icons** (273 originals + 128 from first batch + 53 new from apps/emojis/gaming/file-ops/storage)
+> **Total: 454 icons** — all in **3d-fluency** style unless marked 2d-fluency
 
 ## How to Download from Icons8
 

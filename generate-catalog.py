@@ -93,9 +93,70 @@ CATEGORIES = {
         "move-to-folder", "music-folder", "new-document",
         "opened-folder", "shared-folder",
     ],
+    "Hardware / Devices": [
+        "3d-printer", "bluetooth", "camcorder", "camera",
+        "device-manager", "keyboard", "keyboard-1", "laptop",
+        "laptop-coding", "motherboard", "multiple-devices",
+        "office-phone", "pos-terminal", "printer", "radio-waves",
+        "server", "workstation", "wi-fi-logo", "wi-fi-router",
+        "wired-network", "game-controller", "joystick",
+    ],
+    "UI / Navigation": [
+        "add", "adjust", "arrow-down", "arrow-left", "arrow-right",
+        "arrow-up", "arrow-upload", "back", "cancel", "check-mark",
+        "close", "close-window", "close-window-x", "close-x",
+        "copy", "cursor", "cut", "data-transfer",
+        "delete-shield", "down", "download", "download-from-cloud",
+        "edit-pencil", "erase", "eye", "eye-1", "forward", "home",
+        "info", "info-1", "info-popup", "left", "link", "menu", "minus",
+        "paste", "pencil", "pin", "play", "plus", "plus-math",
+        "push-pin", "redo", "refresh", "remove", "response", "right",
+        "save", "search", "switch-off", "synchronize", "trash", "undo",
+        "unchecked-checkbox", "up",
+    ],
+    "Office / Productivity": [
+        "about", "accounting", "alarm-clock", "application",
+        "at-sign", "barcode", "book", "book-shelf", "bookmark",
+        "calculator", "calendar", "certificate", "chart", "clock",
+        "coin", "coins", "contacts", "control-panel", "copybook",
+        "create", "credit-card-cv", "date-span", "documents",
+        "empty-box", "graph-report", "inbox", "language", "layers",
+        "mail", "mailbox", "maintenance", "manager", "map", "map-pin",
+        "module", "moleskine", "navigation", "news", "package",
+        "password", "pencil-cup", "popular", "print", "prize",
+        "profile", "qr-code", "rating", "services", "services-1",
+        "shop", "shopping-bag", "signing-a-document", "today",
+        "toolbox", "tools", "tools-1", "users", "verified-account",
+        "writer-male", "wrench",
+    ],
+    "Development / Code": [
+        "code", "command-line", "programming", "source-code",
+    ],
+    "Communication / Social": [
+        "chat", "chat-message", "comments", "disconnected",
+    ],
+    "Design / Creative": [
+        "color-palette", "design", "paint-brush", "paint-palette",
+        "picture",
+    ],
+    "Security": [
+        "access-denied", "administrator", "bank-safe", "bios",
+        "conflict", "error-sign", "key", "no-entry", "stop-sign",
+    ],
+    "Transportation": [
+        "car", "gas-station", "taxi",
+    ],
     "Miscellaneous": [
-        "clipboard", "broken-link", "chain", "tags",
+        "automatic", "bang", "box-important", "broom", "company",
+        "compass", "clipboard", "broken-link", "chain", "tags",
         "price-tag", "export", "import", "restore-page", "mirror",
+        "documentary", "done", "done-1", "doctors-bag",
+        "energy-meter", "engine", "flash-on",
+        "full-tool-storage-box", "gear", "globe-africa", "gps-signal",
+        "hamburger", "hammer", "home-address", "home-office",
+        "housekeeping", "idea", "ingredients", "inspection",
+        "real-estate", "recycle", "robotic", "rocket", "sound",
+        "test-passed", "test-tube", "two-gears", "video-gallery",
     ],
 }
 
@@ -110,12 +171,10 @@ def extract_base(stem: str) -> str:
 
 
 def get_style(base: str) -> str:
-    if base.endswith("-3d"):
+    if base.endswith("-3d") or not re.search(r"-(?:3d|2d)$", base):
         return "3d-fluency"
-    elif base.endswith("-2d"):
-        return "fluency"
     else:
-        return "legacy"
+        return "fluency"
 
 
 def strip_style(base: str) -> str:

@@ -44,8 +44,8 @@ Every icon has **7 size variants** (50, 100, 16, 32, 48, 128, 256) and a multi-r
 
 | | Count |
 |---|---|
-| 3d-fluency icons | 240 |
-| fluency icons | 214 |
+| 3d-fluency icons | 327 |
+| fluency icons | 127 |
 | Total `.ico` files | 454 |
 | Size variants | 7 (50, 100, 16, 32, 48, 128, 256) |
 | Total PNG files | 3,178 |
