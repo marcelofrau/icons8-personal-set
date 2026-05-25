@@ -67,44 +67,6 @@ CATEGORIES = {
         "steam-circled", "telegram", "tiktok", "twitch", "twitter",
         "whatsapp-logo", "windows-10", "winrar", "xbox", "youtube",
     ],
-    "Emojis / Expressions": [
-        "alien", "alien-monster-emoji", "angry", "apple", "avocado",
-        "banana", "bear", "bee", "broken-heart", "broccoli", "butterfly",
-        "cactus",         "cake", "camel", "candy", "carrot", "cat", "cherry", "chicken",
-        "christmas-star", "cloud", "clown", "cold-face", "confetti", "confused",
-        "cookie", "cool", "corn", "cow", "crab", "crying", "deer",
-        "diamonds", "disappointed", "dog", "dolphin", "dragon",
-        "duck", "eggplant", "elephant", "fire", "fish", "flamingo",
-        "fox", "frog", "ghost", "gift", "giraffe", "gorilla", "grapes",
-        "grinning-face", "hamburger", "hamster", "happy", "horse",
-        "hot-dog", "hot-face", "jellyfish", "koala", "laughing",
-        "lightning-bolt", "lion", "llama", "lobster", "maple-leaf",
-        "monkey-face", "moon", "mouse", "mushroom", "nerd", "octopus",
-        "ok-hand", "orange", "owl", "palm-tree", "panda", "parrot",
-        "partying-face", "peach", "peacock", "pear", "pig", "pineapple",
-        "pizza", "pray", "rabbit", "rainbow", "red-heart", "robot",
-        "rose", "sad", "see-no-evil-monkey", "sheep", "skull",
-        "sleeping", "smiling", "snail", "snake", "snowflake",
-        "sparkling", "sparkling-1", "star", "strawberry", "storm",
-        "sun", "sunflower", "surprised", "swan", "thumbs-down",
-        "thumbs-up", "tiger", "tomato", "tornado", "turtle",
-        "umbrella", "unicorn", "watermelon", "wheat", "whale",
-        "windy-weather", "wink", "wolf", "zebra",
-        # OpenMoji emojis
-        "openmoji-beaming-emoji", "openmoji-blue-heart",
-        "openmoji-broken-heart-emoji", "openmoji-clapping",
-        "openmoji-cloud-emoji", "openmoji-fire-emoji",
-        "openmoji-flexed-biceps", "openmoji-folded-hands",
-        "openmoji-green-heart", "openmoji-grinning-emoji",
-        "openmoji-heart-eyes", "openmoji-joy-emoji",
-        "openmoji-kissing-heart", "openmoji-lightning-emoji",
-        "openmoji-purple-heart", "openmoji-rainbow-emoji",
-        "openmoji-red-heart-emoji", "openmoji-rose-emoji",
-        "openmoji-snowflake-emoji", "openmoji-sparkling-heart",
-        "openmoji-star-emoji", "openmoji-sun-emoji",
-        "openmoji-thumbs-down-emoji", "openmoji-thumbs-up-emoji",
-        "openmoji-waving", "openmoji-yellow-heart",
-    ],
     "Gaming / Console": [
         "atari", "cards", "console", "controller", "dice",
         "game-controller", "gaming", "joystick", "nintendo-switch",
@@ -112,14 +74,21 @@ CATEGORIES = {
         "puzzle", "steam", "steam-circled", "steam-deck",
         "virtual-reality", "xbox", "xbox-controller",
         "xbox-series-s", "xbox-series-x",
-        # OpenMoji gaming
-        "openmoji-chess-pawn", "openmoji-club",
-        "openmoji-diamond-suit", "openmoji-flower-cards",
-        "openmoji-game-die", "openmoji-heart-suit",
-        "openmoji-joker", "openmoji-joystick-emoji",
-        "openmoji-mahjong", "openmoji-puzzle-piece",
-        "openmoji-slot-machine", "openmoji-spade",
-        "openmoji-video-game",
+        # FluentUI gaming emojis
+        "fluentui-chess-pawn", "fluentui-club",
+        "fluentui-diamond-suit", "fluentui-flower-cards",
+        "fluentui-game-die", "fluentui-heart-suit",
+        "fluentui-joker", "fluentui-joystick-emoji",
+        "fluentui-mahjong", "fluentui-puzzle-piece",
+        "fluentui-slot-machine", "fluentui-spade",
+        "fluentui-video-game",
+        # Retro console icons (KyleBing)
+        "retro-nes", "retro-snes", "retro-nintendo-64",
+        "retro-gamecube", "retro-game-boy", "retro-game-boy-color",
+        "retro-game-boy-advance", "retro-nintendo-ds",
+        "retro-sega-genesis", "retro-sega-saturn", "retro-dreamcast",
+        "retro-neogeo", "retro-game-gear", "retro-master-system",
+        "retro-pc-engine", "retro-virtual-boy",
     ],
     "File / Folder Operations": [
         "add-file", "add-folder", "add-image", "copy-link",
@@ -208,6 +177,44 @@ CATEGORIES = {
         "real-estate", "recycle", "robotic", "rocket", "sound",
         "test-passed", "test-tube", "two-gears", "video-gallery",
     ],
+    "Emojis / Expressions": [
+        "alien", "alien-monster-emoji", "angry", "apple", "avocado",
+        "banana", "bear", "bee", "broken-heart", "broccoli", "butterfly",
+        "cactus", "cake", "camel", "candy", "carrot", "cat", "cherry", "chicken",
+        "christmas-star", "cloud", "clown", "cold-face", "confetti", "confused",
+        "cookie", "cool", "corn", "cow", "crab", "crying", "deer",
+        "diamonds", "disappointed", "dog", "dolphin", "dragon",
+        "duck", "eggplant", "elephant", "fire", "fish", "flamingo",
+        "fox", "frog", "ghost", "gift", "giraffe", "gorilla", "grapes",
+        "grinning-face", "hamburger", "hamster", "happy", "horse",
+        "hot-dog", "hot-face", "jellyfish", "koala", "laughing",
+        "lightning-bolt", "lion", "llama", "lobster", "maple-leaf",
+        "monkey-face", "moon", "mouse", "mushroom", "nerd", "octopus",
+        "ok-hand", "orange", "owl", "palm-tree", "panda", "parrot",
+        "partying-face", "peach", "peacock", "pear", "pig", "pineapple",
+        "pizza", "pray", "rabbit", "rainbow", "red-heart", "robot",
+        "rose", "sad", "see-no-evil-monkey", "sheep", "skull",
+        "sleeping", "smiling", "snail", "snake", "snowflake",
+        "sparkling", "sparkling-1", "star", "strawberry", "storm",
+        "sun", "sunflower", "surprised", "swan", "thumbs-down",
+        "thumbs-up", "tiger", "tomato", "tornado", "turtle",
+        "umbrella", "unicorn", "watermelon", "wheat", "whale",
+        "windy-weather", "wink", "wolf", "zebra",
+        # FluentUI + Twemoji emojis
+        "fluentui-beaming-emoji", "fluentui-blue-heart",
+        "fluentui-broken-heart-emoji", "fluentui-clapping",
+        "fluentui-cloud-emoji", "fluentui-fire-emoji",
+        "fluentui-flexed-biceps", "fluentui-folded-hands",
+        "fluentui-green-heart", "fluentui-grinning-emoji",
+        "fluentui-heart-eyes", "fluentui-joy-emoji",
+        "fluentui-kissing-heart", "fluentui-lightning-emoji",
+        "fluentui-purple-heart", "fluentui-rainbow-emoji",
+        "fluentui-red-heart-emoji", "fluentui-rose-emoji",
+        "fluentui-snowflake-emoji", "fluentui-sparkling-heart",
+        "fluentui-star-emoji", "fluentui-sun-emoji",
+        "fluentui-thumbs-down-emoji", "fluentui-thumbs-up-emoji",
+        "fluentui-waving", "fluentui-yellow-heart",
+    ],
 }
 
 ICON_TO_CAT = {}
@@ -221,10 +228,13 @@ def extract_base(stem: str) -> str:
 
 
 def get_style(base: str) -> str:
+    if base.startswith("fluentui-"):
+        return "fluentui-emoji"
+    if base.startswith("retro-"):
+        return "retro"
     if base.endswith("-3d") or not re.search(r"-(?:3d|2d)$", base):
         return "3d-fluency"
-    else:
-        return "fluency"
+    return "fluency"
 
 
 def strip_style(base: str) -> str:
@@ -254,14 +264,17 @@ def main():
     md.append("> Auto-generated by `generate-catalog.py`. Shows all available icons with 32x32 preview.\n")
     md.append(f"**Total icons: {len(icons)}**\n")
 
+    def sort_key(cat: str) -> tuple[int, str]:
+        return (1 if cat == "Emojis / Expressions" else 0, cat)
+
     md.append("## Summary\n")
     md.append("| Category | Count |")
     md.append("|---|---|")
-    for cat in sorted(by_cat.keys()):
+    for cat in sorted(by_cat.keys(), key=sort_key):
         md.append(f"| {cat} | {len(by_cat[cat])} |")
     md.append("")
 
-    for cat in sorted(by_cat.keys()):
+    for cat in sorted(by_cat.keys(), key=sort_key):
         items = by_cat[cat]
         md.append(f"## {cat}\n")
         md.append("| Preview | Name | Style | Download |")

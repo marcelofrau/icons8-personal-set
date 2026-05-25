@@ -20,11 +20,11 @@
 # Icons8 Personal Icon Set
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Icons](https://img.shields.io/badge/icons-613-3d82e6?logo=icons8&logoColor=white)](icon-catalog.md)
-[![Styles](https://img.shields.io/badge/styles-3d--fluency%20%7C%20fluency-ff6b6b)]()
+[![Icons](https://img.shields.io/badge/icons-629-3d82e6?logo=icons8&logoColor=white)](icon-catalog.md)
+[![Styles](https://img.shields.io/badge/styles-3d--fluency%20%7C%20fluency%20%7C%20fluentui--emoji%20%7C%20retro-ff6b6b)]()
 [![Sizes](https://img.shields.io/badge/sizes-16%E2%80%93256px%20%7C%20.ico-00c853)]()
 
-A ready-to-use **desktop icon library** — **613 icons** in **3d-fluency** and **fluency** styles (plus OpenMoji emojis), available as multi-size PNGs (16–256px) and Windows `.ico` files.
+A ready-to-use **desktop icon library** — **629 icons** in **3d-fluency**, **fluency**, **fluentui-emoji**, and **retro** styles, available as multi-size PNGs (16–256px) and Windows `.ico` files.
 
 ## Purpose
 
@@ -50,10 +50,12 @@ Every icon has **7 size variants** (50, 100, 16, 32, 48, 128, 256) and a multi-r
 This icon library is an aggregate of icons from multiple freely-available sources:
 
 | Source | Style | Count | License |
-|---|---|---|---|
+|---|---|---|---|---|
 | [Icons8](https://icons8.com) — 3d-fluency | 3D rendered | 486 icons | [Free with attribution](https://icons8.com/license) |
 | [Icons8](https://icons8.com) — fluency | Flat 2D | 127 icons | [Free with attribution](https://icons8.com/license) |
-| [OpenMoji](https://openmoji.org) — color | Emoji | 39 icons | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [FluentUI Emoji](https://github.com/microsoft/fluentui-emoji) — Microsoft | 3D emoji | 28 icons | [MIT](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE) |
+| [Twemoji](https://github.com/jdecked/twemoji) — Twitter/X | Emoji (fallback) | 11 icons | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| [KyleBing/retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons) — Retro console | Flat retro | 16 icons | [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) |
 
 ### Download Sources
 
@@ -62,7 +64,9 @@ All icons were obtained from the following public CDNs and repositories:
 | Source | Base URL | Used for |
 |---|---|---|
 | Icons8 CDN | `https://img.icons8.com/<style>/<size>/<name>.png` | All `icons8-*-3d-*` and `icons8-*-2d-*` icons |
-| OpenMoji CDN | `https://cdn.openmoji.org/data/color-svg/` + Unicode hex | All `openmoji-*` emoji icons |
+| FluentUI Emoji CDN (shuding fork) | `https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/<unicode>_3d.png` | All `fluentui-*` emoji icons (primary) |
+| Twemoji CDN (jdecked fork) | `https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/<unicode>.svg` | `fluentui-*` emoji icons not in FluentUI set (fallback) |
+| KyleBing retro console icons | `https://raw.githubusercontent.com/KyleBing/retro-game-console-icons/main/series_trimui/300w@1x/<FILE>.png` | All `retro-*` console icons |
 | Icons8 website (direct download) | `https://icons8.com/icons` | Original legacy icons (no style suffix, later recategorized as 3d-fluency) |
 
 **Icons8 CDN patterns:**
@@ -77,31 +81,48 @@ https://img.icons8.com/fluency/50/<name>.png
 https://img.icons8.com/fluency/100/<name>.png
 ```
 
-**OpenMoji CDN pattern** (downloaded as SVG, converted to 100×100 PNG):
+**FluentUI Emoji CDN pattern** (3D PNG):
 
 ```
-https://cdn.openmoji.org/data/color-svg/<unicode-hex>.svg
+https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/<unicode>_3d.png
 ```
 
-> See [`download-missing.py`](download-missing.py) and [`download-more.py`](download-more.py) for the complete list of icon names and their source styles. These scripts document exactly which icons came from which CDN URL.
+**Twemoji CDN pattern** (SVG, converted to PNG for fallback):
+
+```
+https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/<unicode>.svg
+```
+
+**KyleBing retro console CDN pattern** (300px PNG, resized to 50&times;50 and 100&times;100):
+
+```
+https://raw.githubusercontent.com/KyleBing/retro-game-console-icons/main/series_trimui/300w@1x/<FILE>.png
+```
+
+> See [`download-missing.py`](download-missing.py), [`download-more.py`](download-more.py), [`download-fluentui.py`](download-fluentui.py), and [`download-consoles.py`](download-consoles.py) for the complete list of icon names and their source URLs.
 
 ### Attribution
 
 **Icons8** requires attribution when used for free. If you use this library in your project, please include a credit line such as: *"Icons by Icons8 (https://icons8.com)"* or reference this repository.
 
-**OpenMoji** emojis are licensed under CC BY-SA 4.0. Attribution: *"Emojis by OpenMoji (https://openmoji.org)"* — if you modify or redistribute them, you must share under the same license.
+**FluentUI Emoji** by Microsoft (MIT License). Attribution: *"Emojis by Microsoft FluentUI Emoji (https://github.com/microsoft/fluentui-emoji)"*.
+
+**Twemoji** graphics are licensed under CC-BY 4.0 by Twitter/X and contributors. Attribution: *"Emoji graphics by Twemoji (https://github.com/jdecked/twemoji)"*.
+
+**Retro console icons** by KyleBing (GPL-3.0). Attribution: *"Console icons by KyleBing (https://github.com/KyleBing/retro-game-console-icons)"*.
 
 ## Stats
 
 | | Count |
-|---|---|
+|---|---|---|
 | 3d-fluency icons (Icons8) | 486 |
 | fluency icons (Icons8) | 127 |
-| OpenMoji emojis | 39 |
-| Total icons | 613 |
+| FluentUI emojis (with Twemoji fallback) | 39 |
+| Retro console icons (KyleBing) | 16 |
+| Total icons | 629 |
 | Size variants | 7 (50, 100, 16, 32, 48, 128, 256) |
-| Total `.ico` files | 613 |
-| Total PNG files | 4,291 |
+| Total `.ico` files | 629 |
+| Total PNG files | 4,403 |
 | Icon categories | 27 |
 
 ## Structure
@@ -129,8 +150,9 @@ PIPELINE.md       Technical pipeline docs
 | `icons8-<name>-3d-<size>.png` | `icons8-pdf-3d-50.png` | 3d-fluency | Icons8 |
 | `icons8-<name>-2d-<size>.png` | `icons8-zip-2d-50.png` | fluency | Icons8 |
 | `icons8-<name>-<size>.png` | `icons8-about-50.png` | 3d-fluency | Icons8 (original) |
-| `openmoji-<name>-<size>.png` | `openmoji-video-game-50.png` | emoji | OpenMoji |
-| `icons8-<name>-<style>.ico` | `icons8-pdf-3d.ico` | multi-res | Generated |
+| `fluentui-<name>-<size>.png` | `fluentui-heart-eyes-50.png` | fluentui-emoji | FluentUI / Twemoji |
+| `retro-<name>-<size>.png` | `retro-nes-50.png` | retro | KyleBing |
+| `<name>.ico` | `fluentui-heart-eyes.ico` | multi-res | Generated |
 
 ## Requirements
 
@@ -148,4 +170,4 @@ Scans `50x50/` and `100x100/` for new PNGs, generates all sizes with Lanczos, op
 
 ## License
 
-MIT — the code and pipeline are MIT. The icon assets themselves are subject to their respective licenses (Icons8: free with attribution; OpenMoji: CC BY-SA 4.0).
+MIT — the code and pipeline are MIT. The icon assets themselves are subject to their respective licenses (Icons8: free with attribution; FluentUI Emoji: MIT; Twemoji graphics: CC-BY 4.0; KyleBing retro console icons: GPL-3.0).
