@@ -55,9 +55,41 @@ This icon library is an aggregate of icons from multiple freely-available source
 | [Icons8](https://icons8.com) — fluency | Flat 2D | 127 icons | [Free with attribution](https://icons8.com/license) |
 | [OpenMoji](https://openmoji.org) — color | Emoji | 39 icons | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
-**Icons8** requires attribution when used for free. If you use this library in your project, please include a credit line such as: *"Icons by Icons8 (https://icons8.com)"*.
+### Download Sources
 
-**OpenMoji** emojis are licensed under CC BY-SA 4.0. Attribution: *"Emojis by OpenMoji (https://openmoji.org)"*.
+All icons were obtained from the following public CDNs and repositories:
+
+| Source | Base URL | Used for |
+|---|---|---|
+| Icons8 CDN | `https://img.icons8.com/<style>/<size>/<name>.png` | All `icons8-*-3d-*` and `icons8-*-2d-*` icons |
+| OpenMoji CDN | `https://cdn.openmoji.org/data/color-svg/` + Unicode hex | All `openmoji-*` emoji icons |
+| Icons8 website (direct download) | `https://icons8.com/icons` | Original legacy icons (no style suffix, later recategorized as 3d-fluency) |
+
+**Icons8 CDN patterns:**
+
+```
+# 3d-fluency (try first, fall back to fluency on 404)
+https://img.icons8.com/3d-fluency/50/<name>.png
+https://img.icons8.com/3d-fluency/100/<name>.png
+
+# fluency (flat 2D fallback)
+https://img.icons8.com/fluency/50/<name>.png
+https://img.icons8.com/fluency/100/<name>.png
+```
+
+**OpenMoji CDN pattern** (downloaded as SVG, converted to 100×100 PNG):
+
+```
+https://cdn.openmoji.org/data/color-svg/<unicode-hex>.svg
+```
+
+> See [`download-missing.py`](download-missing.py) and [`download-more.py`](download-more.py) for the complete list of icon names and their source styles. These scripts document exactly which icons came from which CDN URL.
+
+### Attribution
+
+**Icons8** requires attribution when used for free. If you use this library in your project, please include a credit line such as: *"Icons by Icons8 (https://icons8.com)"* or reference this repository.
+
+**OpenMoji** emojis are licensed under CC BY-SA 4.0. Attribution: *"Emojis by OpenMoji (https://openmoji.org)"* — if you modify or redistribute them, you must share under the same license.
 
 ## Stats
 
