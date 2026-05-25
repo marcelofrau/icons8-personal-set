@@ -1,29 +1,20 @@
 ```
-           CCCCCCCCCCCCC
-         CCCCCCCCCCCCCCCCCCCC
-       CCCCCCCCCCCCCCCCCCCCCCCCC
-      CCCCCCCCCCC       CCCCCCCCCCC
-     CCCCCCCCC           CCCCCCCCCCC
-    CCCCCCC               CCCCCCCCCCC
-   CCCCCCC                 CCCCCCCCCCC
-  CCCCCCC                   CCCCCCCCCCC
-  CCCCCC                     CCCCCCCCCCC
-  CCCCCC                     CCCCCCCCCCC             88888888
-  CCCCCC        IIIIIIIIIIIICCCCCCCCCCC             888    888
-  CCCCCC        IIIIIIIIIIII CCCCCCCCCCC           888      888
-  CCCCCC        IIIIIIIIIIII  CCCCCCCCCCC         888        888
-  CCCCCC        IIIIIIIIIIII   CCCCCCCCCCC        888888888888888
-  CCCCCC        IIIIIIIIIIII    CCCCCCCCCCC       888        888
-  CCCCCC        IIIIIIIIIIII     CCCCCCCCCCC      888        888
-  CCCCCC        IIIIIIIIIIII      CCCCCCCCCCC     888        888
-  CCCCCC        IIIIIIIIIIII       CCCCCCCCCCC
-   CCCCCC                         CCCCCCCCCCC
-    CCCCCCC                     CCCCCCCCCCC
-     CCCCCCCCC                 CCCCCCCCCCC
-      CCCCCCCCCCC           CCCCCCCCCCC
-        CCCCCCCCCCCCCCCCCCCCCCCCCCC
-          CCCCCCCCCCCCCCCCCCCCCC
-             CCCCCCCCCCCCC
+                                                    ,---.-,
+                                                     '   ,'  '.
+                                                    /   /      \
+  ,--,                                             .   ;  ,/.  :
+,--.'|               ,---.        ,---,            '   |  | :  ;
+|  |,               '   ,'\   ,-+-. /  | .--.--.   '   |  ./   :
+`--'_       ,---.  /   /   | ,--.'|'   |/  /    '  |   :       ,
+,' ,'|     /     \.   ; ,. :|   |  ,"' |  :  /`./   \   \     /
+'  | |    /    / ''   | |: :|   | /  | |  :  ;_      ;   ,   '\\
+|  | :   .    ' / '   | .; :|   | |  | |\  \    `.  /   /      \
+'  : |__ '   ; :__|   :    ||   | |  |/  `----.   \.   ;  ,/.  :
+|  | '.'|'   | '.'|\   \  / |   | |--'  /  /`--'  /'   |  | :  ;
+;  :    ;|   :    : `----'  |   |/     '--'.     / '   |  ./   :
+|  ,   /  \   \  /          '---'        `--'---'  |   :      /
+ ---`-'    `----'                                   \   \   .'
+                                                     `---`-'
 ```
 
 # Icons8 Personal Icon Set
@@ -33,7 +24,21 @@
 [![Styles](https://img.shields.io/badge/styles-3d--fluency%20%7C%20fluency-ff6b6b)]()
 [![Sizes](https://img.shields.io/badge/sizes-16%E2%80%93256px%20%7C%20.ico-00c853)]()
 
-Personal icon library from **Icons8** — **401 icons** in **3d-fluency** and **fluency** styles, with multi-size PNGs (16–256px) and Windows `.ico` files.
+A ready-to-use **desktop icon library** built from [Icons8](https://icons8.com) — **401 icons** in **3d-fluency** and **fluency** styles, available as multi-size PNGs (16–256px) and Windows `.ico` files.
+
+## Purpose
+
+Desktop applications — file managers, launchers, text editors, media players, system utilities — all need a rich set of icons at multiple resolutions. Instead of relying on a CDN or bundling bloated icon packs, this project provides a **local, offline-ready collection** of carefully selected icons in two visual styles.
+
+Use them as:
+- **File type icons** (PDF, ZIP, EXE, ISO, JSON, CSV, …)
+- **Toolbar / UI actions** (filter, sort, rename, share, lock, …)
+- **System status indicators** (online, volume, bell, mute, shutdown, …)
+- **View modes** (list, details, thumbnails, icons, …)
+- **Text editing controls** (bold, italic, align, numbered list, …)
+- **Storage / drives** (USB, SSD, HDD, CD, Blu-ray, SD, …)
+
+Every icon has **7 size variants** (50, 100, 16, 32, 48, 128, 256) and a multi-resolution `.ico` file, so you can drop them directly into any desktop app without manual conversion.
 
 ## Stats
 
@@ -43,6 +48,7 @@ Personal icon library from **Icons8** — **401 icons** in **3d-fluency** and **
 | fluency icons | 197 |
 | Total `.ico` files | 401 |
 | Size variants | 7 (50, 100, 16, 32, 48, 128, 256) |
+| Total PNG files | 2,807 |
 
 ## Structure
 
