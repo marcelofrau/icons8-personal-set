@@ -1,43 +1,44 @@
 # Icons8 Personal Icon Set
 
-Biblioteca pessoal de ícones Icons8 nos estilos **3d-fluency** e **fluency**, com variações em múltiplos tamanhos e formato `.ico` para Windows.
+Personal icon library from Icons8 in **3d-fluency** and **fluency** styles, with multi-size variants and Windows `.ico` format.
 
-## Estrutura
+## Structure
 
 ```
-├── 50x50/            PNGs fonte (tamanho pequeno)
-├── 100x100/          PNGs fonte (tamanho grande)
-├── 16x16/            Redimensionado para 16×16
-├── 32x32/            Redimensionado para 32×32
-├── 48x48/            Redimensionado para 48×48
-├── 128x128/          Redimensionado para 128×128
-├── 256x256/          Redimensionado para 256×256
-├── ico/              .ico multi-resolução (16, 32, 48, 128, 256)
-├── processa-icones.py    Pipeline de geração automática
-├── icones-faltantes.md   Lista de ícones disponíveis por categoria
-└── README-processo.md    Documentação técnica do pipeline
+├── 50x50/            Source PNGs (small size)
+├── 100x100/          Source PNGs (large size)
+├── 16x16/            Resized to 16×16
+├── 32x32/            Resized to 32×32
+├── 48x48/            Resized to 48×48
+├── 128x128/          Resized to 128×128
+├── 256x256/          Resized to 256×256
+├── ico/              Multi-resolution .ico (16, 32, 48, 128, 256)
+├── process-icons.py       Auto-processing pipeline
+├── missing-icons.md       Icon catalog by category
+└── PIPELINE.md            Technical pipeline docs
 ```
 
-## Nomenclatura
+## Naming Convention
 
-- `icons8-<nome>-3d-<tamanho>.png` — ícone 3d-fluency
-- `icons8-<nome>-2d-<tamanho>.png` — ícone fluency
-- `icons8-<nome>-<tamanho>.png` — ícone legado (273 originais)
-- `icons8-<nome>-3d.ico` / `icons8-<nome>-2d.ico` — .ico multi-resolução
+- `icons8-<name>-3d-<size>.png` — 3d-fluency icon
+- `icons8-<name>-2d-<size>.png` — fluency icon
+- `icons8-<name>-<size>.png` — legacy icon (273 originals)
+- `icons8-<name>-3d.ico` / `icons8-<name>-2d.ico` — multi-resolution .ico
 
-## Requisitos
+## Requirements
 
-- ImageMagick 7 (`magick` no PATH)
-- optipng (`optipng` no PATH)
+- ImageMagick 7 (`magick` in PATH)
+- optipng (`optipng` in PATH)
+- Python 3
 
 ## Pipeline
 
 ```bash
-python processa-icones.py --workers 16
+python process-icons.py --workers 16
 ```
 
-O script detecta PNGs novos em `50x50/` e `100x100/`, gera todos os tamanhos derivados, otimiza com optipng e cria os `.ico`.
+Scans `50x50/` and `100x100/` for new PNGs, generates all sizes, optimizes with optipng, and creates `.ico` files.
 
-## Licença
+## License
 
 MIT

@@ -1,24 +1,24 @@
 #!/usr/bin/env python3
 """
-Pipeline de processamento de ícones Icons8 (paralelo)
+Icons8 icon processing pipeline (parallel)
 
-Uso:
-    python processa-icones.py
-    python processa-icones.py --workers 16
+Usage:
+    python process-icons.py
+    python process-icons.py --workers 16
 
-O que faz:
-    1. Varre 50x50/ e 100x100/ em busca de PNGs novos
-    2. Gera tamanhos derivados (16, 32, 48, 128, 256) com Lanczos
-    3. Otimiza com optipng -o7
-    4. Gera .ico multi-resolução com todos os 5 tamanhos
+What it does:
+    1. Scans 50x50/ and 100x100/ for new PNGs
+    2. Generates derived sizes (16, 32, 48, 128, 256) with Lanczos
+    3. Optimizes with optipng -o7
+    4. Generates multi-resolution .ico with all 5 sizes
 
-Nomenclatura:
-    icons8-<nome>-<3d|2d>-<tamanho>.png   (novos)
-    icons8-<nome>-<tamanho>.png            (legados)
+Naming:
+    icons8-<name>-<3d|2d>-<size>.png   (new)
+    icons8-<name>-<size>.png            (legacy)
 
-Requisitos:
-    - ImageMagick 7 (magick no PATH)
-    - optipng (no PATH)
+Requirements:
+    - ImageMagick 7 (magick in PATH)
+    - optipng (in PATH)
 """
 
 import os
@@ -46,9 +46,9 @@ LARGE_SIZES = [("128", "128x128"), ("256", "256x256")]
 
 
 def extract_base(stem: str) -> str:
-    """Remove sufixo de tamanho do nome do arquivo.
-    Ex: icons8-pdf-3d-50 → icons8-pdf-3d
-        icons8-about-50   → icons8-about
+    """Strip size suffix from filename.
+    e.g. icons8-pdf-3d-50 -> icons8-pdf-3d
+         icons8-about-50   -> icons8-about
     """
     return re.sub(r"-(?:50|100|16|32|48|128|256)$", "", stem)
 
@@ -129,28 +129,28 @@ def process_one_icon(name: str, steps: list[str]) -> tuple[str, bool]:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Pipeline de ícones Icons8")
+    parser = argparse.ArgumentParser(description="Icons8 icon processing pipeline")
     parser.add_argument("--workers", type=int, default=8,
-                        help="Número de workers paralelos (default: 8)")
+                        help="Number of parallel workers (default: 8)")
     args = parser.parse_args()
 
     print("=" * 60)
-    print(f"  Pipeline de Processamento de Icones Icons8  (workers={args.workers})")
+    print(f"  Icons8 Icon Processing Pipeline  (workers={args.workers})")
     print("=" * 60)
 
     for cmd in ["magick", "optipng"]:
         try:
             subprocess.run([cmd, "--version"], capture_output=True, check=True)
         except (subprocess.FileNotFoundError, subprocess.CalledProcessError):
-            print(f"ERRO: '{cmd}' nao encontrado no PATH")
+            print(f"ERROR: '{cmd}' not found in PATH")
             sys.exit(1)
 
-    print("\nVerificando diretorios...")
+    print("\nChecking directories...")
     for key, folder in FOLDERS.items():
         path = BASE_DIR / folder
         if not path.exists():
             path.mkdir(parents=True, exist_ok=True)
-            print(f"  CRIANDO: {folder}/")
+            print(f"  CREATED: {folder}/")
         else:
             count = len(list(path.glob("*.png"))) if folder != "ico" else len(list(path.glob("*.ico")))
             ext = "PNGs" if folder != "ico" else "ICOs"
@@ -160,7 +160,7 @@ def main():
     missing_ico = get_missing_ico()
 
     if not novos and not missing_ico:
-        print("\nNada a fazer. Todos os icones ja foram processados.")
+        print("\nNothing to do. All icons already processed.")
         return
 
     todos = list(novos)
@@ -168,7 +168,7 @@ def main():
         if n not in todos:
             todos.append(n)
 
-    print(f"\n>>> {len(todos)} icone(s) para processar (workers={args.workers})...")
+    print(f"\n>>> {len(todos)} icon(s) to process (workers={args.workers})...")
 
     steps = ["resize", "optimize", "ico"]
     ok = 0
@@ -182,7 +182,7 @@ def main():
                 ok += 1
             else:
                 falha += 1
-            print(f"  {'OK' if success else 'FALHA'} {name}")
+            print(f"  {'OK' if success else 'FAIL'} {name}")
 
     total_small = len(get_base_names(FOLDERS["source_small"]))
     total_large = len(get_base_names(FOLDERS["source_large"]))
@@ -190,9 +190,9 @@ def main():
     total_ico = len(list((BASE_DIR / FOLDERS["ico"]).glob("*.ico")))
 
     print(f"\n{'=' * 60}")
-    print(f"  Processados: {ok} OK, {falha} falha(s)")
-    print(f"  Fontes:   {total_small} em 50x50/ | {total_large} em 100x100/")
-    print(f"  Gerados:  {total_16} PNGs por tamanho | {total_ico} .ico files")
+    print(f"  Processed: {ok} OK, {falha} fail(s)")
+    print(f"  Sources:  {total_small} in 50x50/ | {total_large} in 100x100/")
+    print(f"  Generated: {total_16} PNGs per size | {total_ico} .ico files")
     print(f"{'=' * 60}")
 
 
