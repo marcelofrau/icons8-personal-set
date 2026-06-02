@@ -24,17 +24,18 @@ ico/                      Multi-res .ico (16+32+48+128+256)
 process-icons.py          Pipeline: resize + optipng + ico
 generate-catalog.py       Generates icon-catalog.md + catalog/*.md
 catalog/                  Per-category markdown files (27)
-download-missing.py       Icons8 batch 1 (46 icons)
-download-more.py          Icons8 batch 2 (112 icons)
-download-fluentui.py      FluentUI emoji + Twemoji fallback (39)
-download-consoles.py      KyleBing retro consoles (16)
-download-dev.py           Icons8 dev/app utilities (63)
-download-food.py          Icons8 + FluentUI food/drink (60)
-download-m-icons.py       M:\ drive folder icons (6)
-download-openburning.py   OpenBurningSuite disc/optical icons (5)
+download-missing.py           Icons8 batch 1 (46 icons)
+download-more.py              Icons8 batch 2 (112 icons)
+download-fluentui.py          FluentUI emoji + Twemoji fallback (39)
+download-consoles.py          KyleBing retro consoles (16)
+download-dev.py               Icons8 dev/app utilities (63)
+download-food.py              Icons8 + FluentUI food/drink (60)
+download-m-icons.py           M:\ drive folder icons (6: anime, children, pencil-drawing, film-reel, soulseek, tv-show)
+download-openburning.py       OpenBurningSuite disc/optical icons (5: discover, speed, timeline, video-editing, wizard)
 download-fluentui-massive.py  Bulk FluentUI 3D CDN (~1267)
-fluentui_3d_list.txt      Input list for download-fluentui-massive.py
-icon-catalog-ai.md        Minimal AI-friendly catalog (stems only)
+fluentui_3d_list.txt          Input list for download-fluentui-massive.py
+icon-catalog-ai.md            Minimal AI-friendly catalog (stems only)
+openburning-icons.md          OBS feature-to-icon mapping with 32x32 previews
 ```
 
 ## Naming Convention
@@ -68,6 +69,8 @@ Each is standalone, downloads to 50x50/ + 100x100/. Then run `process-icons.py`.
 - `download-consoles.py` — KyleBing GitHub raw (300px → 50/100)
 - `download-dev.py` — Dev tools/apps from Icons8 fluency (63)
 - `download-food.py` — Icons8 food/drink + FluentUI fallback (60)
+- `download-m-icons.py` — M: drive folder icons (icons8 Icons8 3d-fluency/fluency, tries both)
+- `download-openburning.py` — OBS-related icons (Icons8, tries 3d-fluency then fluency)
 - `download-fluentui-massive.py` — Bulk FluentUI from `fluentui_3d_list.txt`, resizes with magick
 
 ## Key Details
