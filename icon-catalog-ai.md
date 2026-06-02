@@ -1,6 +1,6 @@
 # Icon Catalog (AI-friendly)
 
-Total icons: 2022
+Total icons: 2034
 Sizes: 16, 32, 48, 128, 256px + source sizes 50, 100px
 Archive: .ico (16+32+48+128+256)
 
@@ -23,6 +23,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-amazon
 - icons8-android-2d
 - icons8-android-studio-2d
+- icons8-anime-2d
 - icons8-apple-logo-3d
 - icons8-behance-3d
 - icons8-blue-windows-logo
@@ -63,6 +64,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-redis-2d
 - icons8-skype-2d
 - icons8-snapchat-3d
+- icons8-soulseek-2d
 - icons8-spotify-logo
 - icons8-sublime-text-2d
 - icons8-swift-2d
@@ -100,7 +102,10 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-design
 - icons8-paint-brush
 - icons8-paint-palette
+- icons8-pencil-drawing-3d
 - icons8-picture
+- icons8-timeline-3d
+- icons8-video-editing-3d
 
 ## Development / Code
 - icons8-bash-2d
@@ -312,6 +317,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-broken-link-2d
 - icons8-broom
 - icons8-chain-2d
+- icons8-children-2d
 - icons8-clipboard-2d
 - icons8-company
 - icons8-compass
@@ -322,6 +328,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-energy-meter
 - icons8-engine
 - icons8-export-2d
+- icons8-film-reel-3d
 - icons8-flash-on
 - icons8-full-tool-storage-box
 - icons8-gear
@@ -342,11 +349,14 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-robotic
 - icons8-rocket
 - icons8-sound
+- icons8-speed-2d
 - icons8-tags-2d
 - icons8-test-passed
 - icons8-test-tube
+- icons8-tv-show-3d
 - icons8-two-gears
 - icons8-video-gallery
+- icons8-wizard-3d
 
 ## Network / System
 - icons8-bridge-3d
@@ -433,6 +443,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-css3-2d
 - icons8-dashboard-3d
 - icons8-job-3d
+- mario-question-mark
 
 ## Power / Electronics
 - fluentui-battery
@@ -594,6 +605,7 @@ fluentui-* (FluentUI/Twemoji), retro-* (KyleBing retro console)
 - icons8-data-transfer
 - icons8-delete-2d
 - icons8-delete-shield
+- icons8-discover-2d
 - icons8-down
 - icons8-download
 - icons8-download-from-cloud

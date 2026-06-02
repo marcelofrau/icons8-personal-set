@@ -63,6 +63,7 @@ CATEGORIES = {
     ],
     "Applications / Brands": [
         "3d-claude-ai-logo", "3d-perplexity-ai-logo", "amazon",
+        "anime",
         "android", "android-studio", "apple-logo", "behance",
         "blue-windows-logo", "bot", "chatbot", "chatgpt", "chrome",
         "deepseek", "discord", "docker", "dribbble", "eclipse",
@@ -72,8 +73,8 @@ CATEGORIES = {
         "ms-word", "mysql", "node-js", "notion", "obs-studio", "opera",
         "pinterest", "playstation", "php", "python", "raspberry",
         "redis", "reddit", "skype", "snapchat", "spotify-logo",
-        "steam-circled", "sublime-text", "swift", "teamviewer",
-        "telegram", "tiktok", "twitch", "twitter", "typescript",
+        "steam-circled",         "sublime-text", "swift", "teamviewer",
+        "soulseek", "telegram", "tiktok", "twitch", "twitter", "typescript",
         "virtualbox", "visual-studio", "vlc", "whatsapp-logo",
         "windows-10", "winrar", "xbox", "youtube", "zoom",
     ],
@@ -146,6 +147,7 @@ CATEGORIES = {
         "push-pin", "redo", "refresh", "remove", "response", "right",
         "save", "search", "sort", "switch-off", "synchronize", "trash",
         "undo", "unchecked-checkbox", "up", "upload",
+        "discover",
     ],
     "Office / Productivity": [
         "about", "accounting", "alarm-clock", "application",
@@ -172,7 +174,7 @@ CATEGORIES = {
     ],
     "Design / Creative": [
         "color-palette", "design", "paint-brush", "paint-palette",
-        "picture",
+        "picture", "pencil-drawing", "video-editing", "timeline",
     ],
     "Security": [
         "access-denied", "administrator", "bank-safe", "bios",
@@ -214,6 +216,7 @@ CATEGORIES = {
         "housekeeping", "idea", "ingredients", "inspection",
         "real-estate", "recycle", "robotic", "rocket", "sound",
         "test-passed", "test-tube", "two-gears", "video-gallery",
+        "tv-show", "film-reel", "children", "speed", "wizard",
     ],
     "Emojis / Expressions": [
         "alien", "alien-monster-emoji", "angry", "apple", "avocado",
