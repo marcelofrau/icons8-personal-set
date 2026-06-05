@@ -1,6 +1,6 @@
 # View Modes
 
-9 icons
+10 icons
 
 
 | Preview | Name | Style | Download |
@@ -14,3 +14,4 @@
 | ![small-icons](../32x32/icons8-small-icons-2d-32.png) | `small-icons` | fluency | [16](../16x16/icons8-small-icons-2d-16.png) / [32](../32x32/icons8-small-icons-2d-32.png) / [48](../48x48/icons8-small-icons-2d-48.png) / [128](../128x128/icons8-small-icons-2d-128.png) / [256](../256x256/icons8-small-icons-2d-256.png) / [src50](../50x50/icons8-small-icons-2d-50.png) / [src100](../100x100/icons8-small-icons-2d-100.png) / [.ico](../ico/icons8-small-icons-2d.ico) |
 | ![thumbnails](../32x32/icons8-thumbnails-2d-32.png) | `thumbnails` | fluency | [16](../16x16/icons8-thumbnails-2d-16.png) / [32](../32x32/icons8-thumbnails-2d-32.png) / [48](../48x48/icons8-thumbnails-2d-48.png) / [128](../128x128/icons8-thumbnails-2d-128.png) / [256](../256x256/icons8-thumbnails-2d-256.png) / [src50](../50x50/icons8-thumbnails-2d-50.png) / [src100](../100x100/icons8-thumbnails-2d-100.png) / [.ico](../ico/icons8-thumbnails-2d.ico) |
 | ![view](../32x32/icons8-view-3d-32.png) | `view` | 3d-fluency | [16](../16x16/icons8-view-3d-16.png) / [32](../32x32/icons8-view-3d-32.png) / [48](../48x48/icons8-view-3d-48.png) / [128](../128x128/icons8-view-3d-128.png) / [256](../256x256/icons8-view-3d-256.png) / [src50](../50x50/icons8-view-3d-50.png) / [src100](../100x100/icons8-view-3d-100.png) / [.ico](../ico/icons8-view-3d.ico) |
+| ![view](../32x32/icons8-view-32.png) | `view` | 3d-fluency | [16](../16x16/icons8-view-16.png) / [32](../32x32/icons8-view-32.png) / [48](../48x48/icons8-view-48.png) / [128](../128x128/icons8-view-128.png) / [256](../256x256/icons8-view-256.png) / [src50](../50x50/icons8-view-50.png) / [src100](../100x100/icons8-view-100.png) / [.ico](../ico/icons8-view.ico) |

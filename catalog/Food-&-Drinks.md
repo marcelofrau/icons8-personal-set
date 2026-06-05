@@ -1,6 +1,6 @@
 # Food & Drinks
 
-85 icons
+86 icons
 
 
 | Preview | Name | Style | Download |
@@ -87,6 +87,7 @@
 | ![tea](../32x32/icons8-tea-3d-32.png) | `tea` | 3d-fluency | [16](../16x16/icons8-tea-3d-16.png) / [32](../32x32/icons8-tea-3d-32.png) / [48](../48x48/icons8-tea-3d-48.png) / [128](../128x128/icons8-tea-3d-128.png) / [256](../256x256/icons8-tea-3d-256.png) / [src50](../50x50/icons8-tea-3d-50.png) / [src100](../100x100/icons8-tea-3d-100.png) / [.ico](../ico/icons8-tea-3d.ico) |
 | ![toast](../32x32/icons8-toast-3d-32.png) | `toast` | 3d-fluency | [16](../16x16/icons8-toast-3d-16.png) / [32](../32x32/icons8-toast-3d-32.png) / [48](../48x48/icons8-toast-3d-48.png) / [128](../128x128/icons8-toast-3d-128.png) / [256](../256x256/icons8-toast-3d-256.png) / [src50](../50x50/icons8-toast-3d-50.png) / [src100](../100x100/icons8-toast-3d-100.png) / [.ico](../ico/icons8-toast-3d.ico) |
 | ![water](../32x32/icons8-water-3d-32.png) | `water` | 3d-fluency | [16](../16x16/icons8-water-3d-16.png) / [32](../32x32/icons8-water-3d-32.png) / [48](../48x48/icons8-water-3d-48.png) / [128](../128x128/icons8-water-3d-128.png) / [256](../256x256/icons8-water-3d-256.png) / [src50](../50x50/icons8-water-3d-50.png) / [src100](../100x100/icons8-water-3d-100.png) / [.ico](../ico/icons8-water-3d.ico) |
+| ![water](../32x32/icons8-water-32.png) | `water` | 3d-fluency | [16](../16x16/icons8-water-16.png) / [32](../32x32/icons8-water-32.png) / [48](../48x48/icons8-water-48.png) / [128](../128x128/icons8-water-128.png) / [256](../256x256/icons8-water-256.png) / [src50](../50x50/icons8-water-50.png) / [src100](../100x100/icons8-water-100.png) / [.ico](../ico/icons8-water.ico) |
 | ![white-wine](../32x32/icons8-white-wine-2d-32.png) | `white-wine` | fluency | [16](../16x16/icons8-white-wine-2d-16.png) / [32](../32x32/icons8-white-wine-2d-32.png) / [48](../48x48/icons8-white-wine-2d-48.png) / [128](../128x128/icons8-white-wine-2d-128.png) / [256](../256x256/icons8-white-wine-2d-256.png) / [src50](../50x50/icons8-white-wine-2d-50.png) / [src100](../100x100/icons8-white-wine-2d-100.png) / [.ico](../ico/icons8-white-wine-2d.ico) |
 | ![wine-bottle](../32x32/icons8-wine-bottle-3d-32.png) | `wine-bottle` | 3d-fluency | [16](../16x16/icons8-wine-bottle-3d-16.png) / [32](../32x32/icons8-wine-bottle-3d-32.png) / [48](../48x48/icons8-wine-bottle-3d-48.png) / [128](../128x128/icons8-wine-bottle-3d-128.png) / [256](../256x256/icons8-wine-bottle-3d-256.png) / [src50](../50x50/icons8-wine-bottle-3d-50.png) / [src100](../100x100/icons8-wine-bottle-3d-100.png) / [.ico](../ico/icons8-wine-bottle-3d.ico) |
 | ![wine-glass](../32x32/icons8-wine-glass-3d-32.png) | `wine-glass` | 3d-fluency | [16](../16x16/icons8-wine-glass-3d-16.png) / [32](../32x32/icons8-wine-glass-3d-32.png) / [48](../48x48/icons8-wine-glass-3d-48.png) / [128](../128x128/icons8-wine-glass-3d-128.png) / [256](../256x256/icons8-wine-glass-3d-256.png) / [src50](../50x50/icons8-wine-glass-3d-50.png) / [src100](../100x100/icons8-wine-glass-3d-100.png) / [.ico](../ico/icons8-wine-glass-3d.ico) |

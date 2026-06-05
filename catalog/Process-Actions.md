@@ -1,12 +1,13 @@
 # Process Actions
 
-11 icons
+12 icons
 
 
 | Preview | Name | Style | Download |
 |---|---|---|---|
 | ![hourglass](../32x32/icons8-hourglass-2d-32.png) | `hourglass` | fluency | [16](../16x16/icons8-hourglass-2d-16.png) / [32](../32x32/icons8-hourglass-2d-32.png) / [48](../48x48/icons8-hourglass-2d-48.png) / [128](../128x128/icons8-hourglass-2d-128.png) / [256](../256x256/icons8-hourglass-2d-256.png) / [src50](../50x50/icons8-hourglass-2d-50.png) / [src100](../100x100/icons8-hourglass-2d-100.png) / [.ico](../ico/icons8-hourglass-2d.ico) |
 | ![loading](../32x32/icons8-loading-3d-32.png) | `loading` | 3d-fluency | [16](../16x16/icons8-loading-3d-16.png) / [32](../32x32/icons8-loading-3d-32.png) / [48](../48x48/icons8-loading-3d-48.png) / [128](../128x128/icons8-loading-3d-128.png) / [256](../256x256/icons8-loading-3d-256.png) / [src50](../50x50/icons8-loading-3d-50.png) / [src100](../100x100/icons8-loading-3d-100.png) / [.ico](../ico/icons8-loading-3d.ico) |
+| ![loading](../32x32/icons8-loading-32.png) | `loading` | 3d-fluency | [16](../16x16/icons8-loading-16.png) / [32](../32x32/icons8-loading-32.png) / [48](../48x48/icons8-loading-48.png) / [128](../128x128/icons8-loading-128.png) / [256](../256x256/icons8-loading-256.png) / [src50](../50x50/icons8-loading-50.png) / [src100](../100x100/icons8-loading-100.png) / [.ico](../ico/icons8-loading.ico) |
 | ![pause](../32x32/icons8-pause-2d-32.png) | `pause` | fluency | [16](../16x16/icons8-pause-2d-16.png) / [32](../32x32/icons8-pause-2d-32.png) / [48](../48x48/icons8-pause-2d-48.png) / [128](../128x128/icons8-pause-2d-128.png) / [256](../256x256/icons8-pause-2d-256.png) / [src50](../50x50/icons8-pause-2d-50.png) / [src100](../100x100/icons8-pause-2d-100.png) / [.ico](../ico/icons8-pause-2d.ico) |
 | ![playlist](../32x32/icons8-playlist-3d-32.png) | `playlist` | 3d-fluency | [16](../16x16/icons8-playlist-3d-16.png) / [32](../32x32/icons8-playlist-3d-32.png) / [48](../48x48/icons8-playlist-3d-48.png) / [128](../128x128/icons8-playlist-3d-128.png) / [256](../256x256/icons8-playlist-3d-256.png) / [src50](../50x50/icons8-playlist-3d-50.png) / [src100](../100x100/icons8-playlist-3d-100.png) / [.ico](../ico/icons8-playlist-3d.ico) |
 | ![process](../32x32/icons8-process-3d-32.png) | `process` | 3d-fluency | [16](../16x16/icons8-process-3d-16.png) / [32](../32x32/icons8-process-3d-32.png) / [48](../48x48/icons8-process-3d-48.png) / [128](../128x128/icons8-process-3d-128.png) / [256](../256x256/icons8-process-3d-256.png) / [src50](../50x50/icons8-process-3d-50.png) / [src100](../100x100/icons8-process-3d-100.png) / [.ico](../ico/icons8-process-3d.ico) |

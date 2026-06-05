@@ -1,9 +1,9 @@
 # Emojis / Expressions
 
-1358 icons
+1365 icons
 
 
-Large category (1358 icons). Listing names only — browse via file browser:
+Large category (1365 icons). Listing names only — browse via file browser:
 
 - `1st-place-medal`
 - `2nd-place-medal`
@@ -1261,6 +1261,7 @@ Large category (1358 icons). Listing names only — browse via file browser:
 - `chicken`
 - `christmas-star`
 - `cloud`
+- `cloud`
 - `clown`
 - `cold-face`
 - `confetti`
@@ -1301,12 +1302,14 @@ Large category (1358 icons). Listing names only — browse via file browser:
 - `koala`
 - `laughing`
 - `lightning-bolt`
+- `lightning-bolt`
 - `lion`
 - `llama`
 - `lobster`
 - `maple-leaf`
 - `monkey-face`
 - `moon`
+- `mouse`
 - `mouse`
 - `mushroom`
 - `nerd`
@@ -1327,12 +1330,15 @@ Large category (1358 icons). Listing names only — browse via file browser:
 - `pray`
 - `rabbit`
 - `rainbow`
+- `rainbow`
 - `red-heart`
+- `robot`
 - `robot`
 - `rose`
 - `sad`
 - `see-no-evil-monkey`
 - `sheep`
+- `skull`
 - `skull`
 - `sleeping`
 - `smiling`
@@ -1354,6 +1360,7 @@ Large category (1358 icons). Listing names only — browse via file browser:
 - `tomato`
 - `tornado`
 - `turtle`
+- `umbrella`
 - `umbrella`
 - `unicorn`
 - `watermelon`
